@@ -1,3 +1,4 @@
+## docker run -p 5023:5023 -p 8050:8050 -p 8051:8051 scrapinghub/splash
 ## scrapy shell 'http://localhost:8050/render.html?url=https://aws.amazon.com/ec2/pricing/on-demand/&timeout=10&wait=0.5'
 
 # Yields JSON for one of the amazon pricing webpages
