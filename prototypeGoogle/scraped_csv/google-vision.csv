@@ -1,0 +1,21 @@
+Feature Type,Description
+
+LABEL_DETECTION,Add labels based on image content (see ,)
+TEXT_DETECTION,Perform Optical Character Recognition (OCR) on text within the image
+SAFE_SEARCH_DETECTION,Determine image safe search properties on the image
+FACE_DETECTION,Detect faces within the image (see ,)
+LANDMARK_DETECTION,Detect geographic landmarks within the image
+LOGO_DETECTION,Detect company logos within the image
+IMAGE_PROPERTIES,"Compute a set of properties about the image (such as the image's
+  dominant colors)"
+""
+Feature,1 - 1000 units/month,"1001- 1,000,000 units/month","1,000,001 to 5,000,000 units/month","5,000,001 - 20,000,000 units/month"
+
+Label Detection,Free,$5.00,$4.00,$2.00
+OCR,Free,$2.50,$1.50,$0.60
+Explicit Content Detection,Free,$2.50,$1.50,$0.60
+Facial Detection,Free,$2.50,$1.50,$0.60
+Landmark Detection,Free,$2.50,$1.50,$0.60
+Logo Detection,Free,$2.50,$1.50,$0.60
+Image Properties,Free,$2.50,$1.50,$0.60
+""

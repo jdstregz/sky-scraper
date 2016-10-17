@@ -1,0 +1,17 @@
+Cost per node per hour,Minimum number of nodes per cluster
+
+$0.65,3
+"Each node will deliver up to 10,000 QPS and 10 MB/s of data transfer."
+""
+SSD storage (GB/mo),HDD storage (GB/mo)
+
+$0.17,$0.026
+"You are billed only for the storage you use, including overhead for both indexing and Cloud Bigtable's internal representation on disk."
+""
+
+Ingress,Free
+Egress to the same zone,Free
+Egress between zones in the same region,Free
+Egress between regions within the US (per GB),$0.01
+Inter-continental egress,At Internet egress rate
+""

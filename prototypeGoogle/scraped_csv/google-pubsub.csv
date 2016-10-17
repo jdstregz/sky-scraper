@@ -1,0 +1,23 @@
+Usage Per Month,Price/Million
+
+First 250M Operations,$0.40
+Next 500M Operations,$0.20
+"Next 1,000M Operations",$0.10
+"Beyond 1,750M Operations",$0.05
+""
+Storage,GB-month
+
+Subscription backlogs,$0.026 (GB-month)
+""
+Example Usage,Cost
+
+0-250M,$100
+250-750M,$100
+"750-1,750M",$100
+"1,750-4,000M",$112.50
+""
+Example Usage,Cost
+
+0-1000 GB,$120
+1000-1500 GB,$55
+""
