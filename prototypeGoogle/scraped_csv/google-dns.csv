@@ -1,0 +1,28 @@
+Metric,Price
+
+Queries: 0-1 billion,"
+        $0.40 per million queries per month.
+      "
+Queries: over 1 billion,"
+        $0.20 per million queries per month.
+      "
+Managed Zones,: 0-25,"
+        $0.20 per managed zone per month.
+      "
+Managed Zones,: 26-10000,"
+        $0.10 per managed zone per month for each additional zone after 25.
+      "
+Managed Zones,: over 10000,"
+          $0.03 per managed zone per month for each additional zone over 10000.
+      "
+""
+Usages,Standard Website,Enterprise,Web Virtual Hosting Provider
+
+5,200,"100,000"
+5 * $0.20 = $1,25 * $0.20 = $5,"
+    175 * $0.10 = $17.50","
+    "
+"10,000,000","50,000,000","100,000,000"
+10 * $0.40 = $4,50 * $0.40 = $20,100 * $0.40 = $40
+$5/month,$42.50/month,$3742.50/month
+""

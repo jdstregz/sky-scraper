@@ -1,0 +1,38 @@
+Resource,Unit,Unit cost (in US $)
+
+Standard Runtime Instances,Instance hours,$0.05
+Outgoing Network Traffic,Gigabytes,$0.12
+Incoming Network Traffic,Gigabytes,Free
+Datastore Storage ,Gigabytes per month,$0.18
+"Blobstore, Logs, and Task Queue Stored Data",Gigabytes per month,$0.026
+Dedicated Memcache,Gigabytes per hour,$0.06
+Logs API,Gigabytes,$0.12
+SSL Virtual IPs, (VIPs),Virtual IP per month,$39.00
+"Sending Email, Shared Memcache, Cron, APIs (URLFetch, Task Queues, Image, Sockets, Files, Users, and Channel)",No Additional Charge
+""
+Resource,Free Quota per day,Pricing beyond the free quota
+
+Stored data,1 GB,$0.18 / GB / month
+Entity Reads,"50,000","$0.06 per 100,000 entities"
+Entity Writes,"20,000","$0.18 per 100,000 entities"
+Entity Deletes,"20,000","$0.02 per 100,000 entities"
+Small Operations,Unlimited. Includes calls to allocate Cloud Datastore IDs or keys-only queries.,Not applicable.
+""
+Resource,Cost
+
+Total Storage (Documents and Indexes),$0.18 per GB per month
+Queries,$0.50 per 10K queries
+Indexing Searchable Documents,$2.00 per GB
+""
+Instance Class,Cost per Hour per Instance
+
+B1,$0.05
+B2,$0.10
+B4,$0.20
+B4_1G,$0.30
+B8,$0.40
+F1,$0.05
+F2,$0.10
+F4,$0.20
+F4_1G,$0.30
+""
