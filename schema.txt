@@ -1,0 +1,205 @@
+for google VMs
+
+CREATE TABLE csp_details.gcp_compute_pricing
+
+(
+
+  id bigserial NOT NULL,
+
+  instance_type character varying(255),
+
+  hourly_rate_full_lowest_price_with_full_sustained_usage real,
+
+  hourly_rate_typical_price real,
+
+  hourly_rate_full_price_without_sustained_usage real,
+
+  hourly_rate_preemptible_price_per_hour real,
+
+  region character varying(255),
+
+  platform character varying(255),
+
+  last_updated_timestamp timestamp without time zone DEFAULT now(),
+
+  CONSTRAINT gcp_compute_pricing_pkey PRIMARY KEY (id)
+
+)
+
+Azure VM pricing
+
+CREATE TABLE azure_vm_pricing_v2
+
+(
+
+  id bigint NOT NULL DEFAULT nextval('azure_vm_pricing_v3_id_seq'::regclass),
+
+  instance_type character varying(255),
+
+  hourly_rate real,
+
+  region character varying(255),
+
+  platform character varying(255),
+
+  region_v2 character varying(1024),
+
+  customer_id integer,
+
+  CONSTRAINT azure_vm_pricing_v3_pkey PRIMARY KEY (id)
+
+)
+
+Azure storage
+
+CREATE TABLE azure_storage_pricing_v2
+
+(
+
+  id bigserial NOT NULL,
+
+  capacity_limit real,
+
+  cost_per_gb real,
+
+  region character varying(1024),
+
+  region_v2 character varying(1024),
+
+  storage_type character varying(1024),
+
+  redunancy_type character varying(1024),
+
+  customer_id integer,
+
+  CONSTRAINT azure_storage_pricing_v2_pkey PRIMARY KEY (id)
+
+)
+
+Azure storage
+
+CREATE TABLE azure_network_pricing_v2
+
+(
+
+  id bigserial NOT NULL,
+
+  capacity_limit real,
+
+  cost_per_gb real,
+
+  region character varying(1024),
+
+  region_v2 character varying(1024),
+
+  customer_id integer,
+
+  CONSTRAINT azure_network_pricing_v2_pkey PRIMARY KEY (id)
+
+)
+
+aws storage
+
+CREATE TABLE ebs_pricing
+
+(
+
+  id bigserial NOT NULL,
+
+  region character varying(32),
+
+  type character varying(1024),
+
+  price real,
+
+  unittype character varying(32),
+
+  lastupdated timestamp without time zone,
+
+  CONSTRAINT ebs_pricing_pkey PRIMARY KEY (id)
+
+)
+
+aws on-demand
+
+CREATE TABLE ondemand_rate_plan_v4
+
+(
+
+  type character varying NOT NULL,
+
+  region character varying NOT NULL,
+
+  platform character varying NOT NULL,
+
+  rate double precision,
+
+  service character varying NOT NULL,
+
+  lastupdated timestamp without time zone DEFAULT now(),
+
+  CONSTRAINT ondemand_rate_plan_v4_pkey PRIMARY KEY (type, region, platform, service)
+
+)
+
+aws reserved
+
+CREATE TABLE reserved_rate_plan_v3
+
+(
+
+  type character varying NOT NULL,
+
+  region character varying NOT NULL,
+
+  platform character varying NOT NULL,
+
+  utilization character varying NOT NULL,
+
+  term character varying NOT NULL,
+
+  rate double precision,
+
+  upfront double precision,
+
+  service character varying NOT NULL,
+
+  lastupdated timestamp without time zone,
+
+  CONSTRAINT reserved_rate_plan_v3_pkey PRIMARY KEY (type, region, platform, utilization, term, service)
+
+)
+
+aws spot rates
+
+CREATE TABLE spot_rate_plan_v2
+
+(
+
+  type character varying(32) NOT NULL,
+
+  region character varying(32) NOT NULL,
+
+  platform character varying(16) NOT NULL,
+
+  rate real NOT NULL,
+
+  service character varying(32),
+
+  lastupdated timestamp without time zone DEFAULT now(),
+
+  CONSTRAINT spot_rate_plan_v2_pkey PRIMARY KEY (type, region, platform)
+
+)
+
+
+What is:
+	service in aws computes
+		nano in t2.nano?
+		micro in t2.micro?
+
+	utilitzation in aws reserved
+		upfront?
+		partial upfront?
+
+	unittype in aws abc
