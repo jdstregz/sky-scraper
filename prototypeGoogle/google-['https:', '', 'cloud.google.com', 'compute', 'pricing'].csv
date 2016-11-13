@@ -1,0 +1,1485 @@
+Machine type,Virtual CPUs,Memory,Price (USD),Preemptible price (USD)
+
+<td>n1-standard-1</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""1"" us-monthly=""1"" eu-hourly=""1"" eu-monthly=""1"" tw-hourly=""1"" tw-monthly=""1"" ja-hourly=""1"" ja-monthly=""1"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""3.75GB"" us-monthly=""3.75GB"" eu-hourly=""3.75GB"" eu-monthly=""3.75GB"" tw-hourly=""3.75GB"" tw-monthly=""3.75GB"" ja-hourly=""3.75GB"" ja-monthly=""3.75GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.050"" us-monthly=""$25.55"" eu-hourly=""$0.055"" eu-monthly=""$28.11"" tw-hourly=""$0.055"" tw-monthly=""$28.11"" ja-hourly=""$0.0663"" ja-monthly=""$33.88"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.010"" us-monthly=""$7.30"" eu-hourly=""$0.011"" eu-monthly=""$8.03"" tw-hourly=""$0.011"" tw-monthly=""$8.03"" ja-hourly=""$0.01325"" ja-monthly=""$9.67"">
+      </td>"
+<td>n1-standard-2</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""2"" us-monthly=""2"" eu-hourly=""2"" eu-monthly=""2"" tw-hourly=""2"" tw-monthly=""2"" ja-hourly=""2"" ja-monthly=""2"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""7.5GB"" us-monthly=""7.5GB"" eu-hourly=""7.5GB"" eu-monthly=""7.5GB"" tw-hourly=""7.5GB"" tw-monthly=""7.5GB"" ja-hourly=""7.5GB"" ja-monthly=""7.5GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.100"" us-monthly=""$51.10"" eu-hourly=""$0.110"" eu-monthly=""$56.22"" tw-hourly=""$0.110"" tw-monthly=""$56.22"" ja-hourly=""$0.1326"" ja-monthly=""$67.76"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.020"" us-monthly=""$14.60"" eu-hourly=""$0.022"" eu-monthly=""$16.06"" tw-hourly=""$0.022"" tw-monthly=""$16.06"" ja-hourly=""$0.0265"" ja-monthly=""$19.34"">
+      </td>"
+<td>n1-standard-4</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""4"" us-monthly=""4"" eu-hourly=""4"" eu-monthly=""4"" tw-hourly=""4"" tw-monthly=""4"" ja-hourly=""4"" ja-monthly=""4"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""15GB"" us-monthly=""15GB"" eu-hourly=""15GB"" eu-monthly=""15GB"" tw-hourly=""15GB"" tw-monthly=""15GB"" ja-hourly=""15GB"" ja-monthly=""15GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.200"" us-monthly=""$102.20"" eu-hourly=""$0.220"" eu-monthly=""$112.44"" tw-hourly=""$0.220"" tw-monthly=""$112.44"" ja-hourly=""$0.2652"" ja-monthly=""$135.52"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.040"" us-monthly=""$29.20"" eu-hourly=""$0.044"" eu-monthly=""$32.12"" tw-hourly=""$0.044"" tw-monthly=""$32.12"" ja-hourly=""$0.0530"" ja-monthly=""$38.68"">
+      </td>"
+<td>n1-standard-8</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""8"" us-monthly=""8"" eu-hourly=""8"" eu-monthly=""8"" tw-hourly=""8"" tw-monthly=""8"" ja-hourly=""8"" ja-monthly=""8"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""30GB"" us-monthly=""30GB"" eu-hourly=""30GB"" eu-monthly=""30GB"" tw-hourly=""30GB"" tw-monthly=""30GB"" ja-hourly=""30GB"" ja-monthly=""30GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.400"" us-monthly=""$204.40"" eu-hourly=""$0.440"" eu-monthly=""$224.88"" tw-hourly=""$0.440"" tw-monthly=""$224.88"" ja-hourly=""$0.5304"" ja-monthly=""$271.04"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.080"" us-monthly=""$58.40"" eu-hourly=""$0.088"" eu-monthly=""$64.24"" tw-hourly=""$0.088"" tw-monthly=""$64.24"" ja-hourly=""$0.1060"" ja-monthly=""$77.36"">
+      </td>"
+<td>n1-standard-16</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""16"" us-monthly=""16"" eu-hourly=""16"" eu-monthly=""16"" tw-hourly=""16"" tw-monthly=""16"" ja-hourly=""16"" ja-monthly=""16"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""60GB"" us-monthly=""60GB"" eu-hourly=""60GB"" eu-monthly=""60GB"" tw-hourly=""60GB"" tw-monthly=""60GB"" ja-hourly=""60GB"" ja-monthly=""60GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.800"" us-monthly=""$408.80"" eu-hourly=""$0.880"" eu-monthly=""$449.76"" tw-hourly=""$0.880"" tw-monthly=""$449.76"" ja-hourly=""$1.0608"" ja-monthly=""$542.08"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.160"" us-monthly=""$116.80"" eu-hourly=""$0.176"" eu-monthly=""$128.48"" tw-hourly=""$0.176"" tw-monthly=""$128.48"" ja-hourly=""$0.2120"" ja-monthly=""$154.72"">
+      </td>"
+"<td>n1-standard-32<sup><a href=""#machine-note1"">1</a></sup></td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""32"" us-monthly=""32"" eu-hourly=""32"" eu-monthly=""32"" tw-hourly=""32"" tw-monthly=""32"" ja-hourly=""32"" ja-monthly=""32"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""120GB"" us-monthly=""120GB"" eu-hourly=""120GB"" eu-monthly=""120GB"" tw-hourly=""120GB"" tw-monthly=""120GB"" ja-hourly=""120GB"" ja-monthly=""120GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$1.600"" us-monthly=""$817.60"" eu-hourly=""$1.760"" eu-monthly=""$899.52"" tw-hourly=""$1.760"" tw-monthly=""$899.52"" ja-hourly=""$2.1216"" ja-monthly=""$1084.16"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.320"" us-monthly=""$233.60"" eu-hourly=""$0.352"" eu-monthly=""$256.96"" tw-hourly=""$0.352"" tw-monthly=""$256.96"" ja-hourly=""$0.4240"" ja-monthly=""$309.44"">
+      </td>"
+"<td><a href=""#custommachinetypepricing"">Custom machine type</a></td>","<td colspan=""7"">
+         <p>If your ideal machine shape is in between two predefined types, using a
+          custom machine type could save you as much as 40%. Read more about
+           <a href=""#custommachinetypepricing"">Custom Machine Types</a>.</p>
+      </td>"
+
+<td>f1-micro</td>,<td>0.2</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""0.60GB"" us-monthly=""0.60GB"" eu-hourly=""0.60GB"" eu-monthly=""0.60GB"" tw-hourly=""0.60GB"" tw-monthly=""0.60GB"" ja-hourly=""0.60GB"" ja-monthly=""0.60GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.008"" us-monthly=""$4.09"" eu-hourly=""$0.009"" eu-monthly=""$4.60"" tw-hourly=""$0.009"" tw-monthly=""$4.60"" ja-hourly=""$0.0100"" ja-monthly=""$5.11"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.0035"" us-monthly=""$2.56"" eu-hourly=""$0.0039"" eu-monthly=""$2.85"" tw-hourly=""$0.0039"" tw-monthly=""$2.85"" ja-hourly=""$0.0050"" ja-monthly=""$3.65"">
+      </td>"
+<td>g1-small</td>,<td>0.5</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""1.70GB"" us-monthly=""1.70GB"" eu-hourly=""1.70GB"" eu-monthly=""1.70GB"" tw-hourly=""1.70GB"" tw-monthly=""1.70GB"" ja-hourly=""1.70GB"" ja-monthly=""1.70GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.027"" us-monthly=""$13.80"" eu-hourly=""$0.030"" eu-monthly=""$15.33"" tw-hourly=""$0.030"" tw-monthly=""$15.33"" ja-hourly=""$0.0350"" ja-monthly=""$17.89"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.0070"" us-monthly=""$5.12"" eu-hourly=""$0.0077"" eu-monthly=""$5.62"" tw-hourly=""$0.0077"" tw-monthly=""$5.62"" ja-hourly=""$0.0100"" ja-monthly=""$7.30"">
+      </td>"
+
+<td>n1-highmem-2</td>,<td>2</td>,<td>13GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.126"" us-monthly=""$64.39"" eu-hourly=""$0.139"" eu-monthly=""$71.03"" tw-hourly=""$0.139"" tw-monthly=""$71.03"" ja-hourly=""$0.1649"" ja-monthly=""$84.26"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.025"" us-monthly=""$18.25"" eu-hourly=""$0.0275"" eu-monthly=""$20.08"" tw-hourly=""$0.0275"" tw-monthly=""$20.08"" ja-hourly=""$0.0330"" ja-monthly=""$24.09"">
+      </td>"
+<td>n1-highmem-4</td>,<td>4</td>,<td>26GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.252"" us-monthly=""$128.78"" eu-hourly=""$0.278"" eu-monthly=""$142.06"" tw-hourly=""$0.278"" tw-monthly=""$142.06"" ja-hourly=""$0.3298"" ja-monthly=""$168.52"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.050"" us-monthly=""$36.50"" eu-hourly=""$0.0550"" eu-monthly=""$40.16"" tw-hourly=""$0.0550"" tw-monthly=""$40.16"" ja-hourly=""$0.0660"" ja-monthly=""$48.18"">
+      </td>"
+<td>n1-highmem-8</td>,<td>8</td>,<td>52GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.504"" us-monthly=""$257.56"" eu-hourly=""$0.556"" eu-monthly=""$284.12"" tw-hourly=""$0.556"" tw-monthly=""$284.12"" ja-hourly=""$0.6596"" ja-monthly=""$337.04"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.100"" us-monthly=""$73.00"" eu-hourly=""$0.1100"" eu-monthly=""$80.32"" tw-hourly=""$0.1100"" tw-monthly=""$80.32"" ja-hourly=""$0.1320"" ja-monthly=""$96.36"">
+      </td>"
+<td>n1-highmem-16</td>,<td>16</td>,<td>104GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$1.008"" us-monthly=""$515.12"" eu-hourly=""$1.112"" eu-monthly=""$568.24"" tw-hourly=""$1.112"" tw-monthly=""$568.24"" ja-hourly=""$1.3192"" ja-monthly=""$674.08"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.200"" us-monthly=""$146.00"" eu-hourly=""$0.2200"" eu-monthly=""$160.64"" tw-hourly=""$0.2200"" tw-monthly=""$160.64"" ja-hourly=""$0.2640"" ja-monthly=""$192.72"">
+      </td>"
+"<td>
+        n1-highmem-32<sup><a href=""#machine-note1"">1</a></sup>
+      </td>",<td>32</td>,<td>208GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$2.016"" us-monthly=""$1030.24"" eu-hourly=""$2.224"" eu-monthly=""$1136.48"" tw-hourly=""$2.224"" tw-monthly=""$1136.48"" ja-hourly=""$2.6384"" ja-monthly=""$1348.16"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.400"" us-monthly=""$292.00"" eu-hourly=""$0.4400"" eu-monthly=""$321.28"" tw-hourly=""$0.4400"" tw-monthly=""$321.28"" ja-hourly=""$0.5280"" ja-monthly=""$385.44"">
+      </td>"
+"<td><a href=""#custommachinetypepricing"">Custom machine type</a></td>","<td colspan=""7"">
+         <p>If your ideal machine shape is in between two predefined types, using a
+          custom machine type could save you as much as 40%. Read more about
+           <a href=""#custommachinetypepricing"">Custom Machine Types</a>.</p>
+      </td>"
+
+
+<td>n1-highcpu-2</td>,<td>2</td>,<td>1.80GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.076"" us-monthly=""$38.84"" eu-hourly=""$0.084"" eu-monthly=""$42.92"" tw-hourly=""$0.084"" tw-monthly=""$42.92"" ja-hourly=""$0.0990"" ja-monthly=""$50.59"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.015"" us-monthly=""$10.95"" eu-hourly=""$0.0165"" eu-monthly=""$12.05"" tw-hourly=""$0.0165"" tw-monthly=""$12.05"" ja-hourly=""$0.0198"" ja-monthly=""$14.45"">
+      </td>"
+<td>n1-highcpu-4</td>,<td>4</td>,<td>3.60GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.152"" us-monthly=""$77.68"" eu-hourly=""$0.168"" eu-monthly=""$85.84"" tw-hourly=""$0.168"" tw-monthly=""$85.84"" ja-hourly=""$0.1980"" ja-monthly=""$101.18"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.030"" us-monthly=""$21.90"" eu-hourly=""$0.0330"" eu-monthly=""$24.10"" tw-hourly=""$0.0330"" tw-monthly=""$24.10"" ja-hourly=""$0.0396"" ja-monthly=""$28.90"">
+      </td>"
+<td>n1-highcpu-8</td>,<td>8</td>,<td>7.20GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.304"" us-monthly=""$155.36"" eu-hourly=""$0.336"" eu-monthly=""$171.68"" tw-hourly=""$0.336"" tw-monthly=""$171.68"" ja-hourly=""$0.3960"" ja-monthly=""$202.36"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.060"" us-monthly=""$43.80"" eu-hourly=""$0.0660"" eu-monthly=""$48.20"" tw-hourly=""$0.0660"" tw-monthly=""$48.20"" ja-hourly=""$0.0792"" ja-monthly=""$57.80"">
+      </td>"
+<td>n1-highcpu-16</td>,<td>16</td>,<td>14.40GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.608"" us-monthly=""$310.72"" eu-hourly=""$0.672"" eu-monthly=""$343.36"" tw-hourly=""$0.672"" tw-monthly=""$343.36"" ja-hourly=""$0.7920"" ja-monthly=""$404.72"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.120"" us-monthly=""$87.60"" eu-hourly=""$0.1320"" eu-monthly=""$96.40"" tw-hourly=""$0.1320"" tw-monthly=""$96.40"" ja-hourly=""$0.1584"" ja-monthly=""$115.60"">
+      </td>"
+"<td>n1-highcpu-32<sup><a href=""#machine-note1"">1</a></sup></td>",<td>32</td>,<td>28.80GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$1.216"" us-monthly=""$621.44"" eu-hourly=""$1.344"" eu-monthly=""$686.72"" tw-hourly=""$1.344"" tw-monthly=""$686.72"" ja-hourly=""$1.5840"" ja-monthly=""$809.44"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.240"" us-monthly=""$175.20"" eu-hourly=""$0.2640"" eu-monthly=""$192.80"" tw-hourly=""$0.2640"" tw-monthly=""$192.80"" ja-hourly=""$0.3168"" ja-monthly=""$231.20"">
+      </td>"
+"<td><a href=""#custommachinetypepricing"">Custom machine type</a></td>","<td colspan=""7"">
+         <p>If your ideal machine shape is in between two predefined types, using a
+          custom machine type could save you as much as 40%. Read more about
+           <a href=""#custommachinetypepricing"">Custom Machine Types</a>.</p>
+      </td>"
+
+<td>vCPU</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.03492 / vCPU"" us-monthly=""$17.84 / vCPU"" eu-hourly=""$0.03841 / vCPU"" eu-monthly=""$19.63 / vCPU"" tw-hourly=""$0.03841 / vCPU"" tw-monthly=""$19.63 / vCPU"" ja-hourly=""$0.04415 / vCPU"" ja-monthly=""$22.56 / vCPU"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.00698 / vCPU"" us-monthly=""$5.10 / vCPU"" eu-hourly=""$0.00768 / vCPU"" eu-monthly=""$5.61 / vCPU"" tw-hourly=""$0.00768 / vCPU"" tw-monthly=""$5.61 / vCPU"" ja-hourly=""$0.00883 / vCPU"" ja-monthly=""$6.45 / vCPU"">
+      </td>"
+<td>Memory</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.00468 / GB"" us-monthly=""$2.39 / GB"" eu-hourly=""$0.00515 / GB"" eu-monthly=""$2.63 / GB"" tw-hourly=""$0.00515 / GB"" tw-monthly=""$2.63 / GB"" ja-hourly=""$0.00589 / GB"" ja-monthly=""$3.01 / GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.00094 / GB"" us-monthly=""$0.69 / GB"" eu-hourly=""$0.00103 / GB"" eu-monthly=""$0.75 / GB"" tw-hourly=""$0.00103 / GB"" tw-monthly=""$0.75 / GB"" ja-hourly=""$0.001178 / GB"" ja-monthly=""$0.86 / GB"">
+      </td>"
+
+<td>0%-25%</td>,<td>100% of base rate</td>,<td>$0.050</td>
+<td>25%-50%</td>,<td>80% of base rate</td>,<td>$0.040</td>
+<td>50%-75%</td>,<td>60% of base rate</td>,<td>$0.030</td>
+<td>75%-100%</td>,<td>40% of base rate</td>,<td>$0.020</td>
+
+<td>First 0-25% of usage</td>,<td>100%</td>,<td>$0.050 (base rate)</td>,"<td>
+        <ul>
+          <li>30 days x .25 = 7.5 days</li>
+          <li>7.5 days x 24 hours = 180 hours</li>
+          <li>180 hours x $0.050 USD/hour = $9.00</li>
+        </ul>
+      </td>"
+<td>Usage between 25%-50% of the month</td>,<td>80%</td>,<td>$0.040</td>,"<td>
+        <ul>
+          <li>180 hours x $0.040 USD/hour = $7.20</li>
+        </ul>
+      </td>"
+<td>Usage between 50%-75% of the month</td>,<td>60%</td>,<td>$0.030</td>,"<td>
+        <ul>
+          <li>180 hours x $0.030 USD/hour = $5.40</li>
+        </ul>
+      </td>"
+
+<td>Mar 1 - Mar 31</td>,"<td>
+        Google Compute Standard Intel N1 1 VCPU running in NA: 13567 Minutes
+        (Project:1234567895)
+      </td>",<td>$11.30</td>,<td> </td>
+<td>Mar 1 - Mar 31</td>,"<td>
+        Google Compute Standard Intel N1 1 VCPU running in NA Sustained Use
+        Discount: 3381 Minutes (Project:1234567895)
+      </td>",<td></td>,<td>$2.81</td>
+
+<td>Ingress</td>,<td>No charge</td>
+<td>Egress<sup>*</sup> to the same zone</td>,<td>No charge</td>
+"<td>Egress to a different Google Cloud Platform service within the same
+      region</td>",<td>No charge</td>
+"<td>Egress to Google products (such as YouTube, Maps, Drive)</td>",<td>No charge<sup>**</sup></td>
+<td>Egress<sup>*</sup> between zones in the same region (per GB)</td>,<td>$0.01</td>
+<td>Egress between regions within the US (per GB)</td>,<td>$0.01</td>
+<td>Inter-continental Egress</td>,"<td>At <a href=""#internet_egress"">Internet egress rates</a></td>"
+
+<td>0-1 TB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'hourly'"" us-hourly=""$0.12"" eu-hourly=""$0.12"" tw-hourly=""$0.12"" ja-hourly=""$0.14""></td>",<td>$0.23</td>,<td>$0.19</td>,<td>Free</td>
+<td>1-10 TB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'hourly'"" us-hourly=""$0.11"" eu-hourly=""$0.11"" tw-hourly=""$0.11"" ja-hourly=""$0.14""></td>",<td>$0.22</td>,<td>$0.18</td>,<td>Free</td>
+<td>10+ TB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'hourly'"" us-hourly=""$0.08"" eu-hourly=""$0.08"" tw-hourly=""$0.08"" ja-hourly=""$0.12""></td>",<td>$0.20</td>,<td>$0.15</td>,<td>Free</td>
+
+<td>First 5 forwarding rules</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'hourly'"" us-hourly=""$0.025"" eu-hourly=""$0.025"" tw-hourly=""$0.025"" ja-hourly=""$0.038""></td>",<td>Per Hour</td>
+<td>Data processed</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'hourly'"" us-hourly=""$0.008"" eu-hourly=""$0.008"" tw-hourly=""$0.008"" ja-hourly=""$0.012""></td>",<td>Per GB</td>
+
+<td>Per tunnel (per hour)</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'hourly'"" us-hourly=""$0.050"" eu-hourly=""$0.050"" tw-hourly=""$0.050"" ja-hourly=""$0.075""></td>"
+<td>Traffic through tunnels</td>,"<td>Charged the same as if it wasn't in a VPN tunnel.
+          See <a href=""https://cloud.google.com/compute/pricing#general"">General network pricing</a>.
+        </td>"
+<td>Public IP for VPN Gateway</td>,"<td>Charged according to
+        <a href=""https://cloud.google.com/compute/pricing#ipaddress"">IP address pricing</a>.
+        </td>"
+
+<td>Standard provisioned space</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'monthly'"" us-monthly=""$0.040"" eu-monthly=""$0.040"" tw-monthly=""$0.040"" ja-monthly=""$0.052""></td>"
+<td>SSD provisioned space</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'monthly'"" us-monthly=""$0.170"" eu-monthly=""$0.170"" tw-monthly=""$0.170"" ja-monthly=""$0.221""></td>"
+<td>Snapshot storage</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'monthly'"" us-monthly=""$0.026"" eu-monthly=""$0.026"" tw-monthly=""$0.026"" ja-monthly=""$0.034""></td>"
+"<td><a href=""https://cloud.google.com/compute/docs/disks/#pdspecs"">IO operations</a></td>",<td>No additional charge</td>
+
+<td>Image Storage (per GB / month)</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'monthly'"" us-monthly=""$0.085"" eu-monthly=""$0.085"" tw-monthly=""$0.085"" ja-monthly=""$0.111""></td>"
+
+<td>Static IP address (assigned but unused)</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'hour'"" us-hour=""$0.010"" eu-hour=""$0.010"" tw-hour=""$0.010"" ja-hour=""$0.015""></td>"
+<td>Static IP address (assigned and in use)</td>,<td>No charge</td>
+<td>Ephemeral IP address (attached to instance or forwarding rule)</td>,<td>No charge</td>
+Machine type,Virtual CPUs,Memory,Price (USD),Preemptible price (USD)
+
+<td>n1-standard-1</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""1"" us-monthly=""1"" eu-hourly=""1"" eu-monthly=""1"" tw-hourly=""1"" tw-monthly=""1"" ja-hourly=""1"" ja-monthly=""1"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""3.75GB"" us-monthly=""3.75GB"" eu-hourly=""3.75GB"" eu-monthly=""3.75GB"" tw-hourly=""3.75GB"" tw-monthly=""3.75GB"" ja-hourly=""3.75GB"" ja-monthly=""3.75GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.050"" us-monthly=""$25.55"" eu-hourly=""$0.055"" eu-monthly=""$28.11"" tw-hourly=""$0.055"" tw-monthly=""$28.11"" ja-hourly=""$0.0663"" ja-monthly=""$33.88"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.010"" us-monthly=""$7.30"" eu-hourly=""$0.011"" eu-monthly=""$8.03"" tw-hourly=""$0.011"" tw-monthly=""$8.03"" ja-hourly=""$0.01325"" ja-monthly=""$9.67"">
+      </td>"
+<td>n1-standard-2</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""2"" us-monthly=""2"" eu-hourly=""2"" eu-monthly=""2"" tw-hourly=""2"" tw-monthly=""2"" ja-hourly=""2"" ja-monthly=""2"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""7.5GB"" us-monthly=""7.5GB"" eu-hourly=""7.5GB"" eu-monthly=""7.5GB"" tw-hourly=""7.5GB"" tw-monthly=""7.5GB"" ja-hourly=""7.5GB"" ja-monthly=""7.5GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.100"" us-monthly=""$51.10"" eu-hourly=""$0.110"" eu-monthly=""$56.22"" tw-hourly=""$0.110"" tw-monthly=""$56.22"" ja-hourly=""$0.1326"" ja-monthly=""$67.76"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.020"" us-monthly=""$14.60"" eu-hourly=""$0.022"" eu-monthly=""$16.06"" tw-hourly=""$0.022"" tw-monthly=""$16.06"" ja-hourly=""$0.0265"" ja-monthly=""$19.34"">
+      </td>"
+<td>n1-standard-4</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""4"" us-monthly=""4"" eu-hourly=""4"" eu-monthly=""4"" tw-hourly=""4"" tw-monthly=""4"" ja-hourly=""4"" ja-monthly=""4"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""15GB"" us-monthly=""15GB"" eu-hourly=""15GB"" eu-monthly=""15GB"" tw-hourly=""15GB"" tw-monthly=""15GB"" ja-hourly=""15GB"" ja-monthly=""15GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.200"" us-monthly=""$102.20"" eu-hourly=""$0.220"" eu-monthly=""$112.44"" tw-hourly=""$0.220"" tw-monthly=""$112.44"" ja-hourly=""$0.2652"" ja-monthly=""$135.52"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.040"" us-monthly=""$29.20"" eu-hourly=""$0.044"" eu-monthly=""$32.12"" tw-hourly=""$0.044"" tw-monthly=""$32.12"" ja-hourly=""$0.0530"" ja-monthly=""$38.68"">
+      </td>"
+<td>n1-standard-8</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""8"" us-monthly=""8"" eu-hourly=""8"" eu-monthly=""8"" tw-hourly=""8"" tw-monthly=""8"" ja-hourly=""8"" ja-monthly=""8"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""30GB"" us-monthly=""30GB"" eu-hourly=""30GB"" eu-monthly=""30GB"" tw-hourly=""30GB"" tw-monthly=""30GB"" ja-hourly=""30GB"" ja-monthly=""30GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.400"" us-monthly=""$204.40"" eu-hourly=""$0.440"" eu-monthly=""$224.88"" tw-hourly=""$0.440"" tw-monthly=""$224.88"" ja-hourly=""$0.5304"" ja-monthly=""$271.04"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.080"" us-monthly=""$58.40"" eu-hourly=""$0.088"" eu-monthly=""$64.24"" tw-hourly=""$0.088"" tw-monthly=""$64.24"" ja-hourly=""$0.1060"" ja-monthly=""$77.36"">
+      </td>"
+<td>n1-standard-16</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""16"" us-monthly=""16"" eu-hourly=""16"" eu-monthly=""16"" tw-hourly=""16"" tw-monthly=""16"" ja-hourly=""16"" ja-monthly=""16"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""60GB"" us-monthly=""60GB"" eu-hourly=""60GB"" eu-monthly=""60GB"" tw-hourly=""60GB"" tw-monthly=""60GB"" ja-hourly=""60GB"" ja-monthly=""60GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.800"" us-monthly=""$408.80"" eu-hourly=""$0.880"" eu-monthly=""$449.76"" tw-hourly=""$0.880"" tw-monthly=""$449.76"" ja-hourly=""$1.0608"" ja-monthly=""$542.08"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.160"" us-monthly=""$116.80"" eu-hourly=""$0.176"" eu-monthly=""$128.48"" tw-hourly=""$0.176"" tw-monthly=""$128.48"" ja-hourly=""$0.2120"" ja-monthly=""$154.72"">
+      </td>"
+"<td>n1-standard-32<sup><a href=""#machine-note1"">1</a></sup></td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""32"" us-monthly=""32"" eu-hourly=""32"" eu-monthly=""32"" tw-hourly=""32"" tw-monthly=""32"" ja-hourly=""32"" ja-monthly=""32"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""120GB"" us-monthly=""120GB"" eu-hourly=""120GB"" eu-monthly=""120GB"" tw-hourly=""120GB"" tw-monthly=""120GB"" ja-hourly=""120GB"" ja-monthly=""120GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$1.600"" us-monthly=""$817.60"" eu-hourly=""$1.760"" eu-monthly=""$899.52"" tw-hourly=""$1.760"" tw-monthly=""$899.52"" ja-hourly=""$2.1216"" ja-monthly=""$1084.16"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.320"" us-monthly=""$233.60"" eu-hourly=""$0.352"" eu-monthly=""$256.96"" tw-hourly=""$0.352"" tw-monthly=""$256.96"" ja-hourly=""$0.4240"" ja-monthly=""$309.44"">
+      </td>"
+"<td><a href=""#custommachinetypepricing"">Custom machine type</a></td>","<td colspan=""7"">
+         <p>If your ideal machine shape is in between two predefined types, using a
+          custom machine type could save you as much as 40%. Read more about
+           <a href=""#custommachinetypepricing"">Custom Machine Types</a>.</p>
+      </td>"
+
+<td>f1-micro</td>,<td>0.2</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""0.60GB"" us-monthly=""0.60GB"" eu-hourly=""0.60GB"" eu-monthly=""0.60GB"" tw-hourly=""0.60GB"" tw-monthly=""0.60GB"" ja-hourly=""0.60GB"" ja-monthly=""0.60GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.008"" us-monthly=""$4.09"" eu-hourly=""$0.009"" eu-monthly=""$4.60"" tw-hourly=""$0.009"" tw-monthly=""$4.60"" ja-hourly=""$0.0100"" ja-monthly=""$5.11"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.0035"" us-monthly=""$2.56"" eu-hourly=""$0.0039"" eu-monthly=""$2.85"" tw-hourly=""$0.0039"" tw-monthly=""$2.85"" ja-hourly=""$0.0050"" ja-monthly=""$3.65"">
+      </td>"
+<td>g1-small</td>,<td>0.5</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""1.70GB"" us-monthly=""1.70GB"" eu-hourly=""1.70GB"" eu-monthly=""1.70GB"" tw-hourly=""1.70GB"" tw-monthly=""1.70GB"" ja-hourly=""1.70GB"" ja-monthly=""1.70GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.027"" us-monthly=""$13.80"" eu-hourly=""$0.030"" eu-monthly=""$15.33"" tw-hourly=""$0.030"" tw-monthly=""$15.33"" ja-hourly=""$0.0350"" ja-monthly=""$17.89"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.0070"" us-monthly=""$5.12"" eu-hourly=""$0.0077"" eu-monthly=""$5.62"" tw-hourly=""$0.0077"" tw-monthly=""$5.62"" ja-hourly=""$0.0100"" ja-monthly=""$7.30"">
+      </td>"
+
+<td>n1-highmem-2</td>,<td>2</td>,<td>13GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.126"" us-monthly=""$64.39"" eu-hourly=""$0.139"" eu-monthly=""$71.03"" tw-hourly=""$0.139"" tw-monthly=""$71.03"" ja-hourly=""$0.1649"" ja-monthly=""$84.26"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.025"" us-monthly=""$18.25"" eu-hourly=""$0.0275"" eu-monthly=""$20.08"" tw-hourly=""$0.0275"" tw-monthly=""$20.08"" ja-hourly=""$0.0330"" ja-monthly=""$24.09"">
+      </td>"
+<td>n1-highmem-4</td>,<td>4</td>,<td>26GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.252"" us-monthly=""$128.78"" eu-hourly=""$0.278"" eu-monthly=""$142.06"" tw-hourly=""$0.278"" tw-monthly=""$142.06"" ja-hourly=""$0.3298"" ja-monthly=""$168.52"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.050"" us-monthly=""$36.50"" eu-hourly=""$0.0550"" eu-monthly=""$40.16"" tw-hourly=""$0.0550"" tw-monthly=""$40.16"" ja-hourly=""$0.0660"" ja-monthly=""$48.18"">
+      </td>"
+<td>n1-highmem-8</td>,<td>8</td>,<td>52GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.504"" us-monthly=""$257.56"" eu-hourly=""$0.556"" eu-monthly=""$284.12"" tw-hourly=""$0.556"" tw-monthly=""$284.12"" ja-hourly=""$0.6596"" ja-monthly=""$337.04"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.100"" us-monthly=""$73.00"" eu-hourly=""$0.1100"" eu-monthly=""$80.32"" tw-hourly=""$0.1100"" tw-monthly=""$80.32"" ja-hourly=""$0.1320"" ja-monthly=""$96.36"">
+      </td>"
+<td>n1-highmem-16</td>,<td>16</td>,<td>104GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$1.008"" us-monthly=""$515.12"" eu-hourly=""$1.112"" eu-monthly=""$568.24"" tw-hourly=""$1.112"" tw-monthly=""$568.24"" ja-hourly=""$1.3192"" ja-monthly=""$674.08"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.200"" us-monthly=""$146.00"" eu-hourly=""$0.2200"" eu-monthly=""$160.64"" tw-hourly=""$0.2200"" tw-monthly=""$160.64"" ja-hourly=""$0.2640"" ja-monthly=""$192.72"">
+      </td>"
+"<td>
+        n1-highmem-32<sup><a href=""#machine-note1"">1</a></sup>
+      </td>",<td>32</td>,<td>208GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$2.016"" us-monthly=""$1030.24"" eu-hourly=""$2.224"" eu-monthly=""$1136.48"" tw-hourly=""$2.224"" tw-monthly=""$1136.48"" ja-hourly=""$2.6384"" ja-monthly=""$1348.16"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.400"" us-monthly=""$292.00"" eu-hourly=""$0.4400"" eu-monthly=""$321.28"" tw-hourly=""$0.4400"" tw-monthly=""$321.28"" ja-hourly=""$0.5280"" ja-monthly=""$385.44"">
+      </td>"
+"<td><a href=""#custommachinetypepricing"">Custom machine type</a></td>","<td colspan=""7"">
+         <p>If your ideal machine shape is in between two predefined types, using a
+          custom machine type could save you as much as 40%. Read more about
+           <a href=""#custommachinetypepricing"">Custom Machine Types</a>.</p>
+      </td>"
+
+
+<td>n1-highcpu-2</td>,<td>2</td>,<td>1.80GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.076"" us-monthly=""$38.84"" eu-hourly=""$0.084"" eu-monthly=""$42.92"" tw-hourly=""$0.084"" tw-monthly=""$42.92"" ja-hourly=""$0.0990"" ja-monthly=""$50.59"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.015"" us-monthly=""$10.95"" eu-hourly=""$0.0165"" eu-monthly=""$12.05"" tw-hourly=""$0.0165"" tw-monthly=""$12.05"" ja-hourly=""$0.0198"" ja-monthly=""$14.45"">
+      </td>"
+<td>n1-highcpu-4</td>,<td>4</td>,<td>3.60GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.152"" us-monthly=""$77.68"" eu-hourly=""$0.168"" eu-monthly=""$85.84"" tw-hourly=""$0.168"" tw-monthly=""$85.84"" ja-hourly=""$0.1980"" ja-monthly=""$101.18"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.030"" us-monthly=""$21.90"" eu-hourly=""$0.0330"" eu-monthly=""$24.10"" tw-hourly=""$0.0330"" tw-monthly=""$24.10"" ja-hourly=""$0.0396"" ja-monthly=""$28.90"">
+      </td>"
+<td>n1-highcpu-8</td>,<td>8</td>,<td>7.20GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.304"" us-monthly=""$155.36"" eu-hourly=""$0.336"" eu-monthly=""$171.68"" tw-hourly=""$0.336"" tw-monthly=""$171.68"" ja-hourly=""$0.3960"" ja-monthly=""$202.36"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.060"" us-monthly=""$43.80"" eu-hourly=""$0.0660"" eu-monthly=""$48.20"" tw-hourly=""$0.0660"" tw-monthly=""$48.20"" ja-hourly=""$0.0792"" ja-monthly=""$57.80"">
+      </td>"
+<td>n1-highcpu-16</td>,<td>16</td>,<td>14.40GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.608"" us-monthly=""$310.72"" eu-hourly=""$0.672"" eu-monthly=""$343.36"" tw-hourly=""$0.672"" tw-monthly=""$343.36"" ja-hourly=""$0.7920"" ja-monthly=""$404.72"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.120"" us-monthly=""$87.60"" eu-hourly=""$0.1320"" eu-monthly=""$96.40"" tw-hourly=""$0.1320"" tw-monthly=""$96.40"" ja-hourly=""$0.1584"" ja-monthly=""$115.60"">
+      </td>"
+"<td>n1-highcpu-32<sup><a href=""#machine-note1"">1</a></sup></td>",<td>32</td>,<td>28.80GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$1.216"" us-monthly=""$621.44"" eu-hourly=""$1.344"" eu-monthly=""$686.72"" tw-hourly=""$1.344"" tw-monthly=""$686.72"" ja-hourly=""$1.5840"" ja-monthly=""$809.44"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.240"" us-monthly=""$175.20"" eu-hourly=""$0.2640"" eu-monthly=""$192.80"" tw-hourly=""$0.2640"" tw-monthly=""$192.80"" ja-hourly=""$0.3168"" ja-monthly=""$231.20"">
+      </td>"
+"<td><a href=""#custommachinetypepricing"">Custom machine type</a></td>","<td colspan=""7"">
+         <p>If your ideal machine shape is in between two predefined types, using a
+          custom machine type could save you as much as 40%. Read more about
+           <a href=""#custommachinetypepricing"">Custom Machine Types</a>.</p>
+      </td>"
+
+<td>vCPU</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.03492 / vCPU"" us-monthly=""$17.84 / vCPU"" eu-hourly=""$0.03841 / vCPU"" eu-monthly=""$19.63 / vCPU"" tw-hourly=""$0.03841 / vCPU"" tw-monthly=""$19.63 / vCPU"" ja-hourly=""$0.04415 / vCPU"" ja-monthly=""$22.56 / vCPU"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.00698 / vCPU"" us-monthly=""$5.10 / vCPU"" eu-hourly=""$0.00768 / vCPU"" eu-monthly=""$5.61 / vCPU"" tw-hourly=""$0.00768 / vCPU"" tw-monthly=""$5.61 / vCPU"" ja-hourly=""$0.00883 / vCPU"" ja-monthly=""$6.45 / vCPU"">
+      </td>"
+<td>Memory</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.00468 / GB"" us-monthly=""$2.39 / GB"" eu-hourly=""$0.00515 / GB"" eu-monthly=""$2.63 / GB"" tw-hourly=""$0.00515 / GB"" tw-monthly=""$2.63 / GB"" ja-hourly=""$0.00589 / GB"" ja-monthly=""$3.01 / GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.00094 / GB"" us-monthly=""$0.69 / GB"" eu-hourly=""$0.00103 / GB"" eu-monthly=""$0.75 / GB"" tw-hourly=""$0.00103 / GB"" tw-monthly=""$0.75 / GB"" ja-hourly=""$0.001178 / GB"" ja-monthly=""$0.86 / GB"">
+      </td>"
+
+<td>0%-25%</td>,<td>100% of base rate</td>,<td>$0.050</td>
+<td>25%-50%</td>,<td>80% of base rate</td>,<td>$0.040</td>
+<td>50%-75%</td>,<td>60% of base rate</td>,<td>$0.030</td>
+<td>75%-100%</td>,<td>40% of base rate</td>,<td>$0.020</td>
+
+<td>First 0-25% of usage</td>,<td>100%</td>,<td>$0.050 (base rate)</td>,"<td>
+        <ul>
+          <li>30 days x .25 = 7.5 days</li>
+          <li>7.5 days x 24 hours = 180 hours</li>
+          <li>180 hours x $0.050 USD/hour = $9.00</li>
+        </ul>
+      </td>"
+<td>Usage between 25%-50% of the month</td>,<td>80%</td>,<td>$0.040</td>,"<td>
+        <ul>
+          <li>180 hours x $0.040 USD/hour = $7.20</li>
+        </ul>
+      </td>"
+<td>Usage between 50%-75% of the month</td>,<td>60%</td>,<td>$0.030</td>,"<td>
+        <ul>
+          <li>180 hours x $0.030 USD/hour = $5.40</li>
+        </ul>
+      </td>"
+
+<td>Mar 1 - Mar 31</td>,"<td>
+        Google Compute Standard Intel N1 1 VCPU running in NA: 13567 Minutes
+        (Project:1234567895)
+      </td>",<td>$11.30</td>,<td> </td>
+<td>Mar 1 - Mar 31</td>,"<td>
+        Google Compute Standard Intel N1 1 VCPU running in NA Sustained Use
+        Discount: 3381 Minutes (Project:1234567895)
+      </td>",<td></td>,<td>$2.81</td>
+
+<td>Ingress</td>,<td>No charge</td>
+<td>Egress<sup>*</sup> to the same zone</td>,<td>No charge</td>
+"<td>Egress to a different Google Cloud Platform service within the same
+      region</td>",<td>No charge</td>
+"<td>Egress to Google products (such as YouTube, Maps, Drive)</td>",<td>No charge<sup>**</sup></td>
+<td>Egress<sup>*</sup> between zones in the same region (per GB)</td>,<td>$0.01</td>
+<td>Egress between regions within the US (per GB)</td>,<td>$0.01</td>
+<td>Inter-continental Egress</td>,"<td>At <a href=""#internet_egress"">Internet egress rates</a></td>"
+
+<td>0-1 TB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'hourly'"" us-hourly=""$0.12"" eu-hourly=""$0.12"" tw-hourly=""$0.12"" ja-hourly=""$0.14""></td>",<td>$0.23</td>,<td>$0.19</td>,<td>Free</td>
+<td>1-10 TB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'hourly'"" us-hourly=""$0.11"" eu-hourly=""$0.11"" tw-hourly=""$0.11"" ja-hourly=""$0.14""></td>",<td>$0.22</td>,<td>$0.18</td>,<td>Free</td>
+<td>10+ TB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'hourly'"" us-hourly=""$0.08"" eu-hourly=""$0.08"" tw-hourly=""$0.08"" ja-hourly=""$0.12""></td>",<td>$0.20</td>,<td>$0.15</td>,<td>Free</td>
+
+<td>First 5 forwarding rules</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'hourly'"" us-hourly=""$0.025"" eu-hourly=""$0.025"" tw-hourly=""$0.025"" ja-hourly=""$0.038""></td>",<td>Per Hour</td>
+<td>Data processed</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'hourly'"" us-hourly=""$0.008"" eu-hourly=""$0.008"" tw-hourly=""$0.008"" ja-hourly=""$0.012""></td>",<td>Per GB</td>
+
+<td>Per tunnel (per hour)</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'hourly'"" us-hourly=""$0.050"" eu-hourly=""$0.050"" tw-hourly=""$0.050"" ja-hourly=""$0.075""></td>"
+<td>Traffic through tunnels</td>,"<td>Charged the same as if it wasn't in a VPN tunnel.
+          See <a href=""https://cloud.google.com/compute/pricing#general"">General network pricing</a>.
+        </td>"
+<td>Public IP for VPN Gateway</td>,"<td>Charged according to
+        <a href=""https://cloud.google.com/compute/pricing#ipaddress"">IP address pricing</a>.
+        </td>"
+
+<td>Standard provisioned space</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'monthly'"" us-monthly=""$0.040"" eu-monthly=""$0.040"" tw-monthly=""$0.040"" ja-monthly=""$0.052""></td>"
+<td>SSD provisioned space</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'monthly'"" us-monthly=""$0.170"" eu-monthly=""$0.170"" tw-monthly=""$0.170"" ja-monthly=""$0.221""></td>"
+<td>Snapshot storage</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'monthly'"" us-monthly=""$0.026"" eu-monthly=""$0.026"" tw-monthly=""$0.026"" ja-monthly=""$0.034""></td>"
+"<td><a href=""https://cloud.google.com/compute/docs/disks/#pdspecs"">IO operations</a></td>",<td>No additional charge</td>
+
+<td>Image Storage (per GB / month)</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'monthly'"" us-monthly=""$0.085"" eu-monthly=""$0.085"" tw-monthly=""$0.085"" ja-monthly=""$0.111""></td>"
+
+<td>Static IP address (assigned but unused)</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'hour'"" us-hour=""$0.010"" eu-hour=""$0.010"" tw-hour=""$0.010"" ja-hour=""$0.015""></td>"
+<td>Static IP address (assigned and in use)</td>,<td>No charge</td>
+<td>Ephemeral IP address (attached to instance or forwarding rule)</td>,<td>No charge</td>
+Machine type,Virtual CPUs,Memory,Price (USD),Preemptible price (USD)
+
+<td>n1-standard-1</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""1"" us-monthly=""1"" eu-hourly=""1"" eu-monthly=""1"" tw-hourly=""1"" tw-monthly=""1"" ja-hourly=""1"" ja-monthly=""1"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""3.75GB"" us-monthly=""3.75GB"" eu-hourly=""3.75GB"" eu-monthly=""3.75GB"" tw-hourly=""3.75GB"" tw-monthly=""3.75GB"" ja-hourly=""3.75GB"" ja-monthly=""3.75GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.050"" us-monthly=""$25.55"" eu-hourly=""$0.055"" eu-monthly=""$28.11"" tw-hourly=""$0.055"" tw-monthly=""$28.11"" ja-hourly=""$0.0663"" ja-monthly=""$33.88"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.010"" us-monthly=""$7.30"" eu-hourly=""$0.011"" eu-monthly=""$8.03"" tw-hourly=""$0.011"" tw-monthly=""$8.03"" ja-hourly=""$0.01325"" ja-monthly=""$9.67"">
+      </td>"
+<td>n1-standard-2</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""2"" us-monthly=""2"" eu-hourly=""2"" eu-monthly=""2"" tw-hourly=""2"" tw-monthly=""2"" ja-hourly=""2"" ja-monthly=""2"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""7.5GB"" us-monthly=""7.5GB"" eu-hourly=""7.5GB"" eu-monthly=""7.5GB"" tw-hourly=""7.5GB"" tw-monthly=""7.5GB"" ja-hourly=""7.5GB"" ja-monthly=""7.5GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.100"" us-monthly=""$51.10"" eu-hourly=""$0.110"" eu-monthly=""$56.22"" tw-hourly=""$0.110"" tw-monthly=""$56.22"" ja-hourly=""$0.1326"" ja-monthly=""$67.76"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.020"" us-monthly=""$14.60"" eu-hourly=""$0.022"" eu-monthly=""$16.06"" tw-hourly=""$0.022"" tw-monthly=""$16.06"" ja-hourly=""$0.0265"" ja-monthly=""$19.34"">
+      </td>"
+<td>n1-standard-4</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""4"" us-monthly=""4"" eu-hourly=""4"" eu-monthly=""4"" tw-hourly=""4"" tw-monthly=""4"" ja-hourly=""4"" ja-monthly=""4"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""15GB"" us-monthly=""15GB"" eu-hourly=""15GB"" eu-monthly=""15GB"" tw-hourly=""15GB"" tw-monthly=""15GB"" ja-hourly=""15GB"" ja-monthly=""15GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.200"" us-monthly=""$102.20"" eu-hourly=""$0.220"" eu-monthly=""$112.44"" tw-hourly=""$0.220"" tw-monthly=""$112.44"" ja-hourly=""$0.2652"" ja-monthly=""$135.52"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.040"" us-monthly=""$29.20"" eu-hourly=""$0.044"" eu-monthly=""$32.12"" tw-hourly=""$0.044"" tw-monthly=""$32.12"" ja-hourly=""$0.0530"" ja-monthly=""$38.68"">
+      </td>"
+<td>n1-standard-8</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""8"" us-monthly=""8"" eu-hourly=""8"" eu-monthly=""8"" tw-hourly=""8"" tw-monthly=""8"" ja-hourly=""8"" ja-monthly=""8"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""30GB"" us-monthly=""30GB"" eu-hourly=""30GB"" eu-monthly=""30GB"" tw-hourly=""30GB"" tw-monthly=""30GB"" ja-hourly=""30GB"" ja-monthly=""30GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.400"" us-monthly=""$204.40"" eu-hourly=""$0.440"" eu-monthly=""$224.88"" tw-hourly=""$0.440"" tw-monthly=""$224.88"" ja-hourly=""$0.5304"" ja-monthly=""$271.04"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.080"" us-monthly=""$58.40"" eu-hourly=""$0.088"" eu-monthly=""$64.24"" tw-hourly=""$0.088"" tw-monthly=""$64.24"" ja-hourly=""$0.1060"" ja-monthly=""$77.36"">
+      </td>"
+<td>n1-standard-16</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""16"" us-monthly=""16"" eu-hourly=""16"" eu-monthly=""16"" tw-hourly=""16"" tw-monthly=""16"" ja-hourly=""16"" ja-monthly=""16"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""60GB"" us-monthly=""60GB"" eu-hourly=""60GB"" eu-monthly=""60GB"" tw-hourly=""60GB"" tw-monthly=""60GB"" ja-hourly=""60GB"" ja-monthly=""60GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.800"" us-monthly=""$408.80"" eu-hourly=""$0.880"" eu-monthly=""$449.76"" tw-hourly=""$0.880"" tw-monthly=""$449.76"" ja-hourly=""$1.0608"" ja-monthly=""$542.08"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.160"" us-monthly=""$116.80"" eu-hourly=""$0.176"" eu-monthly=""$128.48"" tw-hourly=""$0.176"" tw-monthly=""$128.48"" ja-hourly=""$0.2120"" ja-monthly=""$154.72"">
+      </td>"
+"<td>n1-standard-32<sup><a href=""#machine-note1"">1</a></sup></td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""32"" us-monthly=""32"" eu-hourly=""32"" eu-monthly=""32"" tw-hourly=""32"" tw-monthly=""32"" ja-hourly=""32"" ja-monthly=""32"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""120GB"" us-monthly=""120GB"" eu-hourly=""120GB"" eu-monthly=""120GB"" tw-hourly=""120GB"" tw-monthly=""120GB"" ja-hourly=""120GB"" ja-monthly=""120GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$1.600"" us-monthly=""$817.60"" eu-hourly=""$1.760"" eu-monthly=""$899.52"" tw-hourly=""$1.760"" tw-monthly=""$899.52"" ja-hourly=""$2.1216"" ja-monthly=""$1084.16"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.320"" us-monthly=""$233.60"" eu-hourly=""$0.352"" eu-monthly=""$256.96"" tw-hourly=""$0.352"" tw-monthly=""$256.96"" ja-hourly=""$0.4240"" ja-monthly=""$309.44"">
+      </td>"
+"<td><a href=""#custommachinetypepricing"">Custom machine type</a></td>","<td colspan=""7"">
+         <p>If your ideal machine shape is in between two predefined types, using a
+          custom machine type could save you as much as 40%. Read more about
+           <a href=""#custommachinetypepricing"">Custom Machine Types</a>.</p>
+      </td>"
+
+<td>f1-micro</td>,<td>0.2</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""0.60GB"" us-monthly=""0.60GB"" eu-hourly=""0.60GB"" eu-monthly=""0.60GB"" tw-hourly=""0.60GB"" tw-monthly=""0.60GB"" ja-hourly=""0.60GB"" ja-monthly=""0.60GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.008"" us-monthly=""$4.09"" eu-hourly=""$0.009"" eu-monthly=""$4.60"" tw-hourly=""$0.009"" tw-monthly=""$4.60"" ja-hourly=""$0.0100"" ja-monthly=""$5.11"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.0035"" us-monthly=""$2.56"" eu-hourly=""$0.0039"" eu-monthly=""$2.85"" tw-hourly=""$0.0039"" tw-monthly=""$2.85"" ja-hourly=""$0.0050"" ja-monthly=""$3.65"">
+      </td>"
+<td>g1-small</td>,<td>0.5</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""1.70GB"" us-monthly=""1.70GB"" eu-hourly=""1.70GB"" eu-monthly=""1.70GB"" tw-hourly=""1.70GB"" tw-monthly=""1.70GB"" ja-hourly=""1.70GB"" ja-monthly=""1.70GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.027"" us-monthly=""$13.80"" eu-hourly=""$0.030"" eu-monthly=""$15.33"" tw-hourly=""$0.030"" tw-monthly=""$15.33"" ja-hourly=""$0.0350"" ja-monthly=""$17.89"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.0070"" us-monthly=""$5.12"" eu-hourly=""$0.0077"" eu-monthly=""$5.62"" tw-hourly=""$0.0077"" tw-monthly=""$5.62"" ja-hourly=""$0.0100"" ja-monthly=""$7.30"">
+      </td>"
+
+<td>n1-highmem-2</td>,<td>2</td>,<td>13GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.126"" us-monthly=""$64.39"" eu-hourly=""$0.139"" eu-monthly=""$71.03"" tw-hourly=""$0.139"" tw-monthly=""$71.03"" ja-hourly=""$0.1649"" ja-monthly=""$84.26"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.025"" us-monthly=""$18.25"" eu-hourly=""$0.0275"" eu-monthly=""$20.08"" tw-hourly=""$0.0275"" tw-monthly=""$20.08"" ja-hourly=""$0.0330"" ja-monthly=""$24.09"">
+      </td>"
+<td>n1-highmem-4</td>,<td>4</td>,<td>26GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.252"" us-monthly=""$128.78"" eu-hourly=""$0.278"" eu-monthly=""$142.06"" tw-hourly=""$0.278"" tw-monthly=""$142.06"" ja-hourly=""$0.3298"" ja-monthly=""$168.52"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.050"" us-monthly=""$36.50"" eu-hourly=""$0.0550"" eu-monthly=""$40.16"" tw-hourly=""$0.0550"" tw-monthly=""$40.16"" ja-hourly=""$0.0660"" ja-monthly=""$48.18"">
+      </td>"
+<td>n1-highmem-8</td>,<td>8</td>,<td>52GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.504"" us-monthly=""$257.56"" eu-hourly=""$0.556"" eu-monthly=""$284.12"" tw-hourly=""$0.556"" tw-monthly=""$284.12"" ja-hourly=""$0.6596"" ja-monthly=""$337.04"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.100"" us-monthly=""$73.00"" eu-hourly=""$0.1100"" eu-monthly=""$80.32"" tw-hourly=""$0.1100"" tw-monthly=""$80.32"" ja-hourly=""$0.1320"" ja-monthly=""$96.36"">
+      </td>"
+<td>n1-highmem-16</td>,<td>16</td>,<td>104GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$1.008"" us-monthly=""$515.12"" eu-hourly=""$1.112"" eu-monthly=""$568.24"" tw-hourly=""$1.112"" tw-monthly=""$568.24"" ja-hourly=""$1.3192"" ja-monthly=""$674.08"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.200"" us-monthly=""$146.00"" eu-hourly=""$0.2200"" eu-monthly=""$160.64"" tw-hourly=""$0.2200"" tw-monthly=""$160.64"" ja-hourly=""$0.2640"" ja-monthly=""$192.72"">
+      </td>"
+"<td>
+        n1-highmem-32<sup><a href=""#machine-note1"">1</a></sup>
+      </td>",<td>32</td>,<td>208GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$2.016"" us-monthly=""$1030.24"" eu-hourly=""$2.224"" eu-monthly=""$1136.48"" tw-hourly=""$2.224"" tw-monthly=""$1136.48"" ja-hourly=""$2.6384"" ja-monthly=""$1348.16"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.400"" us-monthly=""$292.00"" eu-hourly=""$0.4400"" eu-monthly=""$321.28"" tw-hourly=""$0.4400"" tw-monthly=""$321.28"" ja-hourly=""$0.5280"" ja-monthly=""$385.44"">
+      </td>"
+"<td><a href=""#custommachinetypepricing"">Custom machine type</a></td>","<td colspan=""7"">
+         <p>If your ideal machine shape is in between two predefined types, using a
+          custom machine type could save you as much as 40%. Read more about
+           <a href=""#custommachinetypepricing"">Custom Machine Types</a>.</p>
+      </td>"
+
+
+<td>n1-highcpu-2</td>,<td>2</td>,<td>1.80GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.076"" us-monthly=""$38.84"" eu-hourly=""$0.084"" eu-monthly=""$42.92"" tw-hourly=""$0.084"" tw-monthly=""$42.92"" ja-hourly=""$0.0990"" ja-monthly=""$50.59"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.015"" us-monthly=""$10.95"" eu-hourly=""$0.0165"" eu-monthly=""$12.05"" tw-hourly=""$0.0165"" tw-monthly=""$12.05"" ja-hourly=""$0.0198"" ja-monthly=""$14.45"">
+      </td>"
+<td>n1-highcpu-4</td>,<td>4</td>,<td>3.60GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.152"" us-monthly=""$77.68"" eu-hourly=""$0.168"" eu-monthly=""$85.84"" tw-hourly=""$0.168"" tw-monthly=""$85.84"" ja-hourly=""$0.1980"" ja-monthly=""$101.18"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.030"" us-monthly=""$21.90"" eu-hourly=""$0.0330"" eu-monthly=""$24.10"" tw-hourly=""$0.0330"" tw-monthly=""$24.10"" ja-hourly=""$0.0396"" ja-monthly=""$28.90"">
+      </td>"
+<td>n1-highcpu-8</td>,<td>8</td>,<td>7.20GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.304"" us-monthly=""$155.36"" eu-hourly=""$0.336"" eu-monthly=""$171.68"" tw-hourly=""$0.336"" tw-monthly=""$171.68"" ja-hourly=""$0.3960"" ja-monthly=""$202.36"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.060"" us-monthly=""$43.80"" eu-hourly=""$0.0660"" eu-monthly=""$48.20"" tw-hourly=""$0.0660"" tw-monthly=""$48.20"" ja-hourly=""$0.0792"" ja-monthly=""$57.80"">
+      </td>"
+<td>n1-highcpu-16</td>,<td>16</td>,<td>14.40GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.608"" us-monthly=""$310.72"" eu-hourly=""$0.672"" eu-monthly=""$343.36"" tw-hourly=""$0.672"" tw-monthly=""$343.36"" ja-hourly=""$0.7920"" ja-monthly=""$404.72"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.120"" us-monthly=""$87.60"" eu-hourly=""$0.1320"" eu-monthly=""$96.40"" tw-hourly=""$0.1320"" tw-monthly=""$96.40"" ja-hourly=""$0.1584"" ja-monthly=""$115.60"">
+      </td>"
+"<td>n1-highcpu-32<sup><a href=""#machine-note1"">1</a></sup></td>",<td>32</td>,<td>28.80GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$1.216"" us-monthly=""$621.44"" eu-hourly=""$1.344"" eu-monthly=""$686.72"" tw-hourly=""$1.344"" tw-monthly=""$686.72"" ja-hourly=""$1.5840"" ja-monthly=""$809.44"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.240"" us-monthly=""$175.20"" eu-hourly=""$0.2640"" eu-monthly=""$192.80"" tw-hourly=""$0.2640"" tw-monthly=""$192.80"" ja-hourly=""$0.3168"" ja-monthly=""$231.20"">
+      </td>"
+"<td><a href=""#custommachinetypepricing"">Custom machine type</a></td>","<td colspan=""7"">
+         <p>If your ideal machine shape is in between two predefined types, using a
+          custom machine type could save you as much as 40%. Read more about
+           <a href=""#custommachinetypepricing"">Custom Machine Types</a>.</p>
+      </td>"
+
+<td>vCPU</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.03492 / vCPU"" us-monthly=""$17.84 / vCPU"" eu-hourly=""$0.03841 / vCPU"" eu-monthly=""$19.63 / vCPU"" tw-hourly=""$0.03841 / vCPU"" tw-monthly=""$19.63 / vCPU"" ja-hourly=""$0.04415 / vCPU"" ja-monthly=""$22.56 / vCPU"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.00698 / vCPU"" us-monthly=""$5.10 / vCPU"" eu-hourly=""$0.00768 / vCPU"" eu-monthly=""$5.61 / vCPU"" tw-hourly=""$0.00768 / vCPU"" tw-monthly=""$5.61 / vCPU"" ja-hourly=""$0.00883 / vCPU"" ja-monthly=""$6.45 / vCPU"">
+      </td>"
+<td>Memory</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.00468 / GB"" us-monthly=""$2.39 / GB"" eu-hourly=""$0.00515 / GB"" eu-monthly=""$2.63 / GB"" tw-hourly=""$0.00515 / GB"" tw-monthly=""$2.63 / GB"" ja-hourly=""$0.00589 / GB"" ja-monthly=""$3.01 / GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.00094 / GB"" us-monthly=""$0.69 / GB"" eu-hourly=""$0.00103 / GB"" eu-monthly=""$0.75 / GB"" tw-hourly=""$0.00103 / GB"" tw-monthly=""$0.75 / GB"" ja-hourly=""$0.001178 / GB"" ja-monthly=""$0.86 / GB"">
+      </td>"
+
+<td>0%-25%</td>,<td>100% of base rate</td>,<td>$0.050</td>
+<td>25%-50%</td>,<td>80% of base rate</td>,<td>$0.040</td>
+<td>50%-75%</td>,<td>60% of base rate</td>,<td>$0.030</td>
+<td>75%-100%</td>,<td>40% of base rate</td>,<td>$0.020</td>
+
+<td>First 0-25% of usage</td>,<td>100%</td>,<td>$0.050 (base rate)</td>,"<td>
+        <ul>
+          <li>30 days x .25 = 7.5 days</li>
+          <li>7.5 days x 24 hours = 180 hours</li>
+          <li>180 hours x $0.050 USD/hour = $9.00</li>
+        </ul>
+      </td>"
+<td>Usage between 25%-50% of the month</td>,<td>80%</td>,<td>$0.040</td>,"<td>
+        <ul>
+          <li>180 hours x $0.040 USD/hour = $7.20</li>
+        </ul>
+      </td>"
+<td>Usage between 50%-75% of the month</td>,<td>60%</td>,<td>$0.030</td>,"<td>
+        <ul>
+          <li>180 hours x $0.030 USD/hour = $5.40</li>
+        </ul>
+      </td>"
+
+<td>Mar 1 - Mar 31</td>,"<td>
+        Google Compute Standard Intel N1 1 VCPU running in NA: 13567 Minutes
+        (Project:1234567895)
+      </td>",<td>$11.30</td>,<td> </td>
+<td>Mar 1 - Mar 31</td>,"<td>
+        Google Compute Standard Intel N1 1 VCPU running in NA Sustained Use
+        Discount: 3381 Minutes (Project:1234567895)
+      </td>",<td></td>,<td>$2.81</td>
+
+<td>Ingress</td>,<td>No charge</td>
+<td>Egress<sup>*</sup> to the same zone</td>,<td>No charge</td>
+"<td>Egress to a different Google Cloud Platform service within the same
+      region</td>",<td>No charge</td>
+"<td>Egress to Google products (such as YouTube, Maps, Drive)</td>",<td>No charge<sup>**</sup></td>
+<td>Egress<sup>*</sup> between zones in the same region (per GB)</td>,<td>$0.01</td>
+<td>Egress between regions within the US (per GB)</td>,<td>$0.01</td>
+<td>Inter-continental Egress</td>,"<td>At <a href=""#internet_egress"">Internet egress rates</a></td>"
+
+<td>0-1 TB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'hourly'"" us-hourly=""$0.12"" eu-hourly=""$0.12"" tw-hourly=""$0.12"" ja-hourly=""$0.14""></td>",<td>$0.23</td>,<td>$0.19</td>,<td>Free</td>
+<td>1-10 TB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'hourly'"" us-hourly=""$0.11"" eu-hourly=""$0.11"" tw-hourly=""$0.11"" ja-hourly=""$0.14""></td>",<td>$0.22</td>,<td>$0.18</td>,<td>Free</td>
+<td>10+ TB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'hourly'"" us-hourly=""$0.08"" eu-hourly=""$0.08"" tw-hourly=""$0.08"" ja-hourly=""$0.12""></td>",<td>$0.20</td>,<td>$0.15</td>,<td>Free</td>
+
+<td>First 5 forwarding rules</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'hourly'"" us-hourly=""$0.025"" eu-hourly=""$0.025"" tw-hourly=""$0.025"" ja-hourly=""$0.038""></td>",<td>Per Hour</td>
+<td>Data processed</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'hourly'"" us-hourly=""$0.008"" eu-hourly=""$0.008"" tw-hourly=""$0.008"" ja-hourly=""$0.012""></td>",<td>Per GB</td>
+
+<td>Per tunnel (per hour)</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'hourly'"" us-hourly=""$0.050"" eu-hourly=""$0.050"" tw-hourly=""$0.050"" ja-hourly=""$0.075""></td>"
+<td>Traffic through tunnels</td>,"<td>Charged the same as if it wasn't in a VPN tunnel.
+          See <a href=""https://cloud.google.com/compute/pricing#general"">General network pricing</a>.
+        </td>"
+<td>Public IP for VPN Gateway</td>,"<td>Charged according to
+        <a href=""https://cloud.google.com/compute/pricing#ipaddress"">IP address pricing</a>.
+        </td>"
+
+<td>Standard provisioned space</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'monthly'"" us-monthly=""$0.040"" eu-monthly=""$0.040"" tw-monthly=""$0.040"" ja-monthly=""$0.052""></td>"
+<td>SSD provisioned space</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'monthly'"" us-monthly=""$0.170"" eu-monthly=""$0.170"" tw-monthly=""$0.170"" ja-monthly=""$0.221""></td>"
+<td>Snapshot storage</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'monthly'"" us-monthly=""$0.026"" eu-monthly=""$0.026"" tw-monthly=""$0.026"" ja-monthly=""$0.034""></td>"
+"<td><a href=""https://cloud.google.com/compute/docs/disks/#pdspecs"">IO operations</a></td>",<td>No additional charge</td>
+
+<td>Image Storage (per GB / month)</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'monthly'"" us-monthly=""$0.085"" eu-monthly=""$0.085"" tw-monthly=""$0.085"" ja-monthly=""$0.111""></td>"
+
+<td>Static IP address (assigned but unused)</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'hour'"" us-hour=""$0.010"" eu-hour=""$0.010"" tw-hour=""$0.010"" ja-hour=""$0.015""></td>"
+<td>Static IP address (assigned and in use)</td>,<td>No charge</td>
+<td>Ephemeral IP address (attached to instance or forwarding rule)</td>,<td>No charge</td>
+Machine type,Virtual CPUs,Memory,Price (USD),Preemptible price (USD)
+
+<td>n1-standard-1</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""1"" us-monthly=""1"" eu-hourly=""1"" eu-monthly=""1"" tw-hourly=""1"" tw-monthly=""1"" ja-hourly=""1"" ja-monthly=""1"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""3.75GB"" us-monthly=""3.75GB"" eu-hourly=""3.75GB"" eu-monthly=""3.75GB"" tw-hourly=""3.75GB"" tw-monthly=""3.75GB"" ja-hourly=""3.75GB"" ja-monthly=""3.75GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.050"" us-monthly=""$25.55"" eu-hourly=""$0.055"" eu-monthly=""$28.11"" tw-hourly=""$0.055"" tw-monthly=""$28.11"" ja-hourly=""$0.0663"" ja-monthly=""$33.88"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.010"" us-monthly=""$7.30"" eu-hourly=""$0.011"" eu-monthly=""$8.03"" tw-hourly=""$0.011"" tw-monthly=""$8.03"" ja-hourly=""$0.01325"" ja-monthly=""$9.67"">
+      </td>"
+<td>n1-standard-2</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""2"" us-monthly=""2"" eu-hourly=""2"" eu-monthly=""2"" tw-hourly=""2"" tw-monthly=""2"" ja-hourly=""2"" ja-monthly=""2"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""7.5GB"" us-monthly=""7.5GB"" eu-hourly=""7.5GB"" eu-monthly=""7.5GB"" tw-hourly=""7.5GB"" tw-monthly=""7.5GB"" ja-hourly=""7.5GB"" ja-monthly=""7.5GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.100"" us-monthly=""$51.10"" eu-hourly=""$0.110"" eu-monthly=""$56.22"" tw-hourly=""$0.110"" tw-monthly=""$56.22"" ja-hourly=""$0.1326"" ja-monthly=""$67.76"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.020"" us-monthly=""$14.60"" eu-hourly=""$0.022"" eu-monthly=""$16.06"" tw-hourly=""$0.022"" tw-monthly=""$16.06"" ja-hourly=""$0.0265"" ja-monthly=""$19.34"">
+      </td>"
+<td>n1-standard-4</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""4"" us-monthly=""4"" eu-hourly=""4"" eu-monthly=""4"" tw-hourly=""4"" tw-monthly=""4"" ja-hourly=""4"" ja-monthly=""4"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""15GB"" us-monthly=""15GB"" eu-hourly=""15GB"" eu-monthly=""15GB"" tw-hourly=""15GB"" tw-monthly=""15GB"" ja-hourly=""15GB"" ja-monthly=""15GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.200"" us-monthly=""$102.20"" eu-hourly=""$0.220"" eu-monthly=""$112.44"" tw-hourly=""$0.220"" tw-monthly=""$112.44"" ja-hourly=""$0.2652"" ja-monthly=""$135.52"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.040"" us-monthly=""$29.20"" eu-hourly=""$0.044"" eu-monthly=""$32.12"" tw-hourly=""$0.044"" tw-monthly=""$32.12"" ja-hourly=""$0.0530"" ja-monthly=""$38.68"">
+      </td>"
+<td>n1-standard-8</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""8"" us-monthly=""8"" eu-hourly=""8"" eu-monthly=""8"" tw-hourly=""8"" tw-monthly=""8"" ja-hourly=""8"" ja-monthly=""8"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""30GB"" us-monthly=""30GB"" eu-hourly=""30GB"" eu-monthly=""30GB"" tw-hourly=""30GB"" tw-monthly=""30GB"" ja-hourly=""30GB"" ja-monthly=""30GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.400"" us-monthly=""$204.40"" eu-hourly=""$0.440"" eu-monthly=""$224.88"" tw-hourly=""$0.440"" tw-monthly=""$224.88"" ja-hourly=""$0.5304"" ja-monthly=""$271.04"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.080"" us-monthly=""$58.40"" eu-hourly=""$0.088"" eu-monthly=""$64.24"" tw-hourly=""$0.088"" tw-monthly=""$64.24"" ja-hourly=""$0.1060"" ja-monthly=""$77.36"">
+      </td>"
+<td>n1-standard-16</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""16"" us-monthly=""16"" eu-hourly=""16"" eu-monthly=""16"" tw-hourly=""16"" tw-monthly=""16"" ja-hourly=""16"" ja-monthly=""16"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""60GB"" us-monthly=""60GB"" eu-hourly=""60GB"" eu-monthly=""60GB"" tw-hourly=""60GB"" tw-monthly=""60GB"" ja-hourly=""60GB"" ja-monthly=""60GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.800"" us-monthly=""$408.80"" eu-hourly=""$0.880"" eu-monthly=""$449.76"" tw-hourly=""$0.880"" tw-monthly=""$449.76"" ja-hourly=""$1.0608"" ja-monthly=""$542.08"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.160"" us-monthly=""$116.80"" eu-hourly=""$0.176"" eu-monthly=""$128.48"" tw-hourly=""$0.176"" tw-monthly=""$128.48"" ja-hourly=""$0.2120"" ja-monthly=""$154.72"">
+      </td>"
+"<td>n1-standard-32<sup><a href=""#machine-note1"">1</a></sup></td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""32"" us-monthly=""32"" eu-hourly=""32"" eu-monthly=""32"" tw-hourly=""32"" tw-monthly=""32"" ja-hourly=""32"" ja-monthly=""32"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""120GB"" us-monthly=""120GB"" eu-hourly=""120GB"" eu-monthly=""120GB"" tw-hourly=""120GB"" tw-monthly=""120GB"" ja-hourly=""120GB"" ja-monthly=""120GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$1.600"" us-monthly=""$817.60"" eu-hourly=""$1.760"" eu-monthly=""$899.52"" tw-hourly=""$1.760"" tw-monthly=""$899.52"" ja-hourly=""$2.1216"" ja-monthly=""$1084.16"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.320"" us-monthly=""$233.60"" eu-hourly=""$0.352"" eu-monthly=""$256.96"" tw-hourly=""$0.352"" tw-monthly=""$256.96"" ja-hourly=""$0.4240"" ja-monthly=""$309.44"">
+      </td>"
+"<td><a href=""#custommachinetypepricing"">Custom machine type</a></td>","<td colspan=""7"">
+         <p>If your ideal machine shape is in between two predefined types, using a
+          custom machine type could save you as much as 40%. Read more about
+           <a href=""#custommachinetypepricing"">Custom Machine Types</a>.</p>
+      </td>"
+
+<td>f1-micro</td>,<td>0.2</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""0.60GB"" us-monthly=""0.60GB"" eu-hourly=""0.60GB"" eu-monthly=""0.60GB"" tw-hourly=""0.60GB"" tw-monthly=""0.60GB"" ja-hourly=""0.60GB"" ja-monthly=""0.60GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.008"" us-monthly=""$4.09"" eu-hourly=""$0.009"" eu-monthly=""$4.60"" tw-hourly=""$0.009"" tw-monthly=""$4.60"" ja-hourly=""$0.0100"" ja-monthly=""$5.11"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.0035"" us-monthly=""$2.56"" eu-hourly=""$0.0039"" eu-monthly=""$2.85"" tw-hourly=""$0.0039"" tw-monthly=""$2.85"" ja-hourly=""$0.0050"" ja-monthly=""$3.65"">
+      </td>"
+<td>g1-small</td>,<td>0.5</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""1.70GB"" us-monthly=""1.70GB"" eu-hourly=""1.70GB"" eu-monthly=""1.70GB"" tw-hourly=""1.70GB"" tw-monthly=""1.70GB"" ja-hourly=""1.70GB"" ja-monthly=""1.70GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.027"" us-monthly=""$13.80"" eu-hourly=""$0.030"" eu-monthly=""$15.33"" tw-hourly=""$0.030"" tw-monthly=""$15.33"" ja-hourly=""$0.0350"" ja-monthly=""$17.89"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.0070"" us-monthly=""$5.12"" eu-hourly=""$0.0077"" eu-monthly=""$5.62"" tw-hourly=""$0.0077"" tw-monthly=""$5.62"" ja-hourly=""$0.0100"" ja-monthly=""$7.30"">
+      </td>"
+
+<td>n1-highmem-2</td>,<td>2</td>,<td>13GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.126"" us-monthly=""$64.39"" eu-hourly=""$0.139"" eu-monthly=""$71.03"" tw-hourly=""$0.139"" tw-monthly=""$71.03"" ja-hourly=""$0.1649"" ja-monthly=""$84.26"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.025"" us-monthly=""$18.25"" eu-hourly=""$0.0275"" eu-monthly=""$20.08"" tw-hourly=""$0.0275"" tw-monthly=""$20.08"" ja-hourly=""$0.0330"" ja-monthly=""$24.09"">
+      </td>"
+<td>n1-highmem-4</td>,<td>4</td>,<td>26GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.252"" us-monthly=""$128.78"" eu-hourly=""$0.278"" eu-monthly=""$142.06"" tw-hourly=""$0.278"" tw-monthly=""$142.06"" ja-hourly=""$0.3298"" ja-monthly=""$168.52"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.050"" us-monthly=""$36.50"" eu-hourly=""$0.0550"" eu-monthly=""$40.16"" tw-hourly=""$0.0550"" tw-monthly=""$40.16"" ja-hourly=""$0.0660"" ja-monthly=""$48.18"">
+      </td>"
+<td>n1-highmem-8</td>,<td>8</td>,<td>52GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.504"" us-monthly=""$257.56"" eu-hourly=""$0.556"" eu-monthly=""$284.12"" tw-hourly=""$0.556"" tw-monthly=""$284.12"" ja-hourly=""$0.6596"" ja-monthly=""$337.04"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.100"" us-monthly=""$73.00"" eu-hourly=""$0.1100"" eu-monthly=""$80.32"" tw-hourly=""$0.1100"" tw-monthly=""$80.32"" ja-hourly=""$0.1320"" ja-monthly=""$96.36"">
+      </td>"
+<td>n1-highmem-16</td>,<td>16</td>,<td>104GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$1.008"" us-monthly=""$515.12"" eu-hourly=""$1.112"" eu-monthly=""$568.24"" tw-hourly=""$1.112"" tw-monthly=""$568.24"" ja-hourly=""$1.3192"" ja-monthly=""$674.08"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.200"" us-monthly=""$146.00"" eu-hourly=""$0.2200"" eu-monthly=""$160.64"" tw-hourly=""$0.2200"" tw-monthly=""$160.64"" ja-hourly=""$0.2640"" ja-monthly=""$192.72"">
+      </td>"
+"<td>
+        n1-highmem-32<sup><a href=""#machine-note1"">1</a></sup>
+      </td>",<td>32</td>,<td>208GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$2.016"" us-monthly=""$1030.24"" eu-hourly=""$2.224"" eu-monthly=""$1136.48"" tw-hourly=""$2.224"" tw-monthly=""$1136.48"" ja-hourly=""$2.6384"" ja-monthly=""$1348.16"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.400"" us-monthly=""$292.00"" eu-hourly=""$0.4400"" eu-monthly=""$321.28"" tw-hourly=""$0.4400"" tw-monthly=""$321.28"" ja-hourly=""$0.5280"" ja-monthly=""$385.44"">
+      </td>"
+"<td><a href=""#custommachinetypepricing"">Custom machine type</a></td>","<td colspan=""7"">
+         <p>If your ideal machine shape is in between two predefined types, using a
+          custom machine type could save you as much as 40%. Read more about
+           <a href=""#custommachinetypepricing"">Custom Machine Types</a>.</p>
+      </td>"
+
+
+<td>n1-highcpu-2</td>,<td>2</td>,<td>1.80GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.076"" us-monthly=""$38.84"" eu-hourly=""$0.084"" eu-monthly=""$42.92"" tw-hourly=""$0.084"" tw-monthly=""$42.92"" ja-hourly=""$0.0990"" ja-monthly=""$50.59"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.015"" us-monthly=""$10.95"" eu-hourly=""$0.0165"" eu-monthly=""$12.05"" tw-hourly=""$0.0165"" tw-monthly=""$12.05"" ja-hourly=""$0.0198"" ja-monthly=""$14.45"">
+      </td>"
+<td>n1-highcpu-4</td>,<td>4</td>,<td>3.60GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.152"" us-monthly=""$77.68"" eu-hourly=""$0.168"" eu-monthly=""$85.84"" tw-hourly=""$0.168"" tw-monthly=""$85.84"" ja-hourly=""$0.1980"" ja-monthly=""$101.18"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.030"" us-monthly=""$21.90"" eu-hourly=""$0.0330"" eu-monthly=""$24.10"" tw-hourly=""$0.0330"" tw-monthly=""$24.10"" ja-hourly=""$0.0396"" ja-monthly=""$28.90"">
+      </td>"
+<td>n1-highcpu-8</td>,<td>8</td>,<td>7.20GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.304"" us-monthly=""$155.36"" eu-hourly=""$0.336"" eu-monthly=""$171.68"" tw-hourly=""$0.336"" tw-monthly=""$171.68"" ja-hourly=""$0.3960"" ja-monthly=""$202.36"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.060"" us-monthly=""$43.80"" eu-hourly=""$0.0660"" eu-monthly=""$48.20"" tw-hourly=""$0.0660"" tw-monthly=""$48.20"" ja-hourly=""$0.0792"" ja-monthly=""$57.80"">
+      </td>"
+<td>n1-highcpu-16</td>,<td>16</td>,<td>14.40GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.608"" us-monthly=""$310.72"" eu-hourly=""$0.672"" eu-monthly=""$343.36"" tw-hourly=""$0.672"" tw-monthly=""$343.36"" ja-hourly=""$0.7920"" ja-monthly=""$404.72"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.120"" us-monthly=""$87.60"" eu-hourly=""$0.1320"" eu-monthly=""$96.40"" tw-hourly=""$0.1320"" tw-monthly=""$96.40"" ja-hourly=""$0.1584"" ja-monthly=""$115.60"">
+      </td>"
+"<td>n1-highcpu-32<sup><a href=""#machine-note1"">1</a></sup></td>",<td>32</td>,<td>28.80GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$1.216"" us-monthly=""$621.44"" eu-hourly=""$1.344"" eu-monthly=""$686.72"" tw-hourly=""$1.344"" tw-monthly=""$686.72"" ja-hourly=""$1.5840"" ja-monthly=""$809.44"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.240"" us-monthly=""$175.20"" eu-hourly=""$0.2640"" eu-monthly=""$192.80"" tw-hourly=""$0.2640"" tw-monthly=""$192.80"" ja-hourly=""$0.3168"" ja-monthly=""$231.20"">
+      </td>"
+"<td><a href=""#custommachinetypepricing"">Custom machine type</a></td>","<td colspan=""7"">
+         <p>If your ideal machine shape is in between two predefined types, using a
+          custom machine type could save you as much as 40%. Read more about
+           <a href=""#custommachinetypepricing"">Custom Machine Types</a>.</p>
+      </td>"
+
+<td>vCPU</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.03492 / vCPU"" us-monthly=""$17.84 / vCPU"" eu-hourly=""$0.03841 / vCPU"" eu-monthly=""$19.63 / vCPU"" tw-hourly=""$0.03841 / vCPU"" tw-monthly=""$19.63 / vCPU"" ja-hourly=""$0.04415 / vCPU"" ja-monthly=""$22.56 / vCPU"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.00698 / vCPU"" us-monthly=""$5.10 / vCPU"" eu-hourly=""$0.00768 / vCPU"" eu-monthly=""$5.61 / vCPU"" tw-hourly=""$0.00768 / vCPU"" tw-monthly=""$5.61 / vCPU"" ja-hourly=""$0.00883 / vCPU"" ja-monthly=""$6.45 / vCPU"">
+      </td>"
+<td>Memory</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.00468 / GB"" us-monthly=""$2.39 / GB"" eu-hourly=""$0.00515 / GB"" eu-monthly=""$2.63 / GB"" tw-hourly=""$0.00515 / GB"" tw-monthly=""$2.63 / GB"" ja-hourly=""$0.00589 / GB"" ja-monthly=""$3.01 / GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.00094 / GB"" us-monthly=""$0.69 / GB"" eu-hourly=""$0.00103 / GB"" eu-monthly=""$0.75 / GB"" tw-hourly=""$0.00103 / GB"" tw-monthly=""$0.75 / GB"" ja-hourly=""$0.001178 / GB"" ja-monthly=""$0.86 / GB"">
+      </td>"
+
+<td>0%-25%</td>,<td>100% of base rate</td>,<td>$0.050</td>
+<td>25%-50%</td>,<td>80% of base rate</td>,<td>$0.040</td>
+<td>50%-75%</td>,<td>60% of base rate</td>,<td>$0.030</td>
+<td>75%-100%</td>,<td>40% of base rate</td>,<td>$0.020</td>
+
+<td>First 0-25% of usage</td>,<td>100%</td>,<td>$0.050 (base rate)</td>,"<td>
+        <ul>
+          <li>30 days x .25 = 7.5 days</li>
+          <li>7.5 days x 24 hours = 180 hours</li>
+          <li>180 hours x $0.050 USD/hour = $9.00</li>
+        </ul>
+      </td>"
+<td>Usage between 25%-50% of the month</td>,<td>80%</td>,<td>$0.040</td>,"<td>
+        <ul>
+          <li>180 hours x $0.040 USD/hour = $7.20</li>
+        </ul>
+      </td>"
+<td>Usage between 50%-75% of the month</td>,<td>60%</td>,<td>$0.030</td>,"<td>
+        <ul>
+          <li>180 hours x $0.030 USD/hour = $5.40</li>
+        </ul>
+      </td>"
+
+<td>Mar 1 - Mar 31</td>,"<td>
+        Google Compute Standard Intel N1 1 VCPU running in NA: 13567 Minutes
+        (Project:1234567895)
+      </td>",<td>$11.30</td>,<td> </td>
+<td>Mar 1 - Mar 31</td>,"<td>
+        Google Compute Standard Intel N1 1 VCPU running in NA Sustained Use
+        Discount: 3381 Minutes (Project:1234567895)
+      </td>",<td></td>,<td>$2.81</td>
+
+<td>Ingress</td>,<td>No charge</td>
+<td>Egress<sup>*</sup> to the same zone</td>,<td>No charge</td>
+"<td>Egress to a different Google Cloud Platform service within the same
+      region</td>",<td>No charge</td>
+"<td>Egress to Google products (such as YouTube, Maps, Drive)</td>",<td>No charge<sup>**</sup></td>
+<td>Egress<sup>*</sup> between zones in the same region (per GB)</td>,<td>$0.01</td>
+<td>Egress between regions within the US (per GB)</td>,<td>$0.01</td>
+<td>Inter-continental Egress</td>,"<td>At <a href=""#internet_egress"">Internet egress rates</a></td>"
+
+<td>0-1 TB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'hourly'"" us-hourly=""$0.12"" eu-hourly=""$0.12"" tw-hourly=""$0.12"" ja-hourly=""$0.14""></td>",<td>$0.23</td>,<td>$0.19</td>,<td>Free</td>
+<td>1-10 TB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'hourly'"" us-hourly=""$0.11"" eu-hourly=""$0.11"" tw-hourly=""$0.11"" ja-hourly=""$0.14""></td>",<td>$0.22</td>,<td>$0.18</td>,<td>Free</td>
+<td>10+ TB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'hourly'"" us-hourly=""$0.08"" eu-hourly=""$0.08"" tw-hourly=""$0.08"" ja-hourly=""$0.12""></td>",<td>$0.20</td>,<td>$0.15</td>,<td>Free</td>
+
+<td>First 5 forwarding rules</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'hourly'"" us-hourly=""$0.025"" eu-hourly=""$0.025"" tw-hourly=""$0.025"" ja-hourly=""$0.038""></td>",<td>Per Hour</td>
+<td>Data processed</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'hourly'"" us-hourly=""$0.008"" eu-hourly=""$0.008"" tw-hourly=""$0.008"" ja-hourly=""$0.012""></td>",<td>Per GB</td>
+
+<td>Per tunnel (per hour)</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'hourly'"" us-hourly=""$0.050"" eu-hourly=""$0.050"" tw-hourly=""$0.050"" ja-hourly=""$0.075""></td>"
+<td>Traffic through tunnels</td>,"<td>Charged the same as if it wasn't in a VPN tunnel.
+          See <a href=""https://cloud.google.com/compute/pricing#general"">General network pricing</a>.
+        </td>"
+<td>Public IP for VPN Gateway</td>,"<td>Charged according to
+        <a href=""https://cloud.google.com/compute/pricing#ipaddress"">IP address pricing</a>.
+        </td>"
+
+<td>Standard provisioned space</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'monthly'"" us-monthly=""$0.040"" eu-monthly=""$0.040"" tw-monthly=""$0.040"" ja-monthly=""$0.052""></td>"
+<td>SSD provisioned space</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'monthly'"" us-monthly=""$0.170"" eu-monthly=""$0.170"" tw-monthly=""$0.170"" ja-monthly=""$0.221""></td>"
+<td>Snapshot storage</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'monthly'"" us-monthly=""$0.026"" eu-monthly=""$0.026"" tw-monthly=""$0.026"" ja-monthly=""$0.034""></td>"
+"<td><a href=""https://cloud.google.com/compute/docs/disks/#pdspecs"">IO operations</a></td>",<td>No additional charge</td>
+
+<td>Image Storage (per GB / month)</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'monthly'"" us-monthly=""$0.085"" eu-monthly=""$0.085"" tw-monthly=""$0.085"" ja-monthly=""$0.111""></td>"
+
+<td>Static IP address (assigned but unused)</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'hour'"" us-hour=""$0.010"" eu-hour=""$0.010"" tw-hour=""$0.010"" ja-hour=""$0.015""></td>"
+<td>Static IP address (assigned and in use)</td>,<td>No charge</td>
+<td>Ephemeral IP address (attached to instance or forwarding rule)</td>,<td>No charge</td>
+Item,Price (USD),Preemptible price (USD)
+
+<td>n1-standard-1</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""1"" us-monthly=""1"" eu-hourly=""1"" eu-monthly=""1"" tw-hourly=""1"" tw-monthly=""1"" ja-hourly=""1"" ja-monthly=""1"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""3.75GB"" us-monthly=""3.75GB"" eu-hourly=""3.75GB"" eu-monthly=""3.75GB"" tw-hourly=""3.75GB"" tw-monthly=""3.75GB"" ja-hourly=""3.75GB"" ja-monthly=""3.75GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.050"" us-monthly=""$25.55"" eu-hourly=""$0.055"" eu-monthly=""$28.11"" tw-hourly=""$0.055"" tw-monthly=""$28.11"" ja-hourly=""$0.0663"" ja-monthly=""$33.88"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.010"" us-monthly=""$7.30"" eu-hourly=""$0.011"" eu-monthly=""$8.03"" tw-hourly=""$0.011"" tw-monthly=""$8.03"" ja-hourly=""$0.01325"" ja-monthly=""$9.67"">
+      </td>"
+<td>n1-standard-2</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""2"" us-monthly=""2"" eu-hourly=""2"" eu-monthly=""2"" tw-hourly=""2"" tw-monthly=""2"" ja-hourly=""2"" ja-monthly=""2"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""7.5GB"" us-monthly=""7.5GB"" eu-hourly=""7.5GB"" eu-monthly=""7.5GB"" tw-hourly=""7.5GB"" tw-monthly=""7.5GB"" ja-hourly=""7.5GB"" ja-monthly=""7.5GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.100"" us-monthly=""$51.10"" eu-hourly=""$0.110"" eu-monthly=""$56.22"" tw-hourly=""$0.110"" tw-monthly=""$56.22"" ja-hourly=""$0.1326"" ja-monthly=""$67.76"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.020"" us-monthly=""$14.60"" eu-hourly=""$0.022"" eu-monthly=""$16.06"" tw-hourly=""$0.022"" tw-monthly=""$16.06"" ja-hourly=""$0.0265"" ja-monthly=""$19.34"">
+      </td>"
+<td>n1-standard-4</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""4"" us-monthly=""4"" eu-hourly=""4"" eu-monthly=""4"" tw-hourly=""4"" tw-monthly=""4"" ja-hourly=""4"" ja-monthly=""4"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""15GB"" us-monthly=""15GB"" eu-hourly=""15GB"" eu-monthly=""15GB"" tw-hourly=""15GB"" tw-monthly=""15GB"" ja-hourly=""15GB"" ja-monthly=""15GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.200"" us-monthly=""$102.20"" eu-hourly=""$0.220"" eu-monthly=""$112.44"" tw-hourly=""$0.220"" tw-monthly=""$112.44"" ja-hourly=""$0.2652"" ja-monthly=""$135.52"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.040"" us-monthly=""$29.20"" eu-hourly=""$0.044"" eu-monthly=""$32.12"" tw-hourly=""$0.044"" tw-monthly=""$32.12"" ja-hourly=""$0.0530"" ja-monthly=""$38.68"">
+      </td>"
+<td>n1-standard-8</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""8"" us-monthly=""8"" eu-hourly=""8"" eu-monthly=""8"" tw-hourly=""8"" tw-monthly=""8"" ja-hourly=""8"" ja-monthly=""8"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""30GB"" us-monthly=""30GB"" eu-hourly=""30GB"" eu-monthly=""30GB"" tw-hourly=""30GB"" tw-monthly=""30GB"" ja-hourly=""30GB"" ja-monthly=""30GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.400"" us-monthly=""$204.40"" eu-hourly=""$0.440"" eu-monthly=""$224.88"" tw-hourly=""$0.440"" tw-monthly=""$224.88"" ja-hourly=""$0.5304"" ja-monthly=""$271.04"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.080"" us-monthly=""$58.40"" eu-hourly=""$0.088"" eu-monthly=""$64.24"" tw-hourly=""$0.088"" tw-monthly=""$64.24"" ja-hourly=""$0.1060"" ja-monthly=""$77.36"">
+      </td>"
+<td>n1-standard-16</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""16"" us-monthly=""16"" eu-hourly=""16"" eu-monthly=""16"" tw-hourly=""16"" tw-monthly=""16"" ja-hourly=""16"" ja-monthly=""16"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""60GB"" us-monthly=""60GB"" eu-hourly=""60GB"" eu-monthly=""60GB"" tw-hourly=""60GB"" tw-monthly=""60GB"" ja-hourly=""60GB"" ja-monthly=""60GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.800"" us-monthly=""$408.80"" eu-hourly=""$0.880"" eu-monthly=""$449.76"" tw-hourly=""$0.880"" tw-monthly=""$449.76"" ja-hourly=""$1.0608"" ja-monthly=""$542.08"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.160"" us-monthly=""$116.80"" eu-hourly=""$0.176"" eu-monthly=""$128.48"" tw-hourly=""$0.176"" tw-monthly=""$128.48"" ja-hourly=""$0.2120"" ja-monthly=""$154.72"">
+      </td>"
+"<td>n1-standard-32<sup><a href=""#machine-note1"">1</a></sup></td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""32"" us-monthly=""32"" eu-hourly=""32"" eu-monthly=""32"" tw-hourly=""32"" tw-monthly=""32"" ja-hourly=""32"" ja-monthly=""32"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""120GB"" us-monthly=""120GB"" eu-hourly=""120GB"" eu-monthly=""120GB"" tw-hourly=""120GB"" tw-monthly=""120GB"" ja-hourly=""120GB"" ja-monthly=""120GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$1.600"" us-monthly=""$817.60"" eu-hourly=""$1.760"" eu-monthly=""$899.52"" tw-hourly=""$1.760"" tw-monthly=""$899.52"" ja-hourly=""$2.1216"" ja-monthly=""$1084.16"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.320"" us-monthly=""$233.60"" eu-hourly=""$0.352"" eu-monthly=""$256.96"" tw-hourly=""$0.352"" tw-monthly=""$256.96"" ja-hourly=""$0.4240"" ja-monthly=""$309.44"">
+      </td>"
+"<td><a href=""#custommachinetypepricing"">Custom machine type</a></td>","<td colspan=""7"">
+         <p>If your ideal machine shape is in between two predefined types, using a
+          custom machine type could save you as much as 40%. Read more about
+           <a href=""#custommachinetypepricing"">Custom Machine Types</a>.</p>
+      </td>"
+
+<td>f1-micro</td>,<td>0.2</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""0.60GB"" us-monthly=""0.60GB"" eu-hourly=""0.60GB"" eu-monthly=""0.60GB"" tw-hourly=""0.60GB"" tw-monthly=""0.60GB"" ja-hourly=""0.60GB"" ja-monthly=""0.60GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.008"" us-monthly=""$4.09"" eu-hourly=""$0.009"" eu-monthly=""$4.60"" tw-hourly=""$0.009"" tw-monthly=""$4.60"" ja-hourly=""$0.0100"" ja-monthly=""$5.11"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.0035"" us-monthly=""$2.56"" eu-hourly=""$0.0039"" eu-monthly=""$2.85"" tw-hourly=""$0.0039"" tw-monthly=""$2.85"" ja-hourly=""$0.0050"" ja-monthly=""$3.65"">
+      </td>"
+<td>g1-small</td>,<td>0.5</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""1.70GB"" us-monthly=""1.70GB"" eu-hourly=""1.70GB"" eu-monthly=""1.70GB"" tw-hourly=""1.70GB"" tw-monthly=""1.70GB"" ja-hourly=""1.70GB"" ja-monthly=""1.70GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.027"" us-monthly=""$13.80"" eu-hourly=""$0.030"" eu-monthly=""$15.33"" tw-hourly=""$0.030"" tw-monthly=""$15.33"" ja-hourly=""$0.0350"" ja-monthly=""$17.89"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.0070"" us-monthly=""$5.12"" eu-hourly=""$0.0077"" eu-monthly=""$5.62"" tw-hourly=""$0.0077"" tw-monthly=""$5.62"" ja-hourly=""$0.0100"" ja-monthly=""$7.30"">
+      </td>"
+
+<td>n1-highmem-2</td>,<td>2</td>,<td>13GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.126"" us-monthly=""$64.39"" eu-hourly=""$0.139"" eu-monthly=""$71.03"" tw-hourly=""$0.139"" tw-monthly=""$71.03"" ja-hourly=""$0.1649"" ja-monthly=""$84.26"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.025"" us-monthly=""$18.25"" eu-hourly=""$0.0275"" eu-monthly=""$20.08"" tw-hourly=""$0.0275"" tw-monthly=""$20.08"" ja-hourly=""$0.0330"" ja-monthly=""$24.09"">
+      </td>"
+<td>n1-highmem-4</td>,<td>4</td>,<td>26GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.252"" us-monthly=""$128.78"" eu-hourly=""$0.278"" eu-monthly=""$142.06"" tw-hourly=""$0.278"" tw-monthly=""$142.06"" ja-hourly=""$0.3298"" ja-monthly=""$168.52"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.050"" us-monthly=""$36.50"" eu-hourly=""$0.0550"" eu-monthly=""$40.16"" tw-hourly=""$0.0550"" tw-monthly=""$40.16"" ja-hourly=""$0.0660"" ja-monthly=""$48.18"">
+      </td>"
+<td>n1-highmem-8</td>,<td>8</td>,<td>52GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.504"" us-monthly=""$257.56"" eu-hourly=""$0.556"" eu-monthly=""$284.12"" tw-hourly=""$0.556"" tw-monthly=""$284.12"" ja-hourly=""$0.6596"" ja-monthly=""$337.04"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.100"" us-monthly=""$73.00"" eu-hourly=""$0.1100"" eu-monthly=""$80.32"" tw-hourly=""$0.1100"" tw-monthly=""$80.32"" ja-hourly=""$0.1320"" ja-monthly=""$96.36"">
+      </td>"
+<td>n1-highmem-16</td>,<td>16</td>,<td>104GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$1.008"" us-monthly=""$515.12"" eu-hourly=""$1.112"" eu-monthly=""$568.24"" tw-hourly=""$1.112"" tw-monthly=""$568.24"" ja-hourly=""$1.3192"" ja-monthly=""$674.08"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.200"" us-monthly=""$146.00"" eu-hourly=""$0.2200"" eu-monthly=""$160.64"" tw-hourly=""$0.2200"" tw-monthly=""$160.64"" ja-hourly=""$0.2640"" ja-monthly=""$192.72"">
+      </td>"
+"<td>
+        n1-highmem-32<sup><a href=""#machine-note1"">1</a></sup>
+      </td>",<td>32</td>,<td>208GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$2.016"" us-monthly=""$1030.24"" eu-hourly=""$2.224"" eu-monthly=""$1136.48"" tw-hourly=""$2.224"" tw-monthly=""$1136.48"" ja-hourly=""$2.6384"" ja-monthly=""$1348.16"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.400"" us-monthly=""$292.00"" eu-hourly=""$0.4400"" eu-monthly=""$321.28"" tw-hourly=""$0.4400"" tw-monthly=""$321.28"" ja-hourly=""$0.5280"" ja-monthly=""$385.44"">
+      </td>"
+"<td><a href=""#custommachinetypepricing"">Custom machine type</a></td>","<td colspan=""7"">
+         <p>If your ideal machine shape is in between two predefined types, using a
+          custom machine type could save you as much as 40%. Read more about
+           <a href=""#custommachinetypepricing"">Custom Machine Types</a>.</p>
+      </td>"
+
+
+<td>n1-highcpu-2</td>,<td>2</td>,<td>1.80GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.076"" us-monthly=""$38.84"" eu-hourly=""$0.084"" eu-monthly=""$42.92"" tw-hourly=""$0.084"" tw-monthly=""$42.92"" ja-hourly=""$0.0990"" ja-monthly=""$50.59"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.015"" us-monthly=""$10.95"" eu-hourly=""$0.0165"" eu-monthly=""$12.05"" tw-hourly=""$0.0165"" tw-monthly=""$12.05"" ja-hourly=""$0.0198"" ja-monthly=""$14.45"">
+      </td>"
+<td>n1-highcpu-4</td>,<td>4</td>,<td>3.60GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.152"" us-monthly=""$77.68"" eu-hourly=""$0.168"" eu-monthly=""$85.84"" tw-hourly=""$0.168"" tw-monthly=""$85.84"" ja-hourly=""$0.1980"" ja-monthly=""$101.18"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.030"" us-monthly=""$21.90"" eu-hourly=""$0.0330"" eu-monthly=""$24.10"" tw-hourly=""$0.0330"" tw-monthly=""$24.10"" ja-hourly=""$0.0396"" ja-monthly=""$28.90"">
+      </td>"
+<td>n1-highcpu-8</td>,<td>8</td>,<td>7.20GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.304"" us-monthly=""$155.36"" eu-hourly=""$0.336"" eu-monthly=""$171.68"" tw-hourly=""$0.336"" tw-monthly=""$171.68"" ja-hourly=""$0.3960"" ja-monthly=""$202.36"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.060"" us-monthly=""$43.80"" eu-hourly=""$0.0660"" eu-monthly=""$48.20"" tw-hourly=""$0.0660"" tw-monthly=""$48.20"" ja-hourly=""$0.0792"" ja-monthly=""$57.80"">
+      </td>"
+<td>n1-highcpu-16</td>,<td>16</td>,<td>14.40GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.608"" us-monthly=""$310.72"" eu-hourly=""$0.672"" eu-monthly=""$343.36"" tw-hourly=""$0.672"" tw-monthly=""$343.36"" ja-hourly=""$0.7920"" ja-monthly=""$404.72"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.120"" us-monthly=""$87.60"" eu-hourly=""$0.1320"" eu-monthly=""$96.40"" tw-hourly=""$0.1320"" tw-monthly=""$96.40"" ja-hourly=""$0.1584"" ja-monthly=""$115.60"">
+      </td>"
+"<td>n1-highcpu-32<sup><a href=""#machine-note1"">1</a></sup></td>",<td>32</td>,<td>28.80GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$1.216"" us-monthly=""$621.44"" eu-hourly=""$1.344"" eu-monthly=""$686.72"" tw-hourly=""$1.344"" tw-monthly=""$686.72"" ja-hourly=""$1.5840"" ja-monthly=""$809.44"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.240"" us-monthly=""$175.20"" eu-hourly=""$0.2640"" eu-monthly=""$192.80"" tw-hourly=""$0.2640"" tw-monthly=""$192.80"" ja-hourly=""$0.3168"" ja-monthly=""$231.20"">
+      </td>"
+"<td><a href=""#custommachinetypepricing"">Custom machine type</a></td>","<td colspan=""7"">
+         <p>If your ideal machine shape is in between two predefined types, using a
+          custom machine type could save you as much as 40%. Read more about
+           <a href=""#custommachinetypepricing"">Custom Machine Types</a>.</p>
+      </td>"
+
+<td>vCPU</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.03492 / vCPU"" us-monthly=""$17.84 / vCPU"" eu-hourly=""$0.03841 / vCPU"" eu-monthly=""$19.63 / vCPU"" tw-hourly=""$0.03841 / vCPU"" tw-monthly=""$19.63 / vCPU"" ja-hourly=""$0.04415 / vCPU"" ja-monthly=""$22.56 / vCPU"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.00698 / vCPU"" us-monthly=""$5.10 / vCPU"" eu-hourly=""$0.00768 / vCPU"" eu-monthly=""$5.61 / vCPU"" tw-hourly=""$0.00768 / vCPU"" tw-monthly=""$5.61 / vCPU"" ja-hourly=""$0.00883 / vCPU"" ja-monthly=""$6.45 / vCPU"">
+      </td>"
+<td>Memory</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.00468 / GB"" us-monthly=""$2.39 / GB"" eu-hourly=""$0.00515 / GB"" eu-monthly=""$2.63 / GB"" tw-hourly=""$0.00515 / GB"" tw-monthly=""$2.63 / GB"" ja-hourly=""$0.00589 / GB"" ja-monthly=""$3.01 / GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.00094 / GB"" us-monthly=""$0.69 / GB"" eu-hourly=""$0.00103 / GB"" eu-monthly=""$0.75 / GB"" tw-hourly=""$0.00103 / GB"" tw-monthly=""$0.75 / GB"" ja-hourly=""$0.001178 / GB"" ja-monthly=""$0.86 / GB"">
+      </td>"
+
+<td>0%-25%</td>,<td>100% of base rate</td>,<td>$0.050</td>
+<td>25%-50%</td>,<td>80% of base rate</td>,<td>$0.040</td>
+<td>50%-75%</td>,<td>60% of base rate</td>,<td>$0.030</td>
+<td>75%-100%</td>,<td>40% of base rate</td>,<td>$0.020</td>
+
+<td>First 0-25% of usage</td>,<td>100%</td>,<td>$0.050 (base rate)</td>,"<td>
+        <ul>
+          <li>30 days x .25 = 7.5 days</li>
+          <li>7.5 days x 24 hours = 180 hours</li>
+          <li>180 hours x $0.050 USD/hour = $9.00</li>
+        </ul>
+      </td>"
+<td>Usage between 25%-50% of the month</td>,<td>80%</td>,<td>$0.040</td>,"<td>
+        <ul>
+          <li>180 hours x $0.040 USD/hour = $7.20</li>
+        </ul>
+      </td>"
+<td>Usage between 50%-75% of the month</td>,<td>60%</td>,<td>$0.030</td>,"<td>
+        <ul>
+          <li>180 hours x $0.030 USD/hour = $5.40</li>
+        </ul>
+      </td>"
+
+<td>Mar 1 - Mar 31</td>,"<td>
+        Google Compute Standard Intel N1 1 VCPU running in NA: 13567 Minutes
+        (Project:1234567895)
+      </td>",<td>$11.30</td>,<td> </td>
+<td>Mar 1 - Mar 31</td>,"<td>
+        Google Compute Standard Intel N1 1 VCPU running in NA Sustained Use
+        Discount: 3381 Minutes (Project:1234567895)
+      </td>",<td></td>,<td>$2.81</td>
+
+<td>Ingress</td>,<td>No charge</td>
+<td>Egress<sup>*</sup> to the same zone</td>,<td>No charge</td>
+"<td>Egress to a different Google Cloud Platform service within the same
+      region</td>",<td>No charge</td>
+"<td>Egress to Google products (such as YouTube, Maps, Drive)</td>",<td>No charge<sup>**</sup></td>
+<td>Egress<sup>*</sup> between zones in the same region (per GB)</td>,<td>$0.01</td>
+<td>Egress between regions within the US (per GB)</td>,<td>$0.01</td>
+<td>Inter-continental Egress</td>,"<td>At <a href=""#internet_egress"">Internet egress rates</a></td>"
+
+<td>0-1 TB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'hourly'"" us-hourly=""$0.12"" eu-hourly=""$0.12"" tw-hourly=""$0.12"" ja-hourly=""$0.14""></td>",<td>$0.23</td>,<td>$0.19</td>,<td>Free</td>
+<td>1-10 TB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'hourly'"" us-hourly=""$0.11"" eu-hourly=""$0.11"" tw-hourly=""$0.11"" ja-hourly=""$0.14""></td>",<td>$0.22</td>,<td>$0.18</td>,<td>Free</td>
+<td>10+ TB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'hourly'"" us-hourly=""$0.08"" eu-hourly=""$0.08"" tw-hourly=""$0.08"" ja-hourly=""$0.12""></td>",<td>$0.20</td>,<td>$0.15</td>,<td>Free</td>
+
+<td>First 5 forwarding rules</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'hourly'"" us-hourly=""$0.025"" eu-hourly=""$0.025"" tw-hourly=""$0.025"" ja-hourly=""$0.038""></td>",<td>Per Hour</td>
+<td>Data processed</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'hourly'"" us-hourly=""$0.008"" eu-hourly=""$0.008"" tw-hourly=""$0.008"" ja-hourly=""$0.012""></td>",<td>Per GB</td>
+
+<td>Per tunnel (per hour)</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'hourly'"" us-hourly=""$0.050"" eu-hourly=""$0.050"" tw-hourly=""$0.050"" ja-hourly=""$0.075""></td>"
+<td>Traffic through tunnels</td>,"<td>Charged the same as if it wasn't in a VPN tunnel.
+          See <a href=""https://cloud.google.com/compute/pricing#general"">General network pricing</a>.
+        </td>"
+<td>Public IP for VPN Gateway</td>,"<td>Charged according to
+        <a href=""https://cloud.google.com/compute/pricing#ipaddress"">IP address pricing</a>.
+        </td>"
+
+<td>Standard provisioned space</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'monthly'"" us-monthly=""$0.040"" eu-monthly=""$0.040"" tw-monthly=""$0.040"" ja-monthly=""$0.052""></td>"
+<td>SSD provisioned space</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'monthly'"" us-monthly=""$0.170"" eu-monthly=""$0.170"" tw-monthly=""$0.170"" ja-monthly=""$0.221""></td>"
+<td>Snapshot storage</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'monthly'"" us-monthly=""$0.026"" eu-monthly=""$0.026"" tw-monthly=""$0.026"" ja-monthly=""$0.034""></td>"
+"<td><a href=""https://cloud.google.com/compute/docs/disks/#pdspecs"">IO operations</a></td>",<td>No additional charge</td>
+
+<td>Image Storage (per GB / month)</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'monthly'"" us-monthly=""$0.085"" eu-monthly=""$0.085"" tw-monthly=""$0.085"" ja-monthly=""$0.111""></td>"
+
+<td>Static IP address (assigned but unused)</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'hour'"" us-hour=""$0.010"" eu-hour=""$0.010"" tw-hour=""$0.010"" ja-hour=""$0.015""></td>"
+<td>Static IP address (assigned and in use)</td>,<td>No charge</td>
+<td>Ephemeral IP address (attached to instance or forwarding rule)</td>,<td>No charge</td>
+Usage Level (% of month),% at which incremental is charged,Example incremental rate (USD/hour) for an n1-standard-1 instance
+
+<td>n1-standard-1</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""1"" us-monthly=""1"" eu-hourly=""1"" eu-monthly=""1"" tw-hourly=""1"" tw-monthly=""1"" ja-hourly=""1"" ja-monthly=""1"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""3.75GB"" us-monthly=""3.75GB"" eu-hourly=""3.75GB"" eu-monthly=""3.75GB"" tw-hourly=""3.75GB"" tw-monthly=""3.75GB"" ja-hourly=""3.75GB"" ja-monthly=""3.75GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.050"" us-monthly=""$25.55"" eu-hourly=""$0.055"" eu-monthly=""$28.11"" tw-hourly=""$0.055"" tw-monthly=""$28.11"" ja-hourly=""$0.0663"" ja-monthly=""$33.88"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.010"" us-monthly=""$7.30"" eu-hourly=""$0.011"" eu-monthly=""$8.03"" tw-hourly=""$0.011"" tw-monthly=""$8.03"" ja-hourly=""$0.01325"" ja-monthly=""$9.67"">
+      </td>"
+<td>n1-standard-2</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""2"" us-monthly=""2"" eu-hourly=""2"" eu-monthly=""2"" tw-hourly=""2"" tw-monthly=""2"" ja-hourly=""2"" ja-monthly=""2"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""7.5GB"" us-monthly=""7.5GB"" eu-hourly=""7.5GB"" eu-monthly=""7.5GB"" tw-hourly=""7.5GB"" tw-monthly=""7.5GB"" ja-hourly=""7.5GB"" ja-monthly=""7.5GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.100"" us-monthly=""$51.10"" eu-hourly=""$0.110"" eu-monthly=""$56.22"" tw-hourly=""$0.110"" tw-monthly=""$56.22"" ja-hourly=""$0.1326"" ja-monthly=""$67.76"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.020"" us-monthly=""$14.60"" eu-hourly=""$0.022"" eu-monthly=""$16.06"" tw-hourly=""$0.022"" tw-monthly=""$16.06"" ja-hourly=""$0.0265"" ja-monthly=""$19.34"">
+      </td>"
+<td>n1-standard-4</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""4"" us-monthly=""4"" eu-hourly=""4"" eu-monthly=""4"" tw-hourly=""4"" tw-monthly=""4"" ja-hourly=""4"" ja-monthly=""4"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""15GB"" us-monthly=""15GB"" eu-hourly=""15GB"" eu-monthly=""15GB"" tw-hourly=""15GB"" tw-monthly=""15GB"" ja-hourly=""15GB"" ja-monthly=""15GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.200"" us-monthly=""$102.20"" eu-hourly=""$0.220"" eu-monthly=""$112.44"" tw-hourly=""$0.220"" tw-monthly=""$112.44"" ja-hourly=""$0.2652"" ja-monthly=""$135.52"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.040"" us-monthly=""$29.20"" eu-hourly=""$0.044"" eu-monthly=""$32.12"" tw-hourly=""$0.044"" tw-monthly=""$32.12"" ja-hourly=""$0.0530"" ja-monthly=""$38.68"">
+      </td>"
+<td>n1-standard-8</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""8"" us-monthly=""8"" eu-hourly=""8"" eu-monthly=""8"" tw-hourly=""8"" tw-monthly=""8"" ja-hourly=""8"" ja-monthly=""8"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""30GB"" us-monthly=""30GB"" eu-hourly=""30GB"" eu-monthly=""30GB"" tw-hourly=""30GB"" tw-monthly=""30GB"" ja-hourly=""30GB"" ja-monthly=""30GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.400"" us-monthly=""$204.40"" eu-hourly=""$0.440"" eu-monthly=""$224.88"" tw-hourly=""$0.440"" tw-monthly=""$224.88"" ja-hourly=""$0.5304"" ja-monthly=""$271.04"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.080"" us-monthly=""$58.40"" eu-hourly=""$0.088"" eu-monthly=""$64.24"" tw-hourly=""$0.088"" tw-monthly=""$64.24"" ja-hourly=""$0.1060"" ja-monthly=""$77.36"">
+      </td>"
+<td>n1-standard-16</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""16"" us-monthly=""16"" eu-hourly=""16"" eu-monthly=""16"" tw-hourly=""16"" tw-monthly=""16"" ja-hourly=""16"" ja-monthly=""16"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""60GB"" us-monthly=""60GB"" eu-hourly=""60GB"" eu-monthly=""60GB"" tw-hourly=""60GB"" tw-monthly=""60GB"" ja-hourly=""60GB"" ja-monthly=""60GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.800"" us-monthly=""$408.80"" eu-hourly=""$0.880"" eu-monthly=""$449.76"" tw-hourly=""$0.880"" tw-monthly=""$449.76"" ja-hourly=""$1.0608"" ja-monthly=""$542.08"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.160"" us-monthly=""$116.80"" eu-hourly=""$0.176"" eu-monthly=""$128.48"" tw-hourly=""$0.176"" tw-monthly=""$128.48"" ja-hourly=""$0.2120"" ja-monthly=""$154.72"">
+      </td>"
+"<td>n1-standard-32<sup><a href=""#machine-note1"">1</a></sup></td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""32"" us-monthly=""32"" eu-hourly=""32"" eu-monthly=""32"" tw-hourly=""32"" tw-monthly=""32"" ja-hourly=""32"" ja-monthly=""32"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""120GB"" us-monthly=""120GB"" eu-hourly=""120GB"" eu-monthly=""120GB"" tw-hourly=""120GB"" tw-monthly=""120GB"" ja-hourly=""120GB"" ja-monthly=""120GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$1.600"" us-monthly=""$817.60"" eu-hourly=""$1.760"" eu-monthly=""$899.52"" tw-hourly=""$1.760"" tw-monthly=""$899.52"" ja-hourly=""$2.1216"" ja-monthly=""$1084.16"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.320"" us-monthly=""$233.60"" eu-hourly=""$0.352"" eu-monthly=""$256.96"" tw-hourly=""$0.352"" tw-monthly=""$256.96"" ja-hourly=""$0.4240"" ja-monthly=""$309.44"">
+      </td>"
+"<td><a href=""#custommachinetypepricing"">Custom machine type</a></td>","<td colspan=""7"">
+         <p>If your ideal machine shape is in between two predefined types, using a
+          custom machine type could save you as much as 40%. Read more about
+           <a href=""#custommachinetypepricing"">Custom Machine Types</a>.</p>
+      </td>"
+
+<td>f1-micro</td>,<td>0.2</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""0.60GB"" us-monthly=""0.60GB"" eu-hourly=""0.60GB"" eu-monthly=""0.60GB"" tw-hourly=""0.60GB"" tw-monthly=""0.60GB"" ja-hourly=""0.60GB"" ja-monthly=""0.60GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.008"" us-monthly=""$4.09"" eu-hourly=""$0.009"" eu-monthly=""$4.60"" tw-hourly=""$0.009"" tw-monthly=""$4.60"" ja-hourly=""$0.0100"" ja-monthly=""$5.11"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.0035"" us-monthly=""$2.56"" eu-hourly=""$0.0039"" eu-monthly=""$2.85"" tw-hourly=""$0.0039"" tw-monthly=""$2.85"" ja-hourly=""$0.0050"" ja-monthly=""$3.65"">
+      </td>"
+<td>g1-small</td>,<td>0.5</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""1.70GB"" us-monthly=""1.70GB"" eu-hourly=""1.70GB"" eu-monthly=""1.70GB"" tw-hourly=""1.70GB"" tw-monthly=""1.70GB"" ja-hourly=""1.70GB"" ja-monthly=""1.70GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.027"" us-monthly=""$13.80"" eu-hourly=""$0.030"" eu-monthly=""$15.33"" tw-hourly=""$0.030"" tw-monthly=""$15.33"" ja-hourly=""$0.0350"" ja-monthly=""$17.89"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.0070"" us-monthly=""$5.12"" eu-hourly=""$0.0077"" eu-monthly=""$5.62"" tw-hourly=""$0.0077"" tw-monthly=""$5.62"" ja-hourly=""$0.0100"" ja-monthly=""$7.30"">
+      </td>"
+
+<td>n1-highmem-2</td>,<td>2</td>,<td>13GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.126"" us-monthly=""$64.39"" eu-hourly=""$0.139"" eu-monthly=""$71.03"" tw-hourly=""$0.139"" tw-monthly=""$71.03"" ja-hourly=""$0.1649"" ja-monthly=""$84.26"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.025"" us-monthly=""$18.25"" eu-hourly=""$0.0275"" eu-monthly=""$20.08"" tw-hourly=""$0.0275"" tw-monthly=""$20.08"" ja-hourly=""$0.0330"" ja-monthly=""$24.09"">
+      </td>"
+<td>n1-highmem-4</td>,<td>4</td>,<td>26GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.252"" us-monthly=""$128.78"" eu-hourly=""$0.278"" eu-monthly=""$142.06"" tw-hourly=""$0.278"" tw-monthly=""$142.06"" ja-hourly=""$0.3298"" ja-monthly=""$168.52"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.050"" us-monthly=""$36.50"" eu-hourly=""$0.0550"" eu-monthly=""$40.16"" tw-hourly=""$0.0550"" tw-monthly=""$40.16"" ja-hourly=""$0.0660"" ja-monthly=""$48.18"">
+      </td>"
+<td>n1-highmem-8</td>,<td>8</td>,<td>52GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.504"" us-monthly=""$257.56"" eu-hourly=""$0.556"" eu-monthly=""$284.12"" tw-hourly=""$0.556"" tw-monthly=""$284.12"" ja-hourly=""$0.6596"" ja-monthly=""$337.04"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.100"" us-monthly=""$73.00"" eu-hourly=""$0.1100"" eu-monthly=""$80.32"" tw-hourly=""$0.1100"" tw-monthly=""$80.32"" ja-hourly=""$0.1320"" ja-monthly=""$96.36"">
+      </td>"
+<td>n1-highmem-16</td>,<td>16</td>,<td>104GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$1.008"" us-monthly=""$515.12"" eu-hourly=""$1.112"" eu-monthly=""$568.24"" tw-hourly=""$1.112"" tw-monthly=""$568.24"" ja-hourly=""$1.3192"" ja-monthly=""$674.08"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.200"" us-monthly=""$146.00"" eu-hourly=""$0.2200"" eu-monthly=""$160.64"" tw-hourly=""$0.2200"" tw-monthly=""$160.64"" ja-hourly=""$0.2640"" ja-monthly=""$192.72"">
+      </td>"
+"<td>
+        n1-highmem-32<sup><a href=""#machine-note1"">1</a></sup>
+      </td>",<td>32</td>,<td>208GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$2.016"" us-monthly=""$1030.24"" eu-hourly=""$2.224"" eu-monthly=""$1136.48"" tw-hourly=""$2.224"" tw-monthly=""$1136.48"" ja-hourly=""$2.6384"" ja-monthly=""$1348.16"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.400"" us-monthly=""$292.00"" eu-hourly=""$0.4400"" eu-monthly=""$321.28"" tw-hourly=""$0.4400"" tw-monthly=""$321.28"" ja-hourly=""$0.5280"" ja-monthly=""$385.44"">
+      </td>"
+"<td><a href=""#custommachinetypepricing"">Custom machine type</a></td>","<td colspan=""7"">
+         <p>If your ideal machine shape is in between two predefined types, using a
+          custom machine type could save you as much as 40%. Read more about
+           <a href=""#custommachinetypepricing"">Custom Machine Types</a>.</p>
+      </td>"
+
+
+<td>n1-highcpu-2</td>,<td>2</td>,<td>1.80GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.076"" us-monthly=""$38.84"" eu-hourly=""$0.084"" eu-monthly=""$42.92"" tw-hourly=""$0.084"" tw-monthly=""$42.92"" ja-hourly=""$0.0990"" ja-monthly=""$50.59"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.015"" us-monthly=""$10.95"" eu-hourly=""$0.0165"" eu-monthly=""$12.05"" tw-hourly=""$0.0165"" tw-monthly=""$12.05"" ja-hourly=""$0.0198"" ja-monthly=""$14.45"">
+      </td>"
+<td>n1-highcpu-4</td>,<td>4</td>,<td>3.60GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.152"" us-monthly=""$77.68"" eu-hourly=""$0.168"" eu-monthly=""$85.84"" tw-hourly=""$0.168"" tw-monthly=""$85.84"" ja-hourly=""$0.1980"" ja-monthly=""$101.18"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.030"" us-monthly=""$21.90"" eu-hourly=""$0.0330"" eu-monthly=""$24.10"" tw-hourly=""$0.0330"" tw-monthly=""$24.10"" ja-hourly=""$0.0396"" ja-monthly=""$28.90"">
+      </td>"
+<td>n1-highcpu-8</td>,<td>8</td>,<td>7.20GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.304"" us-monthly=""$155.36"" eu-hourly=""$0.336"" eu-monthly=""$171.68"" tw-hourly=""$0.336"" tw-monthly=""$171.68"" ja-hourly=""$0.3960"" ja-monthly=""$202.36"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.060"" us-monthly=""$43.80"" eu-hourly=""$0.0660"" eu-monthly=""$48.20"" tw-hourly=""$0.0660"" tw-monthly=""$48.20"" ja-hourly=""$0.0792"" ja-monthly=""$57.80"">
+      </td>"
+<td>n1-highcpu-16</td>,<td>16</td>,<td>14.40GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.608"" us-monthly=""$310.72"" eu-hourly=""$0.672"" eu-monthly=""$343.36"" tw-hourly=""$0.672"" tw-monthly=""$343.36"" ja-hourly=""$0.7920"" ja-monthly=""$404.72"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.120"" us-monthly=""$87.60"" eu-hourly=""$0.1320"" eu-monthly=""$96.40"" tw-hourly=""$0.1320"" tw-monthly=""$96.40"" ja-hourly=""$0.1584"" ja-monthly=""$115.60"">
+      </td>"
+"<td>n1-highcpu-32<sup><a href=""#machine-note1"">1</a></sup></td>",<td>32</td>,<td>28.80GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$1.216"" us-monthly=""$621.44"" eu-hourly=""$1.344"" eu-monthly=""$686.72"" tw-hourly=""$1.344"" tw-monthly=""$686.72"" ja-hourly=""$1.5840"" ja-monthly=""$809.44"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.240"" us-monthly=""$175.20"" eu-hourly=""$0.2640"" eu-monthly=""$192.80"" tw-hourly=""$0.2640"" tw-monthly=""$192.80"" ja-hourly=""$0.3168"" ja-monthly=""$231.20"">
+      </td>"
+"<td><a href=""#custommachinetypepricing"">Custom machine type</a></td>","<td colspan=""7"">
+         <p>If your ideal machine shape is in between two predefined types, using a
+          custom machine type could save you as much as 40%. Read more about
+           <a href=""#custommachinetypepricing"">Custom Machine Types</a>.</p>
+      </td>"
+
+<td>vCPU</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.03492 / vCPU"" us-monthly=""$17.84 / vCPU"" eu-hourly=""$0.03841 / vCPU"" eu-monthly=""$19.63 / vCPU"" tw-hourly=""$0.03841 / vCPU"" tw-monthly=""$19.63 / vCPU"" ja-hourly=""$0.04415 / vCPU"" ja-monthly=""$22.56 / vCPU"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.00698 / vCPU"" us-monthly=""$5.10 / vCPU"" eu-hourly=""$0.00768 / vCPU"" eu-monthly=""$5.61 / vCPU"" tw-hourly=""$0.00768 / vCPU"" tw-monthly=""$5.61 / vCPU"" ja-hourly=""$0.00883 / vCPU"" ja-monthly=""$6.45 / vCPU"">
+      </td>"
+<td>Memory</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.00468 / GB"" us-monthly=""$2.39 / GB"" eu-hourly=""$0.00515 / GB"" eu-monthly=""$2.63 / GB"" tw-hourly=""$0.00515 / GB"" tw-monthly=""$2.63 / GB"" ja-hourly=""$0.00589 / GB"" ja-monthly=""$3.01 / GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.00094 / GB"" us-monthly=""$0.69 / GB"" eu-hourly=""$0.00103 / GB"" eu-monthly=""$0.75 / GB"" tw-hourly=""$0.00103 / GB"" tw-monthly=""$0.75 / GB"" ja-hourly=""$0.001178 / GB"" ja-monthly=""$0.86 / GB"">
+      </td>"
+
+<td>0%-25%</td>,<td>100% of base rate</td>,<td>$0.050</td>
+<td>25%-50%</td>,<td>80% of base rate</td>,<td>$0.040</td>
+<td>50%-75%</td>,<td>60% of base rate</td>,<td>$0.030</td>
+<td>75%-100%</td>,<td>40% of base rate</td>,<td>$0.020</td>
+
+<td>First 0-25% of usage</td>,<td>100%</td>,<td>$0.050 (base rate)</td>,"<td>
+        <ul>
+          <li>30 days x .25 = 7.5 days</li>
+          <li>7.5 days x 24 hours = 180 hours</li>
+          <li>180 hours x $0.050 USD/hour = $9.00</li>
+        </ul>
+      </td>"
+<td>Usage between 25%-50% of the month</td>,<td>80%</td>,<td>$0.040</td>,"<td>
+        <ul>
+          <li>180 hours x $0.040 USD/hour = $7.20</li>
+        </ul>
+      </td>"
+<td>Usage between 50%-75% of the month</td>,<td>60%</td>,<td>$0.030</td>,"<td>
+        <ul>
+          <li>180 hours x $0.030 USD/hour = $5.40</li>
+        </ul>
+      </td>"
+
+<td>Mar 1 - Mar 31</td>,"<td>
+        Google Compute Standard Intel N1 1 VCPU running in NA: 13567 Minutes
+        (Project:1234567895)
+      </td>",<td>$11.30</td>,<td> </td>
+<td>Mar 1 - Mar 31</td>,"<td>
+        Google Compute Standard Intel N1 1 VCPU running in NA Sustained Use
+        Discount: 3381 Minutes (Project:1234567895)
+      </td>",<td></td>,<td>$2.81</td>
+
+<td>Ingress</td>,<td>No charge</td>
+<td>Egress<sup>*</sup> to the same zone</td>,<td>No charge</td>
+"<td>Egress to a different Google Cloud Platform service within the same
+      region</td>",<td>No charge</td>
+"<td>Egress to Google products (such as YouTube, Maps, Drive)</td>",<td>No charge<sup>**</sup></td>
+<td>Egress<sup>*</sup> between zones in the same region (per GB)</td>,<td>$0.01</td>
+<td>Egress between regions within the US (per GB)</td>,<td>$0.01</td>
+<td>Inter-continental Egress</td>,"<td>At <a href=""#internet_egress"">Internet egress rates</a></td>"
+
+<td>0-1 TB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'hourly'"" us-hourly=""$0.12"" eu-hourly=""$0.12"" tw-hourly=""$0.12"" ja-hourly=""$0.14""></td>",<td>$0.23</td>,<td>$0.19</td>,<td>Free</td>
+<td>1-10 TB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'hourly'"" us-hourly=""$0.11"" eu-hourly=""$0.11"" tw-hourly=""$0.11"" ja-hourly=""$0.14""></td>",<td>$0.22</td>,<td>$0.18</td>,<td>Free</td>
+<td>10+ TB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'hourly'"" us-hourly=""$0.08"" eu-hourly=""$0.08"" tw-hourly=""$0.08"" ja-hourly=""$0.12""></td>",<td>$0.20</td>,<td>$0.15</td>,<td>Free</td>
+
+<td>First 5 forwarding rules</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'hourly'"" us-hourly=""$0.025"" eu-hourly=""$0.025"" tw-hourly=""$0.025"" ja-hourly=""$0.038""></td>",<td>Per Hour</td>
+<td>Data processed</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'hourly'"" us-hourly=""$0.008"" eu-hourly=""$0.008"" tw-hourly=""$0.008"" ja-hourly=""$0.012""></td>",<td>Per GB</td>
+
+<td>Per tunnel (per hour)</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'hourly'"" us-hourly=""$0.050"" eu-hourly=""$0.050"" tw-hourly=""$0.050"" ja-hourly=""$0.075""></td>"
+<td>Traffic through tunnels</td>,"<td>Charged the same as if it wasn't in a VPN tunnel.
+          See <a href=""https://cloud.google.com/compute/pricing#general"">General network pricing</a>.
+        </td>"
+<td>Public IP for VPN Gateway</td>,"<td>Charged according to
+        <a href=""https://cloud.google.com/compute/pricing#ipaddress"">IP address pricing</a>.
+        </td>"
+
+<td>Standard provisioned space</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'monthly'"" us-monthly=""$0.040"" eu-monthly=""$0.040"" tw-monthly=""$0.040"" ja-monthly=""$0.052""></td>"
+<td>SSD provisioned space</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'monthly'"" us-monthly=""$0.170"" eu-monthly=""$0.170"" tw-monthly=""$0.170"" ja-monthly=""$0.221""></td>"
+<td>Snapshot storage</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'monthly'"" us-monthly=""$0.026"" eu-monthly=""$0.026"" tw-monthly=""$0.026"" ja-monthly=""$0.034""></td>"
+"<td><a href=""https://cloud.google.com/compute/docs/disks/#pdspecs"">IO operations</a></td>",<td>No additional charge</td>
+
+<td>Image Storage (per GB / month)</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'monthly'"" us-monthly=""$0.085"" eu-monthly=""$0.085"" tw-monthly=""$0.085"" ja-monthly=""$0.111""></td>"
+
+<td>Static IP address (assigned but unused)</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'hour'"" us-hour=""$0.010"" eu-hour=""$0.010"" tw-hour=""$0.010"" ja-hour=""$0.015""></td>"
+<td>Static IP address (assigned and in use)</td>,<td>No charge</td>
+<td>Ephemeral IP address (attached to instance or forwarding rule)</td>,<td>No charge</td>
+Usage level (% of month) for an n1-standard-1 instance,% of base rate usage charge,Example rate (USD/hour),"Calculated charges, assuming 30-day month"
+
+<td>n1-standard-1</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""1"" us-monthly=""1"" eu-hourly=""1"" eu-monthly=""1"" tw-hourly=""1"" tw-monthly=""1"" ja-hourly=""1"" ja-monthly=""1"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""3.75GB"" us-monthly=""3.75GB"" eu-hourly=""3.75GB"" eu-monthly=""3.75GB"" tw-hourly=""3.75GB"" tw-monthly=""3.75GB"" ja-hourly=""3.75GB"" ja-monthly=""3.75GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.050"" us-monthly=""$25.55"" eu-hourly=""$0.055"" eu-monthly=""$28.11"" tw-hourly=""$0.055"" tw-monthly=""$28.11"" ja-hourly=""$0.0663"" ja-monthly=""$33.88"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.010"" us-monthly=""$7.30"" eu-hourly=""$0.011"" eu-monthly=""$8.03"" tw-hourly=""$0.011"" tw-monthly=""$8.03"" ja-hourly=""$0.01325"" ja-monthly=""$9.67"">
+      </td>"
+<td>n1-standard-2</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""2"" us-monthly=""2"" eu-hourly=""2"" eu-monthly=""2"" tw-hourly=""2"" tw-monthly=""2"" ja-hourly=""2"" ja-monthly=""2"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""7.5GB"" us-monthly=""7.5GB"" eu-hourly=""7.5GB"" eu-monthly=""7.5GB"" tw-hourly=""7.5GB"" tw-monthly=""7.5GB"" ja-hourly=""7.5GB"" ja-monthly=""7.5GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.100"" us-monthly=""$51.10"" eu-hourly=""$0.110"" eu-monthly=""$56.22"" tw-hourly=""$0.110"" tw-monthly=""$56.22"" ja-hourly=""$0.1326"" ja-monthly=""$67.76"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.020"" us-monthly=""$14.60"" eu-hourly=""$0.022"" eu-monthly=""$16.06"" tw-hourly=""$0.022"" tw-monthly=""$16.06"" ja-hourly=""$0.0265"" ja-monthly=""$19.34"">
+      </td>"
+<td>n1-standard-4</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""4"" us-monthly=""4"" eu-hourly=""4"" eu-monthly=""4"" tw-hourly=""4"" tw-monthly=""4"" ja-hourly=""4"" ja-monthly=""4"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""15GB"" us-monthly=""15GB"" eu-hourly=""15GB"" eu-monthly=""15GB"" tw-hourly=""15GB"" tw-monthly=""15GB"" ja-hourly=""15GB"" ja-monthly=""15GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.200"" us-monthly=""$102.20"" eu-hourly=""$0.220"" eu-monthly=""$112.44"" tw-hourly=""$0.220"" tw-monthly=""$112.44"" ja-hourly=""$0.2652"" ja-monthly=""$135.52"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.040"" us-monthly=""$29.20"" eu-hourly=""$0.044"" eu-monthly=""$32.12"" tw-hourly=""$0.044"" tw-monthly=""$32.12"" ja-hourly=""$0.0530"" ja-monthly=""$38.68"">
+      </td>"
+<td>n1-standard-8</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""8"" us-monthly=""8"" eu-hourly=""8"" eu-monthly=""8"" tw-hourly=""8"" tw-monthly=""8"" ja-hourly=""8"" ja-monthly=""8"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""30GB"" us-monthly=""30GB"" eu-hourly=""30GB"" eu-monthly=""30GB"" tw-hourly=""30GB"" tw-monthly=""30GB"" ja-hourly=""30GB"" ja-monthly=""30GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.400"" us-monthly=""$204.40"" eu-hourly=""$0.440"" eu-monthly=""$224.88"" tw-hourly=""$0.440"" tw-monthly=""$224.88"" ja-hourly=""$0.5304"" ja-monthly=""$271.04"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.080"" us-monthly=""$58.40"" eu-hourly=""$0.088"" eu-monthly=""$64.24"" tw-hourly=""$0.088"" tw-monthly=""$64.24"" ja-hourly=""$0.1060"" ja-monthly=""$77.36"">
+      </td>"
+<td>n1-standard-16</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""16"" us-monthly=""16"" eu-hourly=""16"" eu-monthly=""16"" tw-hourly=""16"" tw-monthly=""16"" ja-hourly=""16"" ja-monthly=""16"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""60GB"" us-monthly=""60GB"" eu-hourly=""60GB"" eu-monthly=""60GB"" tw-hourly=""60GB"" tw-monthly=""60GB"" ja-hourly=""60GB"" ja-monthly=""60GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.800"" us-monthly=""$408.80"" eu-hourly=""$0.880"" eu-monthly=""$449.76"" tw-hourly=""$0.880"" tw-monthly=""$449.76"" ja-hourly=""$1.0608"" ja-monthly=""$542.08"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.160"" us-monthly=""$116.80"" eu-hourly=""$0.176"" eu-monthly=""$128.48"" tw-hourly=""$0.176"" tw-monthly=""$128.48"" ja-hourly=""$0.2120"" ja-monthly=""$154.72"">
+      </td>"
+"<td>n1-standard-32<sup><a href=""#machine-note1"">1</a></sup></td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""32"" us-monthly=""32"" eu-hourly=""32"" eu-monthly=""32"" tw-hourly=""32"" tw-monthly=""32"" ja-hourly=""32"" ja-monthly=""32"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""120GB"" us-monthly=""120GB"" eu-hourly=""120GB"" eu-monthly=""120GB"" tw-hourly=""120GB"" tw-monthly=""120GB"" ja-hourly=""120GB"" ja-monthly=""120GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$1.600"" us-monthly=""$817.60"" eu-hourly=""$1.760"" eu-monthly=""$899.52"" tw-hourly=""$1.760"" tw-monthly=""$899.52"" ja-hourly=""$2.1216"" ja-monthly=""$1084.16"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.320"" us-monthly=""$233.60"" eu-hourly=""$0.352"" eu-monthly=""$256.96"" tw-hourly=""$0.352"" tw-monthly=""$256.96"" ja-hourly=""$0.4240"" ja-monthly=""$309.44"">
+      </td>"
+"<td><a href=""#custommachinetypepricing"">Custom machine type</a></td>","<td colspan=""7"">
+         <p>If your ideal machine shape is in between two predefined types, using a
+          custom machine type could save you as much as 40%. Read more about
+           <a href=""#custommachinetypepricing"">Custom Machine Types</a>.</p>
+      </td>"
+
+<td>f1-micro</td>,<td>0.2</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""0.60GB"" us-monthly=""0.60GB"" eu-hourly=""0.60GB"" eu-monthly=""0.60GB"" tw-hourly=""0.60GB"" tw-monthly=""0.60GB"" ja-hourly=""0.60GB"" ja-monthly=""0.60GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.008"" us-monthly=""$4.09"" eu-hourly=""$0.009"" eu-monthly=""$4.60"" tw-hourly=""$0.009"" tw-monthly=""$4.60"" ja-hourly=""$0.0100"" ja-monthly=""$5.11"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.0035"" us-monthly=""$2.56"" eu-hourly=""$0.0039"" eu-monthly=""$2.85"" tw-hourly=""$0.0039"" tw-monthly=""$2.85"" ja-hourly=""$0.0050"" ja-monthly=""$3.65"">
+      </td>"
+<td>g1-small</td>,<td>0.5</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""1.70GB"" us-monthly=""1.70GB"" eu-hourly=""1.70GB"" eu-monthly=""1.70GB"" tw-hourly=""1.70GB"" tw-monthly=""1.70GB"" ja-hourly=""1.70GB"" ja-monthly=""1.70GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.027"" us-monthly=""$13.80"" eu-hourly=""$0.030"" eu-monthly=""$15.33"" tw-hourly=""$0.030"" tw-monthly=""$15.33"" ja-hourly=""$0.0350"" ja-monthly=""$17.89"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.0070"" us-monthly=""$5.12"" eu-hourly=""$0.0077"" eu-monthly=""$5.62"" tw-hourly=""$0.0077"" tw-monthly=""$5.62"" ja-hourly=""$0.0100"" ja-monthly=""$7.30"">
+      </td>"
+
+<td>n1-highmem-2</td>,<td>2</td>,<td>13GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.126"" us-monthly=""$64.39"" eu-hourly=""$0.139"" eu-monthly=""$71.03"" tw-hourly=""$0.139"" tw-monthly=""$71.03"" ja-hourly=""$0.1649"" ja-monthly=""$84.26"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.025"" us-monthly=""$18.25"" eu-hourly=""$0.0275"" eu-monthly=""$20.08"" tw-hourly=""$0.0275"" tw-monthly=""$20.08"" ja-hourly=""$0.0330"" ja-monthly=""$24.09"">
+      </td>"
+<td>n1-highmem-4</td>,<td>4</td>,<td>26GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.252"" us-monthly=""$128.78"" eu-hourly=""$0.278"" eu-monthly=""$142.06"" tw-hourly=""$0.278"" tw-monthly=""$142.06"" ja-hourly=""$0.3298"" ja-monthly=""$168.52"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.050"" us-monthly=""$36.50"" eu-hourly=""$0.0550"" eu-monthly=""$40.16"" tw-hourly=""$0.0550"" tw-monthly=""$40.16"" ja-hourly=""$0.0660"" ja-monthly=""$48.18"">
+      </td>"
+<td>n1-highmem-8</td>,<td>8</td>,<td>52GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.504"" us-monthly=""$257.56"" eu-hourly=""$0.556"" eu-monthly=""$284.12"" tw-hourly=""$0.556"" tw-monthly=""$284.12"" ja-hourly=""$0.6596"" ja-monthly=""$337.04"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.100"" us-monthly=""$73.00"" eu-hourly=""$0.1100"" eu-monthly=""$80.32"" tw-hourly=""$0.1100"" tw-monthly=""$80.32"" ja-hourly=""$0.1320"" ja-monthly=""$96.36"">
+      </td>"
+<td>n1-highmem-16</td>,<td>16</td>,<td>104GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$1.008"" us-monthly=""$515.12"" eu-hourly=""$1.112"" eu-monthly=""$568.24"" tw-hourly=""$1.112"" tw-monthly=""$568.24"" ja-hourly=""$1.3192"" ja-monthly=""$674.08"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.200"" us-monthly=""$146.00"" eu-hourly=""$0.2200"" eu-monthly=""$160.64"" tw-hourly=""$0.2200"" tw-monthly=""$160.64"" ja-hourly=""$0.2640"" ja-monthly=""$192.72"">
+      </td>"
+"<td>
+        n1-highmem-32<sup><a href=""#machine-note1"">1</a></sup>
+      </td>",<td>32</td>,<td>208GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$2.016"" us-monthly=""$1030.24"" eu-hourly=""$2.224"" eu-monthly=""$1136.48"" tw-hourly=""$2.224"" tw-monthly=""$1136.48"" ja-hourly=""$2.6384"" ja-monthly=""$1348.16"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.400"" us-monthly=""$292.00"" eu-hourly=""$0.4400"" eu-monthly=""$321.28"" tw-hourly=""$0.4400"" tw-monthly=""$321.28"" ja-hourly=""$0.5280"" ja-monthly=""$385.44"">
+      </td>"
+"<td><a href=""#custommachinetypepricing"">Custom machine type</a></td>","<td colspan=""7"">
+         <p>If your ideal machine shape is in between two predefined types, using a
+          custom machine type could save you as much as 40%. Read more about
+           <a href=""#custommachinetypepricing"">Custom Machine Types</a>.</p>
+      </td>"
+
+
+<td>n1-highcpu-2</td>,<td>2</td>,<td>1.80GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.076"" us-monthly=""$38.84"" eu-hourly=""$0.084"" eu-monthly=""$42.92"" tw-hourly=""$0.084"" tw-monthly=""$42.92"" ja-hourly=""$0.0990"" ja-monthly=""$50.59"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.015"" us-monthly=""$10.95"" eu-hourly=""$0.0165"" eu-monthly=""$12.05"" tw-hourly=""$0.0165"" tw-monthly=""$12.05"" ja-hourly=""$0.0198"" ja-monthly=""$14.45"">
+      </td>"
+<td>n1-highcpu-4</td>,<td>4</td>,<td>3.60GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.152"" us-monthly=""$77.68"" eu-hourly=""$0.168"" eu-monthly=""$85.84"" tw-hourly=""$0.168"" tw-monthly=""$85.84"" ja-hourly=""$0.1980"" ja-monthly=""$101.18"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.030"" us-monthly=""$21.90"" eu-hourly=""$0.0330"" eu-monthly=""$24.10"" tw-hourly=""$0.0330"" tw-monthly=""$24.10"" ja-hourly=""$0.0396"" ja-monthly=""$28.90"">
+      </td>"
+<td>n1-highcpu-8</td>,<td>8</td>,<td>7.20GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.304"" us-monthly=""$155.36"" eu-hourly=""$0.336"" eu-monthly=""$171.68"" tw-hourly=""$0.336"" tw-monthly=""$171.68"" ja-hourly=""$0.3960"" ja-monthly=""$202.36"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.060"" us-monthly=""$43.80"" eu-hourly=""$0.0660"" eu-monthly=""$48.20"" tw-hourly=""$0.0660"" tw-monthly=""$48.20"" ja-hourly=""$0.0792"" ja-monthly=""$57.80"">
+      </td>"
+<td>n1-highcpu-16</td>,<td>16</td>,<td>14.40GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.608"" us-monthly=""$310.72"" eu-hourly=""$0.672"" eu-monthly=""$343.36"" tw-hourly=""$0.672"" tw-monthly=""$343.36"" ja-hourly=""$0.7920"" ja-monthly=""$404.72"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.120"" us-monthly=""$87.60"" eu-hourly=""$0.1320"" eu-monthly=""$96.40"" tw-hourly=""$0.1320"" tw-monthly=""$96.40"" ja-hourly=""$0.1584"" ja-monthly=""$115.60"">
+      </td>"
+"<td>n1-highcpu-32<sup><a href=""#machine-note1"">1</a></sup></td>",<td>32</td>,<td>28.80GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$1.216"" us-monthly=""$621.44"" eu-hourly=""$1.344"" eu-monthly=""$686.72"" tw-hourly=""$1.344"" tw-monthly=""$686.72"" ja-hourly=""$1.5840"" ja-monthly=""$809.44"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.240"" us-monthly=""$175.20"" eu-hourly=""$0.2640"" eu-monthly=""$192.80"" tw-hourly=""$0.2640"" tw-monthly=""$192.80"" ja-hourly=""$0.3168"" ja-monthly=""$231.20"">
+      </td>"
+"<td><a href=""#custommachinetypepricing"">Custom machine type</a></td>","<td colspan=""7"">
+         <p>If your ideal machine shape is in between two predefined types, using a
+          custom machine type could save you as much as 40%. Read more about
+           <a href=""#custommachinetypepricing"">Custom Machine Types</a>.</p>
+      </td>"
+
+<td>vCPU</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.03492 / vCPU"" us-monthly=""$17.84 / vCPU"" eu-hourly=""$0.03841 / vCPU"" eu-monthly=""$19.63 / vCPU"" tw-hourly=""$0.03841 / vCPU"" tw-monthly=""$19.63 / vCPU"" ja-hourly=""$0.04415 / vCPU"" ja-monthly=""$22.56 / vCPU"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.00698 / vCPU"" us-monthly=""$5.10 / vCPU"" eu-hourly=""$0.00768 / vCPU"" eu-monthly=""$5.61 / vCPU"" tw-hourly=""$0.00768 / vCPU"" tw-monthly=""$5.61 / vCPU"" ja-hourly=""$0.00883 / vCPU"" ja-monthly=""$6.45 / vCPU"">
+      </td>"
+<td>Memory</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.00468 / GB"" us-monthly=""$2.39 / GB"" eu-hourly=""$0.00515 / GB"" eu-monthly=""$2.63 / GB"" tw-hourly=""$0.00515 / GB"" tw-monthly=""$2.63 / GB"" ja-hourly=""$0.00589 / GB"" ja-monthly=""$3.01 / GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.00094 / GB"" us-monthly=""$0.69 / GB"" eu-hourly=""$0.00103 / GB"" eu-monthly=""$0.75 / GB"" tw-hourly=""$0.00103 / GB"" tw-monthly=""$0.75 / GB"" ja-hourly=""$0.001178 / GB"" ja-monthly=""$0.86 / GB"">
+      </td>"
+
+<td>0%-25%</td>,<td>100% of base rate</td>,<td>$0.050</td>
+<td>25%-50%</td>,<td>80% of base rate</td>,<td>$0.040</td>
+<td>50%-75%</td>,<td>60% of base rate</td>,<td>$0.030</td>
+<td>75%-100%</td>,<td>40% of base rate</td>,<td>$0.020</td>
+
+<td>First 0-25% of usage</td>,<td>100%</td>,<td>$0.050 (base rate)</td>,"<td>
+        <ul>
+          <li>30 days x .25 = 7.5 days</li>
+          <li>7.5 days x 24 hours = 180 hours</li>
+          <li>180 hours x $0.050 USD/hour = $9.00</li>
+        </ul>
+      </td>"
+<td>Usage between 25%-50% of the month</td>,<td>80%</td>,<td>$0.040</td>,"<td>
+        <ul>
+          <li>180 hours x $0.040 USD/hour = $7.20</li>
+        </ul>
+      </td>"
+<td>Usage between 50%-75% of the month</td>,<td>60%</td>,<td>$0.030</td>,"<td>
+        <ul>
+          <li>180 hours x $0.030 USD/hour = $5.40</li>
+        </ul>
+      </td>"
+
+<td>Mar 1 - Mar 31</td>,"<td>
+        Google Compute Standard Intel N1 1 VCPU running in NA: 13567 Minutes
+        (Project:1234567895)
+      </td>",<td>$11.30</td>,<td> </td>
+<td>Mar 1 - Mar 31</td>,"<td>
+        Google Compute Standard Intel N1 1 VCPU running in NA Sustained Use
+        Discount: 3381 Minutes (Project:1234567895)
+      </td>",<td></td>,<td>$2.81</td>
+
+<td>Ingress</td>,<td>No charge</td>
+<td>Egress<sup>*</sup> to the same zone</td>,<td>No charge</td>
+"<td>Egress to a different Google Cloud Platform service within the same
+      region</td>",<td>No charge</td>
+"<td>Egress to Google products (such as YouTube, Maps, Drive)</td>",<td>No charge<sup>**</sup></td>
+<td>Egress<sup>*</sup> between zones in the same region (per GB)</td>,<td>$0.01</td>
+<td>Egress between regions within the US (per GB)</td>,<td>$0.01</td>
+<td>Inter-continental Egress</td>,"<td>At <a href=""#internet_egress"">Internet egress rates</a></td>"
+
+<td>0-1 TB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'hourly'"" us-hourly=""$0.12"" eu-hourly=""$0.12"" tw-hourly=""$0.12"" ja-hourly=""$0.14""></td>",<td>$0.23</td>,<td>$0.19</td>,<td>Free</td>
+<td>1-10 TB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'hourly'"" us-hourly=""$0.11"" eu-hourly=""$0.11"" tw-hourly=""$0.11"" ja-hourly=""$0.14""></td>",<td>$0.22</td>,<td>$0.18</td>,<td>Free</td>
+<td>10+ TB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'hourly'"" us-hourly=""$0.08"" eu-hourly=""$0.08"" tw-hourly=""$0.08"" ja-hourly=""$0.12""></td>",<td>$0.20</td>,<td>$0.15</td>,<td>Free</td>
+
+<td>First 5 forwarding rules</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'hourly'"" us-hourly=""$0.025"" eu-hourly=""$0.025"" tw-hourly=""$0.025"" ja-hourly=""$0.038""></td>",<td>Per Hour</td>
+<td>Data processed</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'hourly'"" us-hourly=""$0.008"" eu-hourly=""$0.008"" tw-hourly=""$0.008"" ja-hourly=""$0.012""></td>",<td>Per GB</td>
+
+<td>Per tunnel (per hour)</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'hourly'"" us-hourly=""$0.050"" eu-hourly=""$0.050"" tw-hourly=""$0.050"" ja-hourly=""$0.075""></td>"
+<td>Traffic through tunnels</td>,"<td>Charged the same as if it wasn't in a VPN tunnel.
+          See <a href=""https://cloud.google.com/compute/pricing#general"">General network pricing</a>.
+        </td>"
+<td>Public IP for VPN Gateway</td>,"<td>Charged according to
+        <a href=""https://cloud.google.com/compute/pricing#ipaddress"">IP address pricing</a>.
+        </td>"
+
+<td>Standard provisioned space</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'monthly'"" us-monthly=""$0.040"" eu-monthly=""$0.040"" tw-monthly=""$0.040"" ja-monthly=""$0.052""></td>"
+<td>SSD provisioned space</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'monthly'"" us-monthly=""$0.170"" eu-monthly=""$0.170"" tw-monthly=""$0.170"" ja-monthly=""$0.221""></td>"
+<td>Snapshot storage</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'monthly'"" us-monthly=""$0.026"" eu-monthly=""$0.026"" tw-monthly=""$0.026"" ja-monthly=""$0.034""></td>"
+"<td><a href=""https://cloud.google.com/compute/docs/disks/#pdspecs"">IO operations</a></td>",<td>No additional charge</td>
+
+<td>Image Storage (per GB / month)</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'monthly'"" us-monthly=""$0.085"" eu-monthly=""$0.085"" tw-monthly=""$0.085"" ja-monthly=""$0.111""></td>"
+
+<td>Static IP address (assigned but unused)</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'hour'"" us-hour=""$0.010"" eu-hour=""$0.010"" tw-hour=""$0.010"" ja-hour=""$0.015""></td>"
+<td>Static IP address (assigned and in use)</td>,<td>No charge</td>
+<td>Ephemeral IP address (attached to instance or forwarding rule)</td>,<td>No charge</td>
+Date,Description,Debits ($),Credits ($)
+
+<td>n1-standard-1</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""1"" us-monthly=""1"" eu-hourly=""1"" eu-monthly=""1"" tw-hourly=""1"" tw-monthly=""1"" ja-hourly=""1"" ja-monthly=""1"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""3.75GB"" us-monthly=""3.75GB"" eu-hourly=""3.75GB"" eu-monthly=""3.75GB"" tw-hourly=""3.75GB"" tw-monthly=""3.75GB"" ja-hourly=""3.75GB"" ja-monthly=""3.75GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.050"" us-monthly=""$25.55"" eu-hourly=""$0.055"" eu-monthly=""$28.11"" tw-hourly=""$0.055"" tw-monthly=""$28.11"" ja-hourly=""$0.0663"" ja-monthly=""$33.88"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.010"" us-monthly=""$7.30"" eu-hourly=""$0.011"" eu-monthly=""$8.03"" tw-hourly=""$0.011"" tw-monthly=""$8.03"" ja-hourly=""$0.01325"" ja-monthly=""$9.67"">
+      </td>"
+<td>n1-standard-2</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""2"" us-monthly=""2"" eu-hourly=""2"" eu-monthly=""2"" tw-hourly=""2"" tw-monthly=""2"" ja-hourly=""2"" ja-monthly=""2"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""7.5GB"" us-monthly=""7.5GB"" eu-hourly=""7.5GB"" eu-monthly=""7.5GB"" tw-hourly=""7.5GB"" tw-monthly=""7.5GB"" ja-hourly=""7.5GB"" ja-monthly=""7.5GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.100"" us-monthly=""$51.10"" eu-hourly=""$0.110"" eu-monthly=""$56.22"" tw-hourly=""$0.110"" tw-monthly=""$56.22"" ja-hourly=""$0.1326"" ja-monthly=""$67.76"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.020"" us-monthly=""$14.60"" eu-hourly=""$0.022"" eu-monthly=""$16.06"" tw-hourly=""$0.022"" tw-monthly=""$16.06"" ja-hourly=""$0.0265"" ja-monthly=""$19.34"">
+      </td>"
+<td>n1-standard-4</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""4"" us-monthly=""4"" eu-hourly=""4"" eu-monthly=""4"" tw-hourly=""4"" tw-monthly=""4"" ja-hourly=""4"" ja-monthly=""4"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""15GB"" us-monthly=""15GB"" eu-hourly=""15GB"" eu-monthly=""15GB"" tw-hourly=""15GB"" tw-monthly=""15GB"" ja-hourly=""15GB"" ja-monthly=""15GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.200"" us-monthly=""$102.20"" eu-hourly=""$0.220"" eu-monthly=""$112.44"" tw-hourly=""$0.220"" tw-monthly=""$112.44"" ja-hourly=""$0.2652"" ja-monthly=""$135.52"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.040"" us-monthly=""$29.20"" eu-hourly=""$0.044"" eu-monthly=""$32.12"" tw-hourly=""$0.044"" tw-monthly=""$32.12"" ja-hourly=""$0.0530"" ja-monthly=""$38.68"">
+      </td>"
+<td>n1-standard-8</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""8"" us-monthly=""8"" eu-hourly=""8"" eu-monthly=""8"" tw-hourly=""8"" tw-monthly=""8"" ja-hourly=""8"" ja-monthly=""8"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""30GB"" us-monthly=""30GB"" eu-hourly=""30GB"" eu-monthly=""30GB"" tw-hourly=""30GB"" tw-monthly=""30GB"" ja-hourly=""30GB"" ja-monthly=""30GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.400"" us-monthly=""$204.40"" eu-hourly=""$0.440"" eu-monthly=""$224.88"" tw-hourly=""$0.440"" tw-monthly=""$224.88"" ja-hourly=""$0.5304"" ja-monthly=""$271.04"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.080"" us-monthly=""$58.40"" eu-hourly=""$0.088"" eu-monthly=""$64.24"" tw-hourly=""$0.088"" tw-monthly=""$64.24"" ja-hourly=""$0.1060"" ja-monthly=""$77.36"">
+      </td>"
+<td>n1-standard-16</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""16"" us-monthly=""16"" eu-hourly=""16"" eu-monthly=""16"" tw-hourly=""16"" tw-monthly=""16"" ja-hourly=""16"" ja-monthly=""16"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""60GB"" us-monthly=""60GB"" eu-hourly=""60GB"" eu-monthly=""60GB"" tw-hourly=""60GB"" tw-monthly=""60GB"" ja-hourly=""60GB"" ja-monthly=""60GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.800"" us-monthly=""$408.80"" eu-hourly=""$0.880"" eu-monthly=""$449.76"" tw-hourly=""$0.880"" tw-monthly=""$449.76"" ja-hourly=""$1.0608"" ja-monthly=""$542.08"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.160"" us-monthly=""$116.80"" eu-hourly=""$0.176"" eu-monthly=""$128.48"" tw-hourly=""$0.176"" tw-monthly=""$128.48"" ja-hourly=""$0.2120"" ja-monthly=""$154.72"">
+      </td>"
+"<td>n1-standard-32<sup><a href=""#machine-note1"">1</a></sup></td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""32"" us-monthly=""32"" eu-hourly=""32"" eu-monthly=""32"" tw-hourly=""32"" tw-monthly=""32"" ja-hourly=""32"" ja-monthly=""32"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""120GB"" us-monthly=""120GB"" eu-hourly=""120GB"" eu-monthly=""120GB"" tw-hourly=""120GB"" tw-monthly=""120GB"" ja-hourly=""120GB"" ja-monthly=""120GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$1.600"" us-monthly=""$817.60"" eu-hourly=""$1.760"" eu-monthly=""$899.52"" tw-hourly=""$1.760"" tw-monthly=""$899.52"" ja-hourly=""$2.1216"" ja-monthly=""$1084.16"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.320"" us-monthly=""$233.60"" eu-hourly=""$0.352"" eu-monthly=""$256.96"" tw-hourly=""$0.352"" tw-monthly=""$256.96"" ja-hourly=""$0.4240"" ja-monthly=""$309.44"">
+      </td>"
+"<td><a href=""#custommachinetypepricing"">Custom machine type</a></td>","<td colspan=""7"">
+         <p>If your ideal machine shape is in between two predefined types, using a
+          custom machine type could save you as much as 40%. Read more about
+           <a href=""#custommachinetypepricing"">Custom Machine Types</a>.</p>
+      </td>"
+
+<td>f1-micro</td>,<td>0.2</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""0.60GB"" us-monthly=""0.60GB"" eu-hourly=""0.60GB"" eu-monthly=""0.60GB"" tw-hourly=""0.60GB"" tw-monthly=""0.60GB"" ja-hourly=""0.60GB"" ja-monthly=""0.60GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.008"" us-monthly=""$4.09"" eu-hourly=""$0.009"" eu-monthly=""$4.60"" tw-hourly=""$0.009"" tw-monthly=""$4.60"" ja-hourly=""$0.0100"" ja-monthly=""$5.11"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.0035"" us-monthly=""$2.56"" eu-hourly=""$0.0039"" eu-monthly=""$2.85"" tw-hourly=""$0.0039"" tw-monthly=""$2.85"" ja-hourly=""$0.0050"" ja-monthly=""$3.65"">
+      </td>"
+<td>g1-small</td>,<td>0.5</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""1.70GB"" us-monthly=""1.70GB"" eu-hourly=""1.70GB"" eu-monthly=""1.70GB"" tw-hourly=""1.70GB"" tw-monthly=""1.70GB"" ja-hourly=""1.70GB"" ja-monthly=""1.70GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.027"" us-monthly=""$13.80"" eu-hourly=""$0.030"" eu-monthly=""$15.33"" tw-hourly=""$0.030"" tw-monthly=""$15.33"" ja-hourly=""$0.0350"" ja-monthly=""$17.89"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.0070"" us-monthly=""$5.12"" eu-hourly=""$0.0077"" eu-monthly=""$5.62"" tw-hourly=""$0.0077"" tw-monthly=""$5.62"" ja-hourly=""$0.0100"" ja-monthly=""$7.30"">
+      </td>"
+
+<td>n1-highmem-2</td>,<td>2</td>,<td>13GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.126"" us-monthly=""$64.39"" eu-hourly=""$0.139"" eu-monthly=""$71.03"" tw-hourly=""$0.139"" tw-monthly=""$71.03"" ja-hourly=""$0.1649"" ja-monthly=""$84.26"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.025"" us-monthly=""$18.25"" eu-hourly=""$0.0275"" eu-monthly=""$20.08"" tw-hourly=""$0.0275"" tw-monthly=""$20.08"" ja-hourly=""$0.0330"" ja-monthly=""$24.09"">
+      </td>"
+<td>n1-highmem-4</td>,<td>4</td>,<td>26GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.252"" us-monthly=""$128.78"" eu-hourly=""$0.278"" eu-monthly=""$142.06"" tw-hourly=""$0.278"" tw-monthly=""$142.06"" ja-hourly=""$0.3298"" ja-monthly=""$168.52"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.050"" us-monthly=""$36.50"" eu-hourly=""$0.0550"" eu-monthly=""$40.16"" tw-hourly=""$0.0550"" tw-monthly=""$40.16"" ja-hourly=""$0.0660"" ja-monthly=""$48.18"">
+      </td>"
+<td>n1-highmem-8</td>,<td>8</td>,<td>52GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.504"" us-monthly=""$257.56"" eu-hourly=""$0.556"" eu-monthly=""$284.12"" tw-hourly=""$0.556"" tw-monthly=""$284.12"" ja-hourly=""$0.6596"" ja-monthly=""$337.04"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.100"" us-monthly=""$73.00"" eu-hourly=""$0.1100"" eu-monthly=""$80.32"" tw-hourly=""$0.1100"" tw-monthly=""$80.32"" ja-hourly=""$0.1320"" ja-monthly=""$96.36"">
+      </td>"
+<td>n1-highmem-16</td>,<td>16</td>,<td>104GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$1.008"" us-monthly=""$515.12"" eu-hourly=""$1.112"" eu-monthly=""$568.24"" tw-hourly=""$1.112"" tw-monthly=""$568.24"" ja-hourly=""$1.3192"" ja-monthly=""$674.08"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.200"" us-monthly=""$146.00"" eu-hourly=""$0.2200"" eu-monthly=""$160.64"" tw-hourly=""$0.2200"" tw-monthly=""$160.64"" ja-hourly=""$0.2640"" ja-monthly=""$192.72"">
+      </td>"
+"<td>
+        n1-highmem-32<sup><a href=""#machine-note1"">1</a></sup>
+      </td>",<td>32</td>,<td>208GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$2.016"" us-monthly=""$1030.24"" eu-hourly=""$2.224"" eu-monthly=""$1136.48"" tw-hourly=""$2.224"" tw-monthly=""$1136.48"" ja-hourly=""$2.6384"" ja-monthly=""$1348.16"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.400"" us-monthly=""$292.00"" eu-hourly=""$0.4400"" eu-monthly=""$321.28"" tw-hourly=""$0.4400"" tw-monthly=""$321.28"" ja-hourly=""$0.5280"" ja-monthly=""$385.44"">
+      </td>"
+"<td><a href=""#custommachinetypepricing"">Custom machine type</a></td>","<td colspan=""7"">
+         <p>If your ideal machine shape is in between two predefined types, using a
+          custom machine type could save you as much as 40%. Read more about
+           <a href=""#custommachinetypepricing"">Custom Machine Types</a>.</p>
+      </td>"
+
+
+<td>n1-highcpu-2</td>,<td>2</td>,<td>1.80GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.076"" us-monthly=""$38.84"" eu-hourly=""$0.084"" eu-monthly=""$42.92"" tw-hourly=""$0.084"" tw-monthly=""$42.92"" ja-hourly=""$0.0990"" ja-monthly=""$50.59"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.015"" us-monthly=""$10.95"" eu-hourly=""$0.0165"" eu-monthly=""$12.05"" tw-hourly=""$0.0165"" tw-monthly=""$12.05"" ja-hourly=""$0.0198"" ja-monthly=""$14.45"">
+      </td>"
+<td>n1-highcpu-4</td>,<td>4</td>,<td>3.60GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.152"" us-monthly=""$77.68"" eu-hourly=""$0.168"" eu-monthly=""$85.84"" tw-hourly=""$0.168"" tw-monthly=""$85.84"" ja-hourly=""$0.1980"" ja-monthly=""$101.18"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.030"" us-monthly=""$21.90"" eu-hourly=""$0.0330"" eu-monthly=""$24.10"" tw-hourly=""$0.0330"" tw-monthly=""$24.10"" ja-hourly=""$0.0396"" ja-monthly=""$28.90"">
+      </td>"
+<td>n1-highcpu-8</td>,<td>8</td>,<td>7.20GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.304"" us-monthly=""$155.36"" eu-hourly=""$0.336"" eu-monthly=""$171.68"" tw-hourly=""$0.336"" tw-monthly=""$171.68"" ja-hourly=""$0.3960"" ja-monthly=""$202.36"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.060"" us-monthly=""$43.80"" eu-hourly=""$0.0660"" eu-monthly=""$48.20"" tw-hourly=""$0.0660"" tw-monthly=""$48.20"" ja-hourly=""$0.0792"" ja-monthly=""$57.80"">
+      </td>"
+<td>n1-highcpu-16</td>,<td>16</td>,<td>14.40GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.608"" us-monthly=""$310.72"" eu-hourly=""$0.672"" eu-monthly=""$343.36"" tw-hourly=""$0.672"" tw-monthly=""$343.36"" ja-hourly=""$0.7920"" ja-monthly=""$404.72"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.120"" us-monthly=""$87.60"" eu-hourly=""$0.1320"" eu-monthly=""$96.40"" tw-hourly=""$0.1320"" tw-monthly=""$96.40"" ja-hourly=""$0.1584"" ja-monthly=""$115.60"">
+      </td>"
+"<td>n1-highcpu-32<sup><a href=""#machine-note1"">1</a></sup></td>",<td>32</td>,<td>28.80GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$1.216"" us-monthly=""$621.44"" eu-hourly=""$1.344"" eu-monthly=""$686.72"" tw-hourly=""$1.344"" tw-monthly=""$686.72"" ja-hourly=""$1.5840"" ja-monthly=""$809.44"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.240"" us-monthly=""$175.20"" eu-hourly=""$0.2640"" eu-monthly=""$192.80"" tw-hourly=""$0.2640"" tw-monthly=""$192.80"" ja-hourly=""$0.3168"" ja-monthly=""$231.20"">
+      </td>"
+"<td><a href=""#custommachinetypepricing"">Custom machine type</a></td>","<td colspan=""7"">
+         <p>If your ideal machine shape is in between two predefined types, using a
+          custom machine type could save you as much as 40%. Read more about
+           <a href=""#custommachinetypepricing"">Custom Machine Types</a>.</p>
+      </td>"
+
+<td>vCPU</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.03492 / vCPU"" us-monthly=""$17.84 / vCPU"" eu-hourly=""$0.03841 / vCPU"" eu-monthly=""$19.63 / vCPU"" tw-hourly=""$0.03841 / vCPU"" tw-monthly=""$19.63 / vCPU"" ja-hourly=""$0.04415 / vCPU"" ja-monthly=""$22.56 / vCPU"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.00698 / vCPU"" us-monthly=""$5.10 / vCPU"" eu-hourly=""$0.00768 / vCPU"" eu-monthly=""$5.61 / vCPU"" tw-hourly=""$0.00768 / vCPU"" tw-monthly=""$5.61 / vCPU"" ja-hourly=""$0.00883 / vCPU"" ja-monthly=""$6.45 / vCPU"">
+      </td>"
+<td>Memory</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.00468 / GB"" us-monthly=""$2.39 / GB"" eu-hourly=""$0.00515 / GB"" eu-monthly=""$2.63 / GB"" tw-hourly=""$0.00515 / GB"" tw-monthly=""$2.63 / GB"" ja-hourly=""$0.00589 / GB"" ja-monthly=""$3.01 / GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.00094 / GB"" us-monthly=""$0.69 / GB"" eu-hourly=""$0.00103 / GB"" eu-monthly=""$0.75 / GB"" tw-hourly=""$0.00103 / GB"" tw-monthly=""$0.75 / GB"" ja-hourly=""$0.001178 / GB"" ja-monthly=""$0.86 / GB"">
+      </td>"
+
+<td>0%-25%</td>,<td>100% of base rate</td>,<td>$0.050</td>
+<td>25%-50%</td>,<td>80% of base rate</td>,<td>$0.040</td>
+<td>50%-75%</td>,<td>60% of base rate</td>,<td>$0.030</td>
+<td>75%-100%</td>,<td>40% of base rate</td>,<td>$0.020</td>
+
+<td>First 0-25% of usage</td>,<td>100%</td>,<td>$0.050 (base rate)</td>,"<td>
+        <ul>
+          <li>30 days x .25 = 7.5 days</li>
+          <li>7.5 days x 24 hours = 180 hours</li>
+          <li>180 hours x $0.050 USD/hour = $9.00</li>
+        </ul>
+      </td>"
+<td>Usage between 25%-50% of the month</td>,<td>80%</td>,<td>$0.040</td>,"<td>
+        <ul>
+          <li>180 hours x $0.040 USD/hour = $7.20</li>
+        </ul>
+      </td>"
+<td>Usage between 50%-75% of the month</td>,<td>60%</td>,<td>$0.030</td>,"<td>
+        <ul>
+          <li>180 hours x $0.030 USD/hour = $5.40</li>
+        </ul>
+      </td>"
+
+<td>Mar 1 - Mar 31</td>,"<td>
+        Google Compute Standard Intel N1 1 VCPU running in NA: 13567 Minutes
+        (Project:1234567895)
+      </td>",<td>$11.30</td>,<td> </td>
+<td>Mar 1 - Mar 31</td>,"<td>
+        Google Compute Standard Intel N1 1 VCPU running in NA Sustained Use
+        Discount: 3381 Minutes (Project:1234567895)
+      </td>",<td></td>,<td>$2.81</td>
+
+<td>Ingress</td>,<td>No charge</td>
+<td>Egress<sup>*</sup> to the same zone</td>,<td>No charge</td>
+"<td>Egress to a different Google Cloud Platform service within the same
+      region</td>",<td>No charge</td>
+"<td>Egress to Google products (such as YouTube, Maps, Drive)</td>",<td>No charge<sup>**</sup></td>
+<td>Egress<sup>*</sup> between zones in the same region (per GB)</td>,<td>$0.01</td>
+<td>Egress between regions within the US (per GB)</td>,<td>$0.01</td>
+<td>Inter-continental Egress</td>,"<td>At <a href=""#internet_egress"">Internet egress rates</a></td>"
+
+<td>0-1 TB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'hourly'"" us-hourly=""$0.12"" eu-hourly=""$0.12"" tw-hourly=""$0.12"" ja-hourly=""$0.14""></td>",<td>$0.23</td>,<td>$0.19</td>,<td>Free</td>
+<td>1-10 TB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'hourly'"" us-hourly=""$0.11"" eu-hourly=""$0.11"" tw-hourly=""$0.11"" ja-hourly=""$0.14""></td>",<td>$0.22</td>,<td>$0.18</td>,<td>Free</td>
+<td>10+ TB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'hourly'"" us-hourly=""$0.08"" eu-hourly=""$0.08"" tw-hourly=""$0.08"" ja-hourly=""$0.12""></td>",<td>$0.20</td>,<td>$0.15</td>,<td>Free</td>
+
+<td>First 5 forwarding rules</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'hourly'"" us-hourly=""$0.025"" eu-hourly=""$0.025"" tw-hourly=""$0.025"" ja-hourly=""$0.038""></td>",<td>Per Hour</td>
+<td>Data processed</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'hourly'"" us-hourly=""$0.008"" eu-hourly=""$0.008"" tw-hourly=""$0.008"" ja-hourly=""$0.012""></td>",<td>Per GB</td>
+
+<td>Per tunnel (per hour)</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'hourly'"" us-hourly=""$0.050"" eu-hourly=""$0.050"" tw-hourly=""$0.050"" ja-hourly=""$0.075""></td>"
+<td>Traffic through tunnels</td>,"<td>Charged the same as if it wasn't in a VPN tunnel.
+          See <a href=""https://cloud.google.com/compute/pricing#general"">General network pricing</a>.
+        </td>"
+<td>Public IP for VPN Gateway</td>,"<td>Charged according to
+        <a href=""https://cloud.google.com/compute/pricing#ipaddress"">IP address pricing</a>.
+        </td>"
+
+<td>Standard provisioned space</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'monthly'"" us-monthly=""$0.040"" eu-monthly=""$0.040"" tw-monthly=""$0.040"" ja-monthly=""$0.052""></td>"
+<td>SSD provisioned space</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'monthly'"" us-monthly=""$0.170"" eu-monthly=""$0.170"" tw-monthly=""$0.170"" ja-monthly=""$0.221""></td>"
+<td>Snapshot storage</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'monthly'"" us-monthly=""$0.026"" eu-monthly=""$0.026"" tw-monthly=""$0.026"" ja-monthly=""$0.034""></td>"
+"<td><a href=""https://cloud.google.com/compute/docs/disks/#pdspecs"">IO operations</a></td>",<td>No additional charge</td>
+
+<td>Image Storage (per GB / month)</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'monthly'"" us-monthly=""$0.085"" eu-monthly=""$0.085"" tw-monthly=""$0.085"" ja-monthly=""$0.111""></td>"
+
+<td>Static IP address (assigned but unused)</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'hour'"" us-hour=""$0.010"" eu-hour=""$0.010"" tw-hour=""$0.010"" ja-hour=""$0.015""></td>"
+<td>Static IP address (assigned and in use)</td>,<td>No charge</td>
+<td>Ephemeral IP address (attached to instance or forwarding rule)</td>,<td>No charge</td>
+Traffic type,Price
+
+<td>n1-standard-1</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""1"" us-monthly=""1"" eu-hourly=""1"" eu-monthly=""1"" tw-hourly=""1"" tw-monthly=""1"" ja-hourly=""1"" ja-monthly=""1"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""3.75GB"" us-monthly=""3.75GB"" eu-hourly=""3.75GB"" eu-monthly=""3.75GB"" tw-hourly=""3.75GB"" tw-monthly=""3.75GB"" ja-hourly=""3.75GB"" ja-monthly=""3.75GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.050"" us-monthly=""$25.55"" eu-hourly=""$0.055"" eu-monthly=""$28.11"" tw-hourly=""$0.055"" tw-monthly=""$28.11"" ja-hourly=""$0.0663"" ja-monthly=""$33.88"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.010"" us-monthly=""$7.30"" eu-hourly=""$0.011"" eu-monthly=""$8.03"" tw-hourly=""$0.011"" tw-monthly=""$8.03"" ja-hourly=""$0.01325"" ja-monthly=""$9.67"">
+      </td>"
+<td>n1-standard-2</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""2"" us-monthly=""2"" eu-hourly=""2"" eu-monthly=""2"" tw-hourly=""2"" tw-monthly=""2"" ja-hourly=""2"" ja-monthly=""2"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""7.5GB"" us-monthly=""7.5GB"" eu-hourly=""7.5GB"" eu-monthly=""7.5GB"" tw-hourly=""7.5GB"" tw-monthly=""7.5GB"" ja-hourly=""7.5GB"" ja-monthly=""7.5GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.100"" us-monthly=""$51.10"" eu-hourly=""$0.110"" eu-monthly=""$56.22"" tw-hourly=""$0.110"" tw-monthly=""$56.22"" ja-hourly=""$0.1326"" ja-monthly=""$67.76"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.020"" us-monthly=""$14.60"" eu-hourly=""$0.022"" eu-monthly=""$16.06"" tw-hourly=""$0.022"" tw-monthly=""$16.06"" ja-hourly=""$0.0265"" ja-monthly=""$19.34"">
+      </td>"
+<td>n1-standard-4</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""4"" us-monthly=""4"" eu-hourly=""4"" eu-monthly=""4"" tw-hourly=""4"" tw-monthly=""4"" ja-hourly=""4"" ja-monthly=""4"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""15GB"" us-monthly=""15GB"" eu-hourly=""15GB"" eu-monthly=""15GB"" tw-hourly=""15GB"" tw-monthly=""15GB"" ja-hourly=""15GB"" ja-monthly=""15GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.200"" us-monthly=""$102.20"" eu-hourly=""$0.220"" eu-monthly=""$112.44"" tw-hourly=""$0.220"" tw-monthly=""$112.44"" ja-hourly=""$0.2652"" ja-monthly=""$135.52"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.040"" us-monthly=""$29.20"" eu-hourly=""$0.044"" eu-monthly=""$32.12"" tw-hourly=""$0.044"" tw-monthly=""$32.12"" ja-hourly=""$0.0530"" ja-monthly=""$38.68"">
+      </td>"
+<td>n1-standard-8</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""8"" us-monthly=""8"" eu-hourly=""8"" eu-monthly=""8"" tw-hourly=""8"" tw-monthly=""8"" ja-hourly=""8"" ja-monthly=""8"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""30GB"" us-monthly=""30GB"" eu-hourly=""30GB"" eu-monthly=""30GB"" tw-hourly=""30GB"" tw-monthly=""30GB"" ja-hourly=""30GB"" ja-monthly=""30GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.400"" us-monthly=""$204.40"" eu-hourly=""$0.440"" eu-monthly=""$224.88"" tw-hourly=""$0.440"" tw-monthly=""$224.88"" ja-hourly=""$0.5304"" ja-monthly=""$271.04"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.080"" us-monthly=""$58.40"" eu-hourly=""$0.088"" eu-monthly=""$64.24"" tw-hourly=""$0.088"" tw-monthly=""$64.24"" ja-hourly=""$0.1060"" ja-monthly=""$77.36"">
+      </td>"
+<td>n1-standard-16</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""16"" us-monthly=""16"" eu-hourly=""16"" eu-monthly=""16"" tw-hourly=""16"" tw-monthly=""16"" ja-hourly=""16"" ja-monthly=""16"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""60GB"" us-monthly=""60GB"" eu-hourly=""60GB"" eu-monthly=""60GB"" tw-hourly=""60GB"" tw-monthly=""60GB"" ja-hourly=""60GB"" ja-monthly=""60GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.800"" us-monthly=""$408.80"" eu-hourly=""$0.880"" eu-monthly=""$449.76"" tw-hourly=""$0.880"" tw-monthly=""$449.76"" ja-hourly=""$1.0608"" ja-monthly=""$542.08"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.160"" us-monthly=""$116.80"" eu-hourly=""$0.176"" eu-monthly=""$128.48"" tw-hourly=""$0.176"" tw-monthly=""$128.48"" ja-hourly=""$0.2120"" ja-monthly=""$154.72"">
+      </td>"
+"<td>n1-standard-32<sup><a href=""#machine-note1"">1</a></sup></td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""32"" us-monthly=""32"" eu-hourly=""32"" eu-monthly=""32"" tw-hourly=""32"" tw-monthly=""32"" ja-hourly=""32"" ja-monthly=""32"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""120GB"" us-monthly=""120GB"" eu-hourly=""120GB"" eu-monthly=""120GB"" tw-hourly=""120GB"" tw-monthly=""120GB"" ja-hourly=""120GB"" ja-monthly=""120GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$1.600"" us-monthly=""$817.60"" eu-hourly=""$1.760"" eu-monthly=""$899.52"" tw-hourly=""$1.760"" tw-monthly=""$899.52"" ja-hourly=""$2.1216"" ja-monthly=""$1084.16"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.320"" us-monthly=""$233.60"" eu-hourly=""$0.352"" eu-monthly=""$256.96"" tw-hourly=""$0.352"" tw-monthly=""$256.96"" ja-hourly=""$0.4240"" ja-monthly=""$309.44"">
+      </td>"
+"<td><a href=""#custommachinetypepricing"">Custom machine type</a></td>","<td colspan=""7"">
+         <p>If your ideal machine shape is in between two predefined types, using a
+          custom machine type could save you as much as 40%. Read more about
+           <a href=""#custommachinetypepricing"">Custom Machine Types</a>.</p>
+      </td>"
+
+<td>f1-micro</td>,<td>0.2</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""0.60GB"" us-monthly=""0.60GB"" eu-hourly=""0.60GB"" eu-monthly=""0.60GB"" tw-hourly=""0.60GB"" tw-monthly=""0.60GB"" ja-hourly=""0.60GB"" ja-monthly=""0.60GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.008"" us-monthly=""$4.09"" eu-hourly=""$0.009"" eu-monthly=""$4.60"" tw-hourly=""$0.009"" tw-monthly=""$4.60"" ja-hourly=""$0.0100"" ja-monthly=""$5.11"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.0035"" us-monthly=""$2.56"" eu-hourly=""$0.0039"" eu-monthly=""$2.85"" tw-hourly=""$0.0039"" tw-monthly=""$2.85"" ja-hourly=""$0.0050"" ja-monthly=""$3.65"">
+      </td>"
+<td>g1-small</td>,<td>0.5</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""1.70GB"" us-monthly=""1.70GB"" eu-hourly=""1.70GB"" eu-monthly=""1.70GB"" tw-hourly=""1.70GB"" tw-monthly=""1.70GB"" ja-hourly=""1.70GB"" ja-monthly=""1.70GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.027"" us-monthly=""$13.80"" eu-hourly=""$0.030"" eu-monthly=""$15.33"" tw-hourly=""$0.030"" tw-monthly=""$15.33"" ja-hourly=""$0.0350"" ja-monthly=""$17.89"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.0070"" us-monthly=""$5.12"" eu-hourly=""$0.0077"" eu-monthly=""$5.62"" tw-hourly=""$0.0077"" tw-monthly=""$5.62"" ja-hourly=""$0.0100"" ja-monthly=""$7.30"">
+      </td>"
+
+<td>n1-highmem-2</td>,<td>2</td>,<td>13GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.126"" us-monthly=""$64.39"" eu-hourly=""$0.139"" eu-monthly=""$71.03"" tw-hourly=""$0.139"" tw-monthly=""$71.03"" ja-hourly=""$0.1649"" ja-monthly=""$84.26"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.025"" us-monthly=""$18.25"" eu-hourly=""$0.0275"" eu-monthly=""$20.08"" tw-hourly=""$0.0275"" tw-monthly=""$20.08"" ja-hourly=""$0.0330"" ja-monthly=""$24.09"">
+      </td>"
+<td>n1-highmem-4</td>,<td>4</td>,<td>26GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.252"" us-monthly=""$128.78"" eu-hourly=""$0.278"" eu-monthly=""$142.06"" tw-hourly=""$0.278"" tw-monthly=""$142.06"" ja-hourly=""$0.3298"" ja-monthly=""$168.52"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.050"" us-monthly=""$36.50"" eu-hourly=""$0.0550"" eu-monthly=""$40.16"" tw-hourly=""$0.0550"" tw-monthly=""$40.16"" ja-hourly=""$0.0660"" ja-monthly=""$48.18"">
+      </td>"
+<td>n1-highmem-8</td>,<td>8</td>,<td>52GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.504"" us-monthly=""$257.56"" eu-hourly=""$0.556"" eu-monthly=""$284.12"" tw-hourly=""$0.556"" tw-monthly=""$284.12"" ja-hourly=""$0.6596"" ja-monthly=""$337.04"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.100"" us-monthly=""$73.00"" eu-hourly=""$0.1100"" eu-monthly=""$80.32"" tw-hourly=""$0.1100"" tw-monthly=""$80.32"" ja-hourly=""$0.1320"" ja-monthly=""$96.36"">
+      </td>"
+<td>n1-highmem-16</td>,<td>16</td>,<td>104GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$1.008"" us-monthly=""$515.12"" eu-hourly=""$1.112"" eu-monthly=""$568.24"" tw-hourly=""$1.112"" tw-monthly=""$568.24"" ja-hourly=""$1.3192"" ja-monthly=""$674.08"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.200"" us-monthly=""$146.00"" eu-hourly=""$0.2200"" eu-monthly=""$160.64"" tw-hourly=""$0.2200"" tw-monthly=""$160.64"" ja-hourly=""$0.2640"" ja-monthly=""$192.72"">
+      </td>"
+"<td>
+        n1-highmem-32<sup><a href=""#machine-note1"">1</a></sup>
+      </td>",<td>32</td>,<td>208GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$2.016"" us-monthly=""$1030.24"" eu-hourly=""$2.224"" eu-monthly=""$1136.48"" tw-hourly=""$2.224"" tw-monthly=""$1136.48"" ja-hourly=""$2.6384"" ja-monthly=""$1348.16"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.400"" us-monthly=""$292.00"" eu-hourly=""$0.4400"" eu-monthly=""$321.28"" tw-hourly=""$0.4400"" tw-monthly=""$321.28"" ja-hourly=""$0.5280"" ja-monthly=""$385.44"">
+      </td>"
+"<td><a href=""#custommachinetypepricing"">Custom machine type</a></td>","<td colspan=""7"">
+         <p>If your ideal machine shape is in between two predefined types, using a
+          custom machine type could save you as much as 40%. Read more about
+           <a href=""#custommachinetypepricing"">Custom Machine Types</a>.</p>
+      </td>"
+
+
+<td>n1-highcpu-2</td>,<td>2</td>,<td>1.80GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.076"" us-monthly=""$38.84"" eu-hourly=""$0.084"" eu-monthly=""$42.92"" tw-hourly=""$0.084"" tw-monthly=""$42.92"" ja-hourly=""$0.0990"" ja-monthly=""$50.59"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.015"" us-monthly=""$10.95"" eu-hourly=""$0.0165"" eu-monthly=""$12.05"" tw-hourly=""$0.0165"" tw-monthly=""$12.05"" ja-hourly=""$0.0198"" ja-monthly=""$14.45"">
+      </td>"
+<td>n1-highcpu-4</td>,<td>4</td>,<td>3.60GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.152"" us-monthly=""$77.68"" eu-hourly=""$0.168"" eu-monthly=""$85.84"" tw-hourly=""$0.168"" tw-monthly=""$85.84"" ja-hourly=""$0.1980"" ja-monthly=""$101.18"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.030"" us-monthly=""$21.90"" eu-hourly=""$0.0330"" eu-monthly=""$24.10"" tw-hourly=""$0.0330"" tw-monthly=""$24.10"" ja-hourly=""$0.0396"" ja-monthly=""$28.90"">
+      </td>"
+<td>n1-highcpu-8</td>,<td>8</td>,<td>7.20GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.304"" us-monthly=""$155.36"" eu-hourly=""$0.336"" eu-monthly=""$171.68"" tw-hourly=""$0.336"" tw-monthly=""$171.68"" ja-hourly=""$0.3960"" ja-monthly=""$202.36"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.060"" us-monthly=""$43.80"" eu-hourly=""$0.0660"" eu-monthly=""$48.20"" tw-hourly=""$0.0660"" tw-monthly=""$48.20"" ja-hourly=""$0.0792"" ja-monthly=""$57.80"">
+      </td>"
+<td>n1-highcpu-16</td>,<td>16</td>,<td>14.40GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.608"" us-monthly=""$310.72"" eu-hourly=""$0.672"" eu-monthly=""$343.36"" tw-hourly=""$0.672"" tw-monthly=""$343.36"" ja-hourly=""$0.7920"" ja-monthly=""$404.72"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.120"" us-monthly=""$87.60"" eu-hourly=""$0.1320"" eu-monthly=""$96.40"" tw-hourly=""$0.1320"" tw-monthly=""$96.40"" ja-hourly=""$0.1584"" ja-monthly=""$115.60"">
+      </td>"
+"<td>n1-highcpu-32<sup><a href=""#machine-note1"">1</a></sup></td>",<td>32</td>,<td>28.80GB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$1.216"" us-monthly=""$621.44"" eu-hourly=""$1.344"" eu-monthly=""$686.72"" tw-hourly=""$1.344"" tw-monthly=""$686.72"" ja-hourly=""$1.5840"" ja-monthly=""$809.44"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.240"" us-monthly=""$175.20"" eu-hourly=""$0.2640"" eu-monthly=""$192.80"" tw-hourly=""$0.2640"" tw-monthly=""$192.80"" ja-hourly=""$0.3168"" ja-monthly=""$231.20"">
+      </td>"
+"<td><a href=""#custommachinetypepricing"">Custom machine type</a></td>","<td colspan=""7"">
+         <p>If your ideal machine shape is in between two predefined types, using a
+          custom machine type could save you as much as 40%. Read more about
+           <a href=""#custommachinetypepricing"">Custom Machine Types</a>.</p>
+      </td>"
+
+<td>vCPU</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.03492 / vCPU"" us-monthly=""$17.84 / vCPU"" eu-hourly=""$0.03841 / vCPU"" eu-monthly=""$19.63 / vCPU"" tw-hourly=""$0.03841 / vCPU"" tw-monthly=""$19.63 / vCPU"" ja-hourly=""$0.04415 / vCPU"" ja-monthly=""$22.56 / vCPU"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.00698 / vCPU"" us-monthly=""$5.10 / vCPU"" eu-hourly=""$0.00768 / vCPU"" eu-monthly=""$5.61 / vCPU"" tw-hourly=""$0.00768 / vCPU"" tw-monthly=""$5.61 / vCPU"" ja-hourly=""$0.00883 / vCPU"" ja-monthly=""$6.45 / vCPU"">
+      </td>"
+<td>Memory</td>,"<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.00468 / GB"" us-monthly=""$2.39 / GB"" eu-hourly=""$0.00515 / GB"" eu-monthly=""$2.63 / GB"" tw-hourly=""$0.00515 / GB"" tw-monthly=""$2.63 / GB"" ja-hourly=""$0.00589 / GB"" ja-monthly=""$3.01 / GB"">
+      </td>","<td cloud-pricer region=""ctrl.region"" rate=""ctrl.rate"" us-hourly=""$0.00094 / GB"" us-monthly=""$0.69 / GB"" eu-hourly=""$0.00103 / GB"" eu-monthly=""$0.75 / GB"" tw-hourly=""$0.00103 / GB"" tw-monthly=""$0.75 / GB"" ja-hourly=""$0.001178 / GB"" ja-monthly=""$0.86 / GB"">
+      </td>"
+
+<td>0%-25%</td>,<td>100% of base rate</td>,<td>$0.050</td>
+<td>25%-50%</td>,<td>80% of base rate</td>,<td>$0.040</td>
+<td>50%-75%</td>,<td>60% of base rate</td>,<td>$0.030</td>
+<td>75%-100%</td>,<td>40% of base rate</td>,<td>$0.020</td>
+
+<td>First 0-25% of usage</td>,<td>100%</td>,<td>$0.050 (base rate)</td>,"<td>
+        <ul>
+          <li>30 days x .25 = 7.5 days</li>
+          <li>7.5 days x 24 hours = 180 hours</li>
+          <li>180 hours x $0.050 USD/hour = $9.00</li>
+        </ul>
+      </td>"
+<td>Usage between 25%-50% of the month</td>,<td>80%</td>,<td>$0.040</td>,"<td>
+        <ul>
+          <li>180 hours x $0.040 USD/hour = $7.20</li>
+        </ul>
+      </td>"
+<td>Usage between 50%-75% of the month</td>,<td>60%</td>,<td>$0.030</td>,"<td>
+        <ul>
+          <li>180 hours x $0.030 USD/hour = $5.40</li>
+        </ul>
+      </td>"
+
+<td>Mar 1 - Mar 31</td>,"<td>
+        Google Compute Standard Intel N1 1 VCPU running in NA: 13567 Minutes
+        (Project:1234567895)
+      </td>",<td>$11.30</td>,<td> </td>
+<td>Mar 1 - Mar 31</td>,"<td>
+        Google Compute Standard Intel N1 1 VCPU running in NA Sustained Use
+        Discount: 3381 Minutes (Project:1234567895)
+      </td>",<td></td>,<td>$2.81</td>
+
+<td>Ingress</td>,<td>No charge</td>
+<td>Egress<sup>*</sup> to the same zone</td>,<td>No charge</td>
+"<td>Egress to a different Google Cloud Platform service within the same
+      region</td>",<td>No charge</td>
+"<td>Egress to Google products (such as YouTube, Maps, Drive)</td>",<td>No charge<sup>**</sup></td>
+<td>Egress<sup>*</sup> between zones in the same region (per GB)</td>,<td>$0.01</td>
+<td>Egress between regions within the US (per GB)</td>,<td>$0.01</td>
+<td>Inter-continental Egress</td>,"<td>At <a href=""#internet_egress"">Internet egress rates</a></td>"
+
+<td>0-1 TB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'hourly'"" us-hourly=""$0.12"" eu-hourly=""$0.12"" tw-hourly=""$0.12"" ja-hourly=""$0.14""></td>",<td>$0.23</td>,<td>$0.19</td>,<td>Free</td>
+<td>1-10 TB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'hourly'"" us-hourly=""$0.11"" eu-hourly=""$0.11"" tw-hourly=""$0.11"" ja-hourly=""$0.14""></td>",<td>$0.22</td>,<td>$0.18</td>,<td>Free</td>
+<td>10+ TB</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'hourly'"" us-hourly=""$0.08"" eu-hourly=""$0.08"" tw-hourly=""$0.08"" ja-hourly=""$0.12""></td>",<td>$0.20</td>,<td>$0.15</td>,<td>Free</td>
+
+<td>First 5 forwarding rules</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'hourly'"" us-hourly=""$0.025"" eu-hourly=""$0.025"" tw-hourly=""$0.025"" ja-hourly=""$0.038""></td>",<td>Per Hour</td>
+<td>Data processed</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'hourly'"" us-hourly=""$0.008"" eu-hourly=""$0.008"" tw-hourly=""$0.008"" ja-hourly=""$0.012""></td>",<td>Per GB</td>
+
+<td>Per tunnel (per hour)</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'hourly'"" us-hourly=""$0.050"" eu-hourly=""$0.050"" tw-hourly=""$0.050"" ja-hourly=""$0.075""></td>"
+<td>Traffic through tunnels</td>,"<td>Charged the same as if it wasn't in a VPN tunnel.
+          See <a href=""https://cloud.google.com/compute/pricing#general"">General network pricing</a>.
+        </td>"
+<td>Public IP for VPN Gateway</td>,"<td>Charged according to
+        <a href=""https://cloud.google.com/compute/pricing#ipaddress"">IP address pricing</a>.
+        </td>"
+
+<td>Standard provisioned space</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'monthly'"" us-monthly=""$0.040"" eu-monthly=""$0.040"" tw-monthly=""$0.040"" ja-monthly=""$0.052""></td>"
+<td>SSD provisioned space</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'monthly'"" us-monthly=""$0.170"" eu-monthly=""$0.170"" tw-monthly=""$0.170"" ja-monthly=""$0.221""></td>"
+<td>Snapshot storage</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'monthly'"" us-monthly=""$0.026"" eu-monthly=""$0.026"" tw-monthly=""$0.026"" ja-monthly=""$0.034""></td>"
+"<td><a href=""https://cloud.google.com/compute/docs/disks/#pdspecs"">IO operations</a></td>",<td>No additional charge</td>
+
+<td>Image Storage (per GB / month)</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'monthly'"" us-monthly=""$0.085"" eu-monthly=""$0.085"" tw-monthly=""$0.085"" ja-monthly=""$0.111""></td>"
+
+<td>Static IP address (assigned but unused)</td>,"<td cloud-pricer region=""ctrl.region"" rate=""'hour'"" us-hour=""$0.010"" eu-hour=""$0.010"" tw-hour=""$0.010"" ja-hour=""$0.015""></td>"
+<td>Static IP address (assigned and in use)</td>,<td>No charge</td>
+<td>Ephemeral IP address (attached to instance or forwarding rule)</td>,<td>No charge</td>
