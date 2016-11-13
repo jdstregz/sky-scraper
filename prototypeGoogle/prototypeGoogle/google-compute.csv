@@ -1,0 +1,133 @@
+Machine type,Virtual CPUs,Memory,Price (USD),Preemptible price (USD)
+
+n1-standard-1,"
+      ","
+      ","
+      ","
+      "
+n1-standard-2,"
+      ","
+      ","
+      ","
+      "
+n1-standard-4,"
+      ","
+      ","
+      ","
+      "
+n1-standard-8,"
+      ","
+      ","
+      ","
+      "
+n1-standard-16,"
+      ","
+      ","
+      ","
+      "
+n1-standard-32,"
+      ","
+      ","
+      ","
+      "
+"
+         ","
+      "
+Machine type,Virtual CPUs,Memory,Price (USD),Preemptible price (USD)
+
+f1-micro,0.2,"
+      ","
+      ","
+      "
+g1-small,0.5,"
+      ","
+      ","
+      "
+Machine type,Virtual CPUs,Memory,Price (USD),Preemptible price (USD)
+
+n1-highmem-2,2,13GB,"
+      ","
+      "
+n1-highmem-4,4,26GB,"
+      ","
+      "
+n1-highmem-8,8,52GB,"
+      ","
+      "
+n1-highmem-16,16,104GB,"
+      ","
+      "
+"
+        n1-highmem-32","
+      ",32,208GB,"
+      ","
+      "
+"
+         ","
+      "
+Machine type,Virtual CPUs,Memory,Price (USD),Preemptible price (USD)
+
+
+n1-highcpu-2,2,1.80GB,"
+      ","
+      "
+n1-highcpu-4,4,3.60GB,"
+      ","
+      "
+n1-highcpu-8,8,7.20GB,"
+      ","
+      "
+n1-highcpu-16,16,14.40GB,"
+      ","
+      "
+n1-highcpu-32,32,28.80GB,"
+      ","
+      "
+"
+         ","
+      "
+Item,Price (USD),Preemptible price (USD)
+
+vCPU,"
+      ","
+      "
+Memory,"
+      ","
+      "
+Usage Level (% of month),% at which incremental is charged,Example incremental rate (USD/hour) for an n1-standard-1 instance
+
+0%-25%,100% of base rate,$0.050
+25%-50%,80% of base rate,$0.040
+50%-75%,60% of base rate,$0.030
+75%-100%,40% of base rate,$0.020
+Usage level (% of month) for an n1-standard-1 instance,% of base rate usage charge,Example rate (USD/hour),"Calculated charges, assuming 30-day month"
+
+First 0-25% of usage,100%,$0.050 (base rate),"
+        ","
+      "
+Usage between 25%-50% of the month,80%,$0.040,"
+        ","
+      "
+Usage between 50%-75% of the month,60%,$0.030,"
+        ","
+      "
+Date,Description,Debits ($),Credits ($)
+
+Mar 1 - Mar 31,"
+        Google Compute Standard Intel N1 1 VCPU running in NA: 13567 Minutes
+        (Project:1234567895)
+      ",$11.30, 
+Mar 1 - Mar 31,"
+        Google Compute Standard Intel N1 1 VCPU running in NA Sustained Use
+        Discount: 3381 Minutes (Project:1234567895)
+      ",$2.81
+Traffic type,Price
+
+Ingress,No charge
+Egress, to the same zone,No charge
+"Egress to a different Google Cloud Platform service within the same
+      region",No charge
+"Egress to Google products (such as YouTube, Maps, Drive)",No charge
+Egress, between zones in the same region (per GB),$0.01
+Egress between regions within the US (per GB),$0.01
+Inter-continental Egress,At 

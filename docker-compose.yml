@@ -1,5 +1,12 @@
+web:
+    image: postgres
+    ports:
+        - "62576:62576"
+    links:
+        - db
 db:
     image: postgres
     environment:
         POSTGRES_PASSWORD: docker
         POSTGRES_USER: docker
+
