@@ -64,7 +64,7 @@ class GoogleSpider(scrapy.Spider):
                         j = 0
                         row_array = []
                         for item in row.xpath('.//td').extract():
-                            output = re.search(r'us-hourly="(\w+)"', item)
+                            output = re.findall(r'us-hourly=\"(.+?)\"', item)
                             print output
                             print(item, j)
                             row_array.append(item)
