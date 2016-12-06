@@ -97,7 +97,7 @@ class GoogleSpider(scrapy.Spider):
         self.conn.close()              
 
     def make_demand_table(self):
-        self.cur.execute("SELECT * from gcp_compute_pricing")
+        self.cur.execute("select * from information_schema.tables where table_name=%s;", ('gcp_compute_pricing',))
         if bool(self.cur.rowcount):
             self.cur.execute("DROP TABLE gcp_compute_pricing;")
         self.cur.execute("""CREATE TABLE gcp_compute_pricing (

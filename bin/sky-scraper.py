@@ -44,7 +44,7 @@ def main(argv):
     dir_path = dir_path + "/docker-compose.yml"
 
     if start_docker:
-        print "Checking Docker Instance"
+        print "Starting Docker Instance"
         print dir_path
         try:
             subprocess.check_output(["docker-compose", "-f", dir_path, "up", "-d"])
@@ -52,7 +52,14 @@ def main(argv):
             print e.output
 
     if kill_docker:
-        
+        print "Killing Docker Instance"
+        print dir_path
+        try:
+            subprocess.check_output(["docker-compose", "-f", dir_path, "kill"])
+        except subprocess.CalledProcessError as e:
+            print e.output
+        sys.exit(1)
+    
 
 if __name__ == "__main__":
     if sys.argv[1:]:

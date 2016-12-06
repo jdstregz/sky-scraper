@@ -12,7 +12,7 @@ class AzureSpider(scrapy.Spider):
     baseURL+'r-server/',
     baseURL+'sles/',
     baseURL+'windows/',
-    baseURL+'biztalk-enterprise/',
+    baseURL+'biztalk-enterprise/', 
     baseURL+'biztalk-standard/',
     baseURL+'oracle-java/',
     baseURL+'sharepoint/',
