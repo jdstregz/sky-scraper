@@ -29,6 +29,14 @@ To stop Postgres instance:
 
 (on osx) - $ sudo launchctl stop com.edb.launchd.postgresql-9.6
 
+To connect to docker psql instance:
+
+$ psql -h localhost -p 5432 -U docker
+(password is docker)
+also make sure psql (and the whole bin for postgres) is in ur path
+
+
+
 Sprint 2 completions
 
 - got the schema

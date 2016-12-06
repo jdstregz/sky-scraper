@@ -33,7 +33,7 @@ def fix_s(var):
 class AWSDemandSpider(scrapy.Spider):
     name = "aws_demand"
 
-    conn = psycopg2.connect("dbname=testdb user=postgres")
+    conn = psycopg2.connect("dbname='testdb' user='docker' host='localhost' password='docker'")
     cur = conn.cursor()
 
     url = 'http://localhost:8050/render.html?url=https://aws.amazon.com/ec2/pricing/on-demand/&timeout=10&wait=0.5'
