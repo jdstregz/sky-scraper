@@ -19,7 +19,7 @@ pip install scrapy
 ```
 [Psycopg2](http://initd.org/psycopg/): PostgreSQL adaptor for Python
 ```bash
-pip install scrapy
+pip install psycopg2
 ```
 [Scrapy-Splash](https://github.com/scrapy-plugins/scrapy-splash): Scrapy & JavaScript Integration through Splash
 ```bash
