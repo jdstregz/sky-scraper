@@ -31,17 +31,17 @@ class AzureSpider(scrapy.Spider):
   def make_vm_table(self, cur):
     cur.execute("select * from information_schema.tables where table_name=%s;",
                   ('azure_vm_pricing',))
-    if bool(cur.rowcount):
+    if not bool(cur.rowcount):
       cur.execute("DROP TABLE azure_vm_pricing;")
-    cur.execute("""CREATE TABLE azure_vm_pricing  (
-                  id bigserial NOT NULL,
-                  instance_type character varying(255),
-                  hourly_rate real,
-                  region character varying(255),
-                  platform character varying(255),
-                  CONSTRAINT azure_vm_pricing_pkey PRIMARY KEY (id)
-                  );"""
-    )
+      cur.execute("""CREATE TABLE azure_vm_pricing  (
+                    id bigserial NOT NULL,
+                    instance_type character varying(255),
+                    hourly_rate real,
+                    region character varying(255),
+                    platform character varying(255),
+                    CONSTRAINT azure_vm_pricing_pkey PRIMARY KEY (id)
+                    );"""
+      )
   
   def parse(self, response):
     mainSelector = '//section[@class="section section-size3"]'
