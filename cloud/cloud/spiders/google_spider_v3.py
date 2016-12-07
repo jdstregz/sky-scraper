@@ -10,7 +10,8 @@ class GoogleSpider(scrapy.Spider):
         print "Unable to connect to database..."
 
     cur = conn.cursor()
-    
+
+
     def start_requests(self):
         urls = [
             'https://cloud.google.com/compute/pricing',
@@ -31,8 +32,6 @@ class GoogleSpider(scrapy.Spider):
         db_preprice = ''
 
         tables = response.xpath('//table')
-
-        #response.xpath('.//div[@class="table-bar"]/md-select/md-option').extract_first()
 
         regions = ['US', 'Europe', 'Asia (Taiwan)', 'Asia (Japan)']
 
@@ -94,7 +93,7 @@ class GoogleSpider(scrapy.Spider):
                             (db_type, db_price, db_preprice, db_region, db_memory))
         self.conn.commit()
         self.cur.close()
-        self.conn.close()              
+        self.conn.close()
 
     def make_demand_table(self):
         self.cur.execute("select * from information_schema.tables where table_name=%s;", ('gcp_compute_pricing',))

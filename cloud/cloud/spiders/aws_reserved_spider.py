@@ -32,20 +32,19 @@ def fix_s(var):
 class AWSReservedSpider(scrapy.Spider):
     name = "aws_reserved"
 
-    conn = psycopg2.connect("dbname='testdb' user='docker' host='localhost' password='docker'")
-    cur = conn.cursor()
 
-    url = 'http://localhost:8050/render.html?url=https://aws.amazon.com/ec2/pricing/reserved-instances/pricing/&timeout=10&wait=0.5'
+    def __init__(self):
+        self.conn = psycopg2.connect("dbname='testdb' user='docker' host='localhost' password='docker'")
+        self.cur = self.conn.cursor()
+        self.url = 'http://localhost:8050/render.html?url=https://aws.amazon.com/ec2/pricing/reserved-instances/pricing/&timeout=10&wait=0.5'
+
+        self.total_entries = 28320
+        self.scrape_attempts = 0
+
 
     def start_requests(self):
-        # self.conn = psycopg2.connect("dbname=testdb user=postgres")
-        # self.cur = conn.cursor()
-
         self.make_reserved_table()
-
-        yield SplashRequest(self.url, self.parse, args={'wait':0.5})
-
-        # wait(self.conn)
+        yield SplashRequest(self.url, self.parse, dont_filter=True, args={'wait':0.5})
 
 
     def parse(self, response):
@@ -59,21 +58,14 @@ class AWSReservedSpider(scrapy.Spider):
         db_service = '' # Not used yet
         db_timestamp = 0
 
-        # conn = psycopg2.connect("dbname=testdb user=postgres")
-        # cur = conn.cursor()
 
         tabs = response.xpath('//div[@class="section tab-wrapper"]').xpath('.//li/a/text()').extract()
         tab_count = 0
+        entry_count = 0
 
-        sanity = 0;
-
-        print len(tabs)
         platforms = response.xpath('//div[@class="tab-content"]/div')
-        print len(platforms)
         for platform in platforms:
             db_platform = tabs[tab_count]
-
-            print db_platform
 
             for div in platform.xpath('.//div[@class="puretmpl"]/div'):
 
@@ -98,40 +90,58 @@ class AWSReservedSpider(scrapy.Spider):
                             self.cur.execute("INSERT INTO reserved_rate_plan_v3 (type, region, platform, utilization, term, rate, upfront, service) Values (%s, %s, %s, %s, %s, %s, %s, %s)",
                             (db_type, db_region, db_platform, db_utilitization, db_term, db_rate, db_upfront, db_service))
 
-                            sanity += 1
+                            entry_count += 1
 
             tab_count += 1
-            print tab_count
 
-        print sanity
-        self.conn.commit()
-        self.cur.close()
-        self.conn.close()
+
+        print "Attempt " + str(self.scrape_attempts)
+        print "Scraped " + str(entry_count) + " out of " + str(self.total_entries)
+
+        if entry_count < self.total_entries :
+            if self.scrape_attempts < 10:
+                print "Going to attempt to scrape again..."
+                self.scrape_attempts += 1
+                self.make_reserved_table()
+                yield SplashRequest(self.url, self.parse, dont_filter=True, args={'wait':0.5})
+            else:
+                print "Reached max number of scrapes. Either run again for this spider or check if anything is wrong."
+                self.cur.close()
+                self.conn.close()
+        else:
+            if entry_count > self.total_entries :
+                print "Scraped more than we expected. Might want to check if anything changed on the page. Continuing..."
+            self.conn.commit()
+            self.cur.close()
+            self.conn.close()
+
+
+
 
     def make_reserved_table(self):
         self.cur.execute("select * from information_schema.tables where table_name=%s;", ('reserved_rate_plan_v3',))
         if bool(self.cur.rowcount):
             self.cur.execute("DROP TABLE reserved_rate_plan_v3;")
-        self.cur.execute("""CREATE TABLE reserved_rate_plan_v3 (
+            self.cur.execute("""CREATE TABLE reserved_rate_plan_v3 (
 
-  type character varying NOT NULL,
+            type character varying NOT NULL,
 
-  region character varying NOT NULL,
+            region character varying NOT NULL,
 
-  platform character varying NOT NULL,
+            platform character varying NOT NULL,
 
-  utilization character varying NOT NULL,
+            utilization character varying NOT NULL,
 
-  term character varying NOT NULL,
+            term character varying NOT NULL,
 
-  rate double precision,
+            rate double precision,
 
-  upfront double precision,
+            upfront double precision,
 
-  service character varying NOT NULL,
+            service character varying NOT NULL,
 
-  lastupdated timestamp without time zone,
+            lastupdated timestamp without time zone,
 
-  CONSTRAINT reserved_rate_plan_v3_pkey PRIMARY KEY (type, region, platform, utilization, term, service)
+            CONSTRAINT reserved_rate_plan_v3_pkey PRIMARY KEY (type, region, platform, utilization, term, service)
 
-);""")
+            );""")

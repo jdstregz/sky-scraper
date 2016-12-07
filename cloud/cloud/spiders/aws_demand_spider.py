@@ -33,20 +33,19 @@ def fix_s(var):
 class AWSDemandSpider(scrapy.Spider):
     name = "aws_demand"
 
-    conn = psycopg2.connect("dbname='testdb' user='docker' host='localhost' password='docker'")
-    cur = conn.cursor()
 
-    url = 'http://localhost:8050/render.html?url=https://aws.amazon.com/ec2/pricing/on-demand/&timeout=10&wait=0.5'
+    def __init__(self):
+        self.conn = psycopg2.connect("dbname='testdb' user='docker' host='localhost' password='docker'")
+        self.cur = self.conn.cursor()
+        self.url = 'http://localhost:8050/render.html?url=https://aws.amazon.com/ec2/pricing/on-demand/&timeout=10&wait=0.5'
+
+        self.total_entries = 3639
+        self.scrape_attempts = 0
+
 
     def start_requests(self):
-        # self.conn = psycopg2.connect("dbname=testdb user=postgres")
-        # self.cur = conn.cursor()
-
         self.make_demand_table()
-
-        yield SplashRequest(self.url, self.parse, args={'wait':0.5})
-
-        # wait(self.conn)
+        yield SplashRequest(self.url, self.parse, dont_filter=True, args={'wait':0.5})
 
 
     def parse(self, response):
@@ -58,7 +57,7 @@ class AWSDemandSpider(scrapy.Spider):
         db_timestamp = 0
 
         tables = response.xpath('//table[@class="tan-table"]')
-        sanity = 0
+        entry_count = 0
         for table in tables:
 
             db_region = table.xpath('.//caption/text()').extract_first()
@@ -78,33 +77,49 @@ class AWSDemandSpider(scrapy.Spider):
                     self.cur.execute("INSERT INTO ondemand_rate_plan_v4 (type, region, platform, rate, service) Values (%s, %s, %s, %s, %s)",
                     (db_type, db_region, db_platform, db_rate, db_service))
 
-                    sanity += 1
+                    entry_count += 1
 
-        print sanity
+        print "Attempt " + str(self.scrape_attempts)
+        print "Scraped " + str(entry_count) + " out of " + str(self.total_entries)
 
-        self.conn.commit()
-        self.cur.close()
-        self.conn.close()
+        if entry_count < self.total_entries :
+            if self.scrape_attempts < 10:
+                print "Going to attempt to scrape again..."
+                self.scrape_attempts += 1
+                self.make_demand_table()
+                yield SplashRequest(self.url, self.parse, dont_filter=True, args={'wait':0.5})
+            else:
+                print "Reached max number of scrapes. Either run again for this spider or check if something is wrong."
+                self.cur.close()
+                self.conn.close()
+        else:
+            if entry_count > self.total_entries :
+                print "Scraped more than we expected. Might want to check if anything changed on the page. Continuing..."
+            self.conn.commit()
+            self.cur.close()
+            self.conn.close()
+
+
 
 
     def make_demand_table(self):
         self.cur.execute("select * from information_schema.tables where table_name=%s;", ('ondemand_rate_plan_v4',))
         if bool(self.cur.rowcount):
             self.cur.execute("DROP TABLE ondemand_rate_plan_v4;")
-        self.cur.execute("""CREATE TABLE ondemand_rate_plan_v4 (
+            self.cur.execute("""CREATE TABLE ondemand_rate_plan_v4 (
 
-  type character varying NOT NULL,
+            type character varying NOT NULL,
 
-  region character varying NOT NULL,
+            region character varying NOT NULL,
 
-  platform character varying NOT NULL,
+            platform character varying NOT NULL,
 
-  rate double precision,
+            rate double precision,
 
-  service character varying NOT NULL,
+            service character varying NOT NULL,
 
-  lastupdated timestamp without time zone DEFAULT now(),
+            lastupdated timestamp without time zone DEFAULT now(),
 
-  CONSTRAINT ondemand_rate_plan_v4_pkey PRIMARY KEY (type, region, platform, service)
+            CONSTRAINT ondemand_rate_plan_v4_pkey PRIMARY KEY (type, region, platform, service)
 
-);""")
+            );""")
