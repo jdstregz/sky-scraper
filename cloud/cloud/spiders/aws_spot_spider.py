@@ -42,6 +42,7 @@ class AWSSpotSpider(scrapy.Spider):
         # self.conn = psycopg2.connect("dbname=testdb user=postgres")
         # self.cur = conn.cursor()
 
+        print "Running aws_spot"
         self.make_spot_table()
 
         yield SplashRequest(self.url, self.parse, args={'wait':0.5})
