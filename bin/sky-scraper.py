@@ -59,7 +59,6 @@ def main(argv):
         except subprocess.CalledProcessError as e:
             print e.output
         sys.exit(1)
-    
 
 if __name__ == "__main__":
     if sys.argv[1:]:
