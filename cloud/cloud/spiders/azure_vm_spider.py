@@ -31,9 +31,10 @@ class AzureSpider(scrapy.Spider):
   def make_vm_table(self, cur):
     cur.execute("select * from information_schema.tables where table_name=%s;",
                   ('azure_vm_pricing',))
-    if not bool(cur.rowcount):
+    if bool(cur.rowcount):
       cur.execute("DROP TABLE azure_vm_pricing;")
-      cur.execute("""CREATE TABLE azure_vm_pricing  (
+    
+    cur.execute("""CREATE TABLE azure_vm_pricing  (
                     id bigserial NOT NULL,
                     instance_type character varying(255),
                     hourly_rate real,
