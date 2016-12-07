@@ -1,56 +1,58 @@
-# sky-scraper
-For all of your cloud-based-service price scraping needs
+Sky Scraper
+===========
+## For all of your cloud-based-service price scraping needs
 
-The example_output directory shows different approaches for the scraping results
+Python and Postgresql package for gathering price distributions from popular cloud service providers. Sky Scraper can currently gather data from the following providers:
+- Google
+- Amazon Web Services
+- Microsoft Azure
 
-Dependencies:
-	- sudo pip install scrapy
-	- sudo pip install psycopg2
-	(possibly splash)
+## Dependencies
+[PostgreSQL](https://www.postgresql.org/download/): Open source database. 
+Can be dowloaded from website or using [Homebrew](brew.sh)
+```bash
+brew install postgres
+```
+[Scrapy](https://scrapy.org): Framework for extracting website data
+```bash
+pip install scrapy
+```
+[Psycopg2](http://initd.org/psycopg/): PostgreSQL adaptor for Python
+```bash
+pip install scrapy
+```
+[Scrapy-Splash](https://github.com/scrapy-plugins/scrapy-splash): Scrapy & JavaScript Integration through Splash
+```bash
+pip install scrapy-splash
+```
 
-To run a spider
+## Docker
+[Docker](https://www.docker.com) is used to containerize PostgreSQL and Splash services. 
+Simply download Docker from the website. Configuration options are available for customization in the docker-compose.yml file.
 
-	1. Go into a prototype directory (aws example)
-	2. run scrapy command with spider name:
-		scrapy crawl aws
-	3. results should appear after that (different for each prototype atm)
+## Usage
+The script file, sky-scraper.py, exists in the /cloud/bin folder.
+```bash
+# The docker instance must be running in order to properly scrape the sky
+python sky-scraper.py -d
+# To list all available spiders
+python sky-scraper.py -l 
+# To initiate a spider with name "test"
+python sky-scraper.py -n test
+# To run all available spiders
+python sky-scraper.py -a
+# To access the PostgreSQL database within docker using shortcut
+python sky-scraper.py -p
+# To kill docker instance after use 
+python sky-scraper.py -k
+```
 
-
-To run Postgres database: (this will eventually be dockerized for convenience)
-
-(on osx) - $ sudo launchctl start com.edb.launchd.postgresql-9.6
-
-To connect to postgres database:
-
-psql -U (whatever user you initialized)
-(enter password)
-
-To stop Postgres instance:
-
-(on osx) - $ sudo launchctl stop com.edb.launchd.postgresql-9.6
-
-To connect to docker psql instance:
-
-$ psql -h localhost -p 5432 -U docker
-(password is docker)
-also make sure psql (and the whole bin for postgres) is in ur path
-
-
-
-Sprint 2 completions
-
-- got the schema
-- went over dependencies and other methods of scraping
-- went over dependencies for postgres database insertion
-- started formulating a dockerized postgres container to avoid host-machine dependency
-- started implementing psycopg2 dependency for postgres database insertion 
-- successfully connected with postgres database and began testing proper insertion based on given schema
-
-To do: 
-- meet with stefan to go over details with database insertion and management
-- go over retrieval and presentation of data once inserted
-- begin learning on how to package python program into command line interface
-
-Blockers:
-- google cloud services changed their pricing pages (so scrapy has to be reformulated for that service)
-- some data does not exist for postgres schema, and so stefan will have to look over alternative model 
+## Troubleshooting
+Most issues that occur when trying to scrape the sky are with Docker and PostgreSQL
+Make sure that PostgreSQL is not running on the host machine, as it will use port 5432 which needs to be available for Docker to run the PostgreSQL container.
+```bash
+# Turning off postgresql database on Mac OSX after website download. 
+sudo launchctl stop com.edb.launchd.postgresql-9.6
+# or whatever version number
+```
+Make sure that the Docker service is on and running.
