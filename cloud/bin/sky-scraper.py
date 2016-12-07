@@ -45,6 +45,13 @@ def run_all_spiders():
     output = subprocess.check_output(('xargs', '-n', '1', 'scrapy', 'crawl'), stdin=ps.stdout)
     ps.wait()
 
+def access_database():
+    try:
+        subprocess.call(["psql", "-h", "localhost", "-p", "5432", "-U", "docker"])
+    except subprocess.CalledProcessError as e:
+        print e.output
+    sys.exit(1)
+
 def print_help():
     print "Sky-Scraper: For all of your cloud scraping needs!"
     print "usage: sky-scraper -n <spider-name>"
@@ -54,15 +61,16 @@ def print_help():
     print "     -d              start docker splash/psql instances"
     print "     -k              kill docker splash/psql instances"
     print "     -l              list all available spiders"
+    print "     -p              access psql database using docker credentials"
 
 def main(argv):
 
     spider_name = ''
 
     try:
-        opts, args = getopt.getopt(argv, "hn:adkl", ["name="])
+        opts, args = getopt.getopt(argv, "hn:padkl", ["name="])
     except getopt.GetoptError:
-        print 'sky-scraper -n <spider-name>'
+        print_help()
         sys.exit(2)
     for opt, arg in opts:
         if opt == '-h':
@@ -80,6 +88,8 @@ def main(argv):
             run_all_spiders()
         elif opt == '-l':
             print_spiders()
+        elif opt == '-p':
+            access_database()
         else:
             print_help()
             sys.exit(2)
