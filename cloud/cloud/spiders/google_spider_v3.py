@@ -17,7 +17,7 @@ class GoogleSpider(scrapy.Spider):
             'https://cloud.google.com/compute/pricing',
         ]
 
-        self.make_demand_table()
+        self.make_google_table()
 
         for url in urls:
             yield scrapy.Request(url=url, callback=self.parse)
@@ -95,7 +95,7 @@ class GoogleSpider(scrapy.Spider):
         self.cur.close()
         self.conn.close()
 
-    def make_demand_table(self):
+    def make_google_table(self):
         self.cur.execute("select * from information_schema.tables where table_name=%s;", ('gcp_compute_pricing',))
         if bool(self.cur.rowcount):
             self.cur.execute("DROP TABLE gcp_compute_pricing;")

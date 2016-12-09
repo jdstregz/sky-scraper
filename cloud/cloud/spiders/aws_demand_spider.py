@@ -106,7 +106,7 @@ class AWSDemandSpider(scrapy.Spider):
         self.cur.execute("select * from information_schema.tables where table_name=%s;", ('ondemand_rate_plan_v4',))
         if bool(self.cur.rowcount):
             self.cur.execute("DROP TABLE ondemand_rate_plan_v4;")
-            self.cur.execute("""CREATE TABLE ondemand_rate_plan_v4 (
+        self.cur.execute("""CREATE TABLE ondemand_rate_plan_v4 (
 
             type character varying NOT NULL,
 

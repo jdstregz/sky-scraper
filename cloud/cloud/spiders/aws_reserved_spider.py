@@ -122,7 +122,7 @@ class AWSReservedSpider(scrapy.Spider):
         self.cur.execute("select * from information_schema.tables where table_name=%s;", ('reserved_rate_plan_v3',))
         if bool(self.cur.rowcount):
             self.cur.execute("DROP TABLE reserved_rate_plan_v3;")
-            self.cur.execute("""CREATE TABLE reserved_rate_plan_v3 (
+        self.cur.execute("""CREATE TABLE reserved_rate_plan_v3 (
 
             type character varying NOT NULL,
 

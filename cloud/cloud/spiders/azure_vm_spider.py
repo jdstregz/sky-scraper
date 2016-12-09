@@ -5,21 +5,29 @@ import psycopg2
 
 class AzureSpider(scrapy.Spider):
   name = "azureVM"
-  baseURL = 'https://azure.microsoft.com/en-us/pricing/details/virtual-machines/'
-  start_urls = [
-    baseURL+'linux/',
-    baseURL+'red-hat/',
-    baseURL+'r-server/',
-    baseURL+'sles/',
-    baseURL+'windows/',
-    baseURL+'biztalk-enterprise/', 
-    baseURL+'biztalk-standard/',
-    baseURL+'oracle-java/',
-    baseURL+'sharepoint/',
-    baseURL+'sql-server-enterprise/',
-    baseURL+'sql-server-standard/',
-    baseURL+'sql-server-web/'
-  ]
+
+
+  def start_requests(self):
+      self.makeTables();
+      baseURL = 'https://azure.microsoft.com/en-us/pricing/details/virtual-machines/'
+      urls = [
+          baseURL+'linux/',
+          baseURL+'red-hat/',
+          baseURL+'r-server/',
+          baseURL+'sles/',
+          baseURL+'windows/',
+          baseURL+'biztalk-enterprise/',
+          baseURL+'biztalk-standard/',
+          baseURL+'oracle-java/',
+          baseURL+'sharepoint/',
+          baseURL+'sql-server-enterprise/',
+          baseURL+'sql-server-standard/',
+          baseURL+'sql-server-web/'
+      ]
+      for url in urls:
+          yield scrapy.Request(url=url, callback=self.parse)
+
+
   def makeTables(self):
     conn = psycopg2.connect("dbname='testdb' user='docker' host='localhost' password='docker'")
     cur = conn.cursor()
@@ -33,7 +41,7 @@ class AzureSpider(scrapy.Spider):
                   ('azure_vm_pricing',))
     if bool(cur.rowcount):
       cur.execute("DROP TABLE azure_vm_pricing;")
-    
+
     cur.execute("""CREATE TABLE azure_vm_pricing  (
                     id bigserial NOT NULL,
                     instance_type character varying(255),
@@ -43,13 +51,13 @@ class AzureSpider(scrapy.Spider):
                     CONSTRAINT azure_vm_pricing_pkey PRIMARY KEY (id)
                     );"""
       )
-  
+
   def parse(self, response):
     mainSelector = '//section[@class="section section-size3"]'
 
     # Select only the relevant tables and extract pricing data
     instances = []
-    self.makeTables()
+    # self.makeTables()
 
     conn = psycopg2.connect("dbname='testdb' user='docker' host='localhost' password='docker'")
     cur = conn.cursor()

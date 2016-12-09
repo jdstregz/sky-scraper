@@ -47,7 +47,7 @@ def run_all_spiders():
 
 def access_database():
     try:
-        subprocess.call(["psql", "-h", "localhost", "-p", "5432", "-U", "docker"])
+        subprocess.call(["psql", "-h", "localhost", "-p", "5432", "-U", "docker", "testdb"])
     except subprocess.CalledProcessError as e:
         print e.output
     sys.exit(1)
@@ -123,5 +123,3 @@ if __name__ == "__main__":
         main(sys.argv[1:])
     else:
         print_help()
-
-
