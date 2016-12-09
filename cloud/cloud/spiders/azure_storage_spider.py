@@ -8,7 +8,7 @@ class AzureSpider(scrapy.Spider):
   try:
     conn = psycopg2.connect("dbname='testdb' user='docker' host='localhost', password='docker'")
   except:
-    print "Unable to connect to database..."
+    print("Unable to connect to database...")
 
   cur = conn.cursor()
 
@@ -56,7 +56,7 @@ class AzureSpider(scrapy.Spider):
         pricing_dict = ast.literal_eval(pricing)['regional']
         for region in pricing_dict:
           rate = pricing_dict[region]
-          cur.execute("INSERT INTO azure_storage_pricing (capacity_limit, cost_per_gb, region, storage_type, redundancy_type) Values (%s, %s, %s, %s)", (capLims[i], rate, region, stoType, redTypes[j]))
+          cur.execute("INSERT INTO azure_storage_pricing (capacity_limit, cost_per_gb, region, storage_type, redundancy_type) Values (%s, %s, %s, %s, %s)", (capLims[i], rate, region, stoType, redTypes[j]))
 
     conn.commit()
     cur.close()
